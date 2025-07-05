@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <a href="http://validator.w3.org/feed/check.cgi?url="><img src="valid-opml.gif" alt="[Valid OPML]" title="Validate my OPML feed" /></a>
+  <head>
+    <title>Hafta Episodes</title>
+  </head>
+  <body>
+    <outline text="Hafta 544 : India’s lost tourism potential, and floods in Himachal Pradesh and Uttarakhand" type="audio" xmlUrl="https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6868c1f43b5dc9fc2237ce73.mp3"/>
+    <outline text="Hafta 543 : 50 years of Emergency, voter additions in Maharashtra, Karnataka’s new bills" type="audio" xmlUrl="https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/685f92bc653df36e7b1d4807.mp3"/>
+    <outline text="Hafta 541: Air India crash, Manipur violence, covering crime stories " type="audio" xmlUrl="https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/684d2017b903c43b04184f2c.mp3"/>
+  </body>
+</opml>

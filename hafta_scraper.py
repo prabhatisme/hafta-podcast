@@ -45,35 +45,37 @@ class HaftaScraper:
             json.dump(self.data, f, indent=2)
         
     def scrape_links_from_html(self, html_file=None):
-        """Extract Hafta article links from HTML file."""
+        """Extract Hafta article links from HTML file, only add new if latest differs from last added."""
         if not html_file:
             print("No HTML file specified. Please provide a file path.")
             return []
-            
         print(f"Scraping Hafta links from {html_file}...")
-        
         try:
             with open(html_file, 'r', encoding='utf-8') as f:
                 html = f.read()
         except FileNotFoundError:
             print(f"HTML file '{html_file}' not found.")
             return []
-        
         soup = BeautifulSoup(html, 'lxml')
-        pattern = re.compile(r'^click to read Hafta \d+:')
+        pattern = re.compile(r'^click to read Hafta \\d+:')
         hafta_links = []
-        
         for a in soup.find_all('a', attrs={'aria-label': pattern}):
             href = a.get('href')
             if href:
                 hafta_links.append(href)
-        
-        # Update data structure
-        self.data['links'] = hafta_links
-        self.save_data()
-        
-        print(f"Extracted {len(hafta_links)} links")
-        return hafta_links
+        # Only add the latest link if it's new
+        if hafta_links:
+            latest_link = hafta_links[0]
+            last_added_link = self.data['links'][0] if self.data['links'] else None
+            if latest_link != last_added_link:
+                self.data['links'].insert(0, latest_link)
+                print(f"Added new link: {latest_link}")
+                self.save_data()
+            else:
+                print("No new link found.")
+        else:
+            print("No links found in HTML.")
+        return self.data['links']
     
     def extract_episode_ids(self, use_brave=True):
         """Extract episode IDs using Playwright."""
@@ -147,38 +149,29 @@ class HaftaScraper:
         return new_episode_ids
     
     def fetch_episodes(self):
-        """Fetch episode data for new episode IDs."""
+        """Fetch episode data for new episode IDs. Returns True if new episodes were fetched."""
         print("Fetching episode data...")
-        
-        # Get episode IDs that need fetching
         episode_ids = {}
         for hafta_num, episode_data in self.data['episodes'].items():
             if 'raw_data' not in episode_data:
                 episode_ids[hafta_num] = episode_data.get('episode_id')
-        
         if not episode_ids:
             print("No new episodes to fetch.")
-            return
-        
+            return False
         new_episodes = 0
         failures = []
-        
         for hafta_num, episode_id in episode_ids.items():
             if not episode_id:
                 print(f"No episode_id for Hafta {hafta_num}")
                 failures.append(hafta_num)
                 continue
-            
             api_url = f"{API_BASE}/{episode_id}"
             try:
                 response = requests.get(api_url)
                 if response.status_code == 200:
                     episode_json = response.json()
-                    
-                    # Update episode data
                     if hafta_num not in self.data['episodes']:
                         self.data['episodes'][hafta_num] = {}
-                    
                     self.data['episodes'][hafta_num].update({
                         'episode_id': episode_id,
                         'raw_data': episode_json,
@@ -189,7 +182,6 @@ class HaftaScraper:
                         'duration': episode_json.get('shows', {}).get('duration'),
                         'cover': episode_json.get('shows', {}).get('cover'),
                     })
-                    
                     print(f"Fetched and added Hafta {hafta_num}")
                     new_episodes += 1
                 else:
@@ -198,9 +190,9 @@ class HaftaScraper:
             except Exception as e:
                 print(f"Error fetching {api_url}: {e}")
                 failures.append(hafta_num)
-        
         self.save_data()
         print(f"\nSummary: {new_episodes} new episodes fetched, {len(failures)} failed")
+        return new_episodes > 0
     
     def generate_rss_feed(self):
         """Generate RSS feed from episode data."""
@@ -229,8 +221,11 @@ class HaftaScraper:
         episodes = [ep for ep in self.data['episodes'].values() if 'title' in ep]
         
         if not episodes:
-            print("No episodes with data found. Run fetch-episodes first.")
+            print("No episodes with data found. Skipping RSS feed generation.")
             return
+        
+        # Reference image URL from reference.xml
+        reference_image_url = "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1751695551059-62a98700-bdf2-4588-911c-4f8f4d930ac3.jpeg"
         
         # Create RSS root element
         rss = ET.Element('rss')
@@ -252,6 +247,15 @@ class HaftaScraper:
         link = ET.SubElement(channel, 'link')
         link.text = 'https://www.newslaundry.com/podcast/nl-hafta'
         
+        # Channel image (reference)
+        image = ET.SubElement(channel, 'image')
+        image_url = ET.SubElement(image, 'url')
+        image_url.text = reference_image_url
+        image_title = ET.SubElement(image, 'title')
+        image_title.text = 'Hafta Podcast'
+        image_link = ET.SubElement(image, 'link')
+        image_link.text = 'https://www.newslaundry.com/podcast/nl-hafta'
+        
         language = ET.SubElement(channel, 'language')
         language.text = 'en-us'
         
@@ -267,6 +271,10 @@ class HaftaScraper:
         
         itunes_type = ET.SubElement(channel, 'itunes:type')
         itunes_type.text = 'episodic'
+        
+        # iTunes channel image
+        itunes_image = ET.SubElement(channel, 'itunes:image')
+        itunes_image.set('href', reference_image_url)
         
         # Add episodes
         for episode in episodes:
@@ -310,9 +318,10 @@ class HaftaScraper:
                 itunes_duration = ET.SubElement(item, 'itunes:duration')
                 itunes_duration.text = format_duration(episode['duration'])
             
-            if episode.get('cover'):
-                itunes_image = ET.SubElement(item, 'itunes:image')
-                itunes_image.set('href', episode['cover'])
+            # Episode image: use episode cover if present, else reference image
+            episode_image_url = episode.get('cover') or reference_image_url
+            itunes_image = ET.SubElement(item, 'itunes:image')
+            itunes_image.set('href', episode_image_url)
             
             # Content encoded (full description with HTML)
             if episode.get('summary'):
@@ -331,20 +340,17 @@ class HaftaScraper:
         print(f"RSS feed created with {len(episodes)} episodes: hafta_feed.xml")
     
     def run_full_pipeline(self):
-        """Run the complete scraping pipeline."""
+        """Run the complete scraping pipeline. Only generate RSS if new episodes were fetched."""
         print("Running full Hafta scraping pipeline...")
-        
-        # Step 1: Extract episode IDs (if links exist)
         new_ids = self.extract_episode_ids()
-        
-        # Step 2: Fetch episodes
+        new_episodes_fetched = False
         if new_ids:
-            self.fetch_episodes()
-        
-        # Step 3: Generate RSS feed
-        self.generate_rss_feed()
-        
-        print("Pipeline completed successfully!")
+            new_episodes_fetched = self.fetch_episodes()
+        if new_episodes_fetched:
+            self.generate_rss_feed()
+        else:
+            print("No new episodes fetched. RSS feed not generated.")
+        print("Pipeline completed!")
     
 
 

@@ -1,6 +1,6 @@
 # Hafta Podcast Scraper
 
-A Python tool for scraping Newslaundry Hafta podcast episodes, extracting metadata, and managing episode data.
+A Python tool for scraping NL Hafta podcast episodes, extracting metadata, and managing episode data.
 
 ## Features
 

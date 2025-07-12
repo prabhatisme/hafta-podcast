@@ -12,18 +12,16 @@ import requests
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 from datetime import datetime
+from bs4.element import Tag
 
 # Configuration
-BRAVE_PATH = "/Applications/Brave Browser Beta.app/Contents/MacOS/Brave Browser Beta"
 SHOW_ID = "5ec3d9497cef7479d2ef4798"
 API_BASE = f"https://www.newslaundry.com/acast-rest/shows/{SHOW_ID}/episodes"
 
 class HaftaScraper:
     def __init__(self):
         self.data_file = 'hafta_data.json'
-        self.links_file = 'hafta_links.json'
-        
-        # Initialize data structure
+        # self.links_file = 'hafta_links.json'  # Remove unused attribute
         self.data = self.load_data()
         
     def load_data(self):
@@ -44,156 +42,6 @@ class HaftaScraper:
         with open(self.data_file, 'w', encoding='utf-8') as f:
             json.dump(self.data, f, indent=2)
         
-    def scrape_links_from_html(self, html_file=None):
-        """Extract Hafta article links from HTML file, only add new if latest differs from last added."""
-        if not html_file:
-            print("No HTML file specified. Please provide a file path.")
-            return []
-        print(f"Scraping Hafta links from {html_file}...")
-        try:
-            with open(html_file, 'r', encoding='utf-8') as f:
-                html = f.read()
-        except FileNotFoundError:
-            print(f"HTML file '{html_file}' not found.")
-            return []
-        soup = BeautifulSoup(html, 'lxml')
-        pattern = re.compile(r'^click to read Hafta \\d+:')
-        hafta_links = []
-        for a in soup.find_all('a', attrs={'aria-label': pattern}):
-            href = a.get('href')
-            if href:
-                hafta_links.append(href)
-        # Only add the latest link if it's new
-        if hafta_links:
-            latest_link = hafta_links[0]
-            last_added_link = self.data['links'][0] if self.data['links'] else None
-            if latest_link != last_added_link:
-                self.data['links'].insert(0, latest_link)
-                print(f"Added new link: {latest_link}")
-                self.save_data()
-            else:
-                print("No new link found.")
-        else:
-            print("No links found in HTML.")
-        return self.data['links']
-    
-    def extract_episode_ids(self, use_brave=True):
-        """Extract episode IDs using Playwright."""
-        print("Extracting episode IDs using Playwright...")
-        
-        hafta_links = self.data.get('links', [])
-        if not hafta_links:
-            print("No links found. Run scrape-links first.")
-            return {}
-        
-        hafta_num_re = re.compile(r'hafta-(\d+)')
-        api_re = re.compile(r'/acast-rest/shows/5ec3d9497cef7479d2ef4798/episodes/([a-z0-9]+)')
-        
-        new_episode_ids = {}
-        failures = []
-        
-        with sync_playwright() as p:
-            if use_brave and os.path.exists(BRAVE_PATH):
-                browser = p.chromium.launch(executable_path=BRAVE_PATH, headless=True)
-            else:
-                browser = p.chromium.launch(headless=True)
-            
-            context = browser.new_context()
-            
-            for link in hafta_links:
-                match = hafta_num_re.search(link)
-                if not match:
-                    print(f"Could not extract Hafta number from: {link}")
-                    failures.append(link)
-                    continue
-                
-                hafta_num = match.group(1)
-                
-                # Skip if already processed
-                if hafta_num in self.data['episodes']:
-                    print(f"Hafta {hafta_num} already processed. Skipping.")
-                    continue
-                
-                episode_id_found = [None]
-                page = context.new_page()
-                
-                try:
-                    def handle_request(request):
-                        url = request.url
-                        api_match = api_re.search(url)
-                        if api_match:
-                            episode_id_found[0] = api_match.group(1)
-                    
-                    page.on('request', handle_request)
-                    page.goto(link, timeout=60000)
-                    page.wait_for_timeout(5000)
-                except Exception as e:
-                    print(f"Error loading {link}: {e}")
-                    failures.append(link)
-                
-                page.close()
-                
-                if episode_id_found[0]:
-                    new_episode_ids[hafta_num] = episode_id_found[0]
-                    print(f"Hafta {hafta_num}: {episode_id_found[0]}")
-                else:
-                    print(f"No episode_id found for Hafta {hafta_num}")
-                    failures.append(link)
-            
-            browser.close()
-        
-        print(f"Found {len(new_episode_ids)} new episode IDs")
-        if failures:
-            print(f"Failed to process {len(failures)} links")
-        
-        return new_episode_ids
-    
-    def fetch_episodes(self):
-        """Fetch episode data for new episode IDs. Returns True if new episodes were fetched."""
-        print("Fetching episode data...")
-        episode_ids = {}
-        for hafta_num, episode_data in self.data['episodes'].items():
-            if 'raw_data' not in episode_data:
-                episode_ids[hafta_num] = episode_data.get('episode_id')
-        if not episode_ids:
-            print("No new episodes to fetch.")
-            return False
-        new_episodes = 0
-        failures = []
-        for hafta_num, episode_id in episode_ids.items():
-            if not episode_id:
-                print(f"No episode_id for Hafta {hafta_num}")
-                failures.append(hafta_num)
-                continue
-            api_url = f"{API_BASE}/{episode_id}"
-            try:
-                response = requests.get(api_url)
-                if response.status_code == 200:
-                    episode_json = response.json()
-                    if hafta_num not in self.data['episodes']:
-                        self.data['episodes'][hafta_num] = {}
-                    self.data['episodes'][hafta_num].update({
-                        'episode_id': episode_id,
-                        'raw_data': episode_json,
-                        'title': episode_json.get('shows', {}).get('title'),
-                        'publish_date': episode_json.get('shows', {}).get('publishDate'),
-                        'summary': episode_json.get('shows', {}).get('summary'),
-                        'stream_url': episode_json.get('shows', {}).get('streamUrl'),
-                        'duration': episode_json.get('shows', {}).get('duration'),
-                        'cover': episode_json.get('shows', {}).get('cover'),
-                    })
-                    print(f"Fetched and added Hafta {hafta_num}")
-                    new_episodes += 1
-                else:
-                    print(f"Failed to fetch JSON for Hafta {hafta_num}: {response.status_code}")
-                    failures.append(hafta_num)
-            except Exception as e:
-                print(f"Error fetching {api_url}: {e}")
-                failures.append(hafta_num)
-        self.save_data()
-        print(f"\nSummary: {new_episodes} new episodes fetched, {len(failures)} failed")
-        return new_episodes > 0
-    
     def generate_rss_feed(self):
         """Generate RSS feed from episode data."""
         print("Generating RSS feed...")
@@ -217,8 +65,11 @@ class HaftaScraper:
             secs = int(seconds % 60)
             return f"{hours:02d}:{minutes:02d}:{secs:02d}"
         
-        # Get episodes with data
-        episodes = [ep for ep in self.data['episodes'].values() if 'title' in ep]
+        # Get episodes with data, sorted by episode number descending
+        episodes = [
+            (int(num), ep) for num, ep in self.data['episodes'].items() if 'title' in ep
+        ]
+        episodes = sorted(episodes, key=lambda x: -x[0])
         
         if not episodes:
             print("No episodes with data found. Skipping RSS feed generation.")
@@ -277,7 +128,7 @@ class HaftaScraper:
         itunes_image.set('href', reference_image_url)
         
         # Add episodes
-        for episode in episodes:
+        for _, episode in episodes:
             item = ET.SubElement(channel, 'item')
             
             # Episode title
@@ -339,42 +190,130 @@ class HaftaScraper:
         
         print(f"RSS feed created with {len(episodes)} episodes: hafta_feed.xml")
     
-    def run_full_pipeline(self):
-        """Run the complete scraping pipeline. Only generate RSS if new episodes were fetched."""
+    def run_full_pipeline(self, min_hafta=541):
         print("Running full Hafta scraping pipeline...")
-        new_ids = self.extract_episode_ids()
-        new_episodes_fetched = False
-        if new_ids:
-            new_episodes_fetched = self.fetch_episodes()
-        if new_episodes_fetched:
+        hafta_url = "https://www.newslaundry.com/podcast/nl-hafta"
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            context = browser.new_context()
+            page = context.new_page()
+            page.goto(hafta_url, timeout=60000)
+            # Wait for at least one article to appear
+            try:
+                page.wait_for_selector('article', timeout=15000)
+            except Exception:
+                print("No <article> elements found after waiting.")
+                browser.close()
+                return
+            html = page.content()
+            soup = BeautifulSoup(html, 'lxml')
+            from bs4.element import Tag
+            new_links = []
+            hafta_num_re = re.compile(r"hafta-(\d+)")
+            for article in soup.find_all('article'):
+                if not isinstance(article, Tag):
+                    continue
+                a = None
+                for child in article.descendants:
+                    if isinstance(child, Tag) and child.name == 'a' and child.has_attr('href'):
+                        a = child
+                        break
+                if not a or not isinstance(a, Tag):
+                    continue
+                href = a['href']
+                if not isinstance(href, str):
+                    continue
+                match = hafta_num_re.search(href)
+                if match:
+                    hafta_num = int(match.group(1))
+                    if hafta_num >= min_hafta:
+                        full_url = href
+                        if not full_url.startswith('http'):
+                            full_url = 'https://www.newslaundry.com' + full_url
+                        new_links.append((hafta_num, full_url))
+            # Sort by hafta number descending (latest first)
+            new_links = sorted(set(new_links), key=lambda x: -x[0])
+            # Compare with existing links
+            last_links = self.data.get('links', [])
+            if not new_links:
+                print("No Hafta links found on page.")
+                browser.close()
+                return
+            latest_scraped = last_links[0] if last_links else None
+            # Find the first new link (if any)
+            new_episode_links = []
+            for num, url in new_links:
+                if url == latest_scraped:
+                    break
+                new_episode_links.append((num, url))
+            if not new_episode_links:
+                print("No new episodes found. Exiting.")
+                browser.close()
+                return
+            print(f"Found {len(new_episode_links)} new episode(s): {[num for num, _ in new_episode_links]}")
+            # Prepend new links to links list
+            self.data['links'] = [url for _, url in new_episode_links] + last_links
+            # For each new episode, visit the link and listen for the API request
+            hafta_num_re = re.compile(r'hafta-(\d+)')
+            api_re = re.compile(r'/acast-rest/shows/5ec3d9497cef7479d2ef4798/episodes/([a-z0-9]+)')
+            for hafta_num, link in new_episode_links:
+                print(f"Processing Hafta {hafta_num} at {link}")
+                episode_id_found = [None]
+                api_json = [None]
+                episode_page = context.new_page()
+                def handle_request(request):
+                    url = request.url
+                    api_match = api_re.search(url)
+                    if api_match and not episode_id_found[0]:
+                        episode_id_found[0] = api_match.group(1)
+                        # Fetch the API response directly
+                        try:
+                            resp = requests.get(url)
+                            if resp.status_code == 200:
+                                api_json[0] = resp.json()
+                        except Exception as e:
+                            print(f"Error fetching API JSON: {e}")
+                episode_page.on('request', handle_request)
+                try:
+                    episode_page.goto(link, timeout=60000)
+                    episode_page.wait_for_timeout(5000)
+                except Exception as e:
+                    print(f"Error loading {link}: {e}")
+                episode_page.close()
+                if episode_id_found[0] and api_json[0]:
+                    # Ensure episodes dict exists
+                    if 'episodes' not in self.data or not isinstance(self.data['episodes'], dict):
+                        self.data['episodes'] = {}
+                    episode_data = {
+                        'episode_id': str(episode_id_found[0]) if episode_id_found[0] is not None else '',
+                        'raw_data': api_json[0],
+                        'title': api_json[0].get('shows', {}).get('title', ''),
+                        'publish_date': api_json[0].get('shows', {}).get('publishDate', ''),
+                        'summary': api_json[0].get('shows', {}).get('summary', ''),
+                        'stream_url': api_json[0].get('shows', {}).get('streamUrl', ''),
+                        'duration': api_json[0].get('shows', {}).get('duration', 0),
+                        'cover': api_json[0].get('shows', {}).get('cover', ''),
+                    }
+                    self.data['episodes'][str(hafta_num)] = episode_data  # type: ignore[assignment]
+                    print(f"Fetched and added Hafta {hafta_num}")
+                else:
+                    print(f"Failed to fetch episode data for Hafta {hafta_num}")
+            browser.close()
+            self.save_data()
             self.generate_rss_feed()
-        else:
-            print("No new episodes fetched. RSS feed not generated.")
-        print("Pipeline completed!")
+            print("Pipeline completed!")
     
 
 
 def main():
     parser = argparse.ArgumentParser(description='Hafta Podcast Scraper')
-    parser.add_argument('--action', choices=['scrape-links', 'extract-ids', 'fetch-episodes', 'generate-rss', 'full'], 
+    parser.add_argument('--action', choices=['generate-rss', 'full'], 
                        default='full', help='Action to perform')
-    parser.add_argument('--html-file', help='HTML file to scrape links from (required for scrape-links action)')
-    parser.add_argument('--no-brave', action='store_true', help='Use default browser instead of Brave')
-    
     args = parser.parse_args()
     
     scraper = HaftaScraper()
     
-    if args.action == 'scrape-links':
-        if not args.html_file:
-            print("Error: --html-file is required for scrape-links action")
-            return
-        scraper.scrape_links_from_html(args.html_file)
-    elif args.action == 'extract-ids':
-        scraper.extract_episode_ids(use_brave=not args.no_brave)
-    elif args.action == 'fetch-episodes':
-        scraper.fetch_episodes()
-    elif args.action == 'generate-rss':
+    if args.action == 'generate-rss':
         scraper.generate_rss_feed()
     elif args.action == 'full':
         scraper.run_full_pipeline()

@@ -1,23 +1,21 @@
 # Hafta Podcast Scraper
 
-A Python tool for scraping NL Hafta podcast episodes, extracting metadata, and managing episode data.
+A Python tool for scraping NL Hafta podcast episodes, extracting metadata, and generating an RSS feed.
 
 ## Features
 
-- **Link Scraping**: Extract Hafta article links from HTML files
-- **Episode ID Extraction**: Use Playwright to extract episode IDs from article pages
-- **Episode Data Fetching**: Fetch complete episode metadata from Newslaundry API
-- **Audio Metadata Extraction**: Extract audio URLs and metadata for podcast players
-- **RSS Feed Generation**: Generate podcast RSS feeds compatible with iTunes and other podcast apps
-- **Incremental Updates**: Only fetch new episodes, skip already processed ones
-- **Flexible Browser Support**: Works with Brave Browser or default Playwright browsers
+- **Automated Scraping**: Uses Playwright to visit the live Hafta podcast page and detect new episodes automatically
+- **Episode Data Extraction**: Fetches complete episode metadata from Newslaundry's API
+- **RSS Feed Generation**: Generates a podcast RSS feed compatible with iTunes and other podcast apps
+- **Incremental Updates**: Only fetches and processes new episodes (>= 541), skipping already processed ones
+- **Fully Automated**: No manual HTML downloads or intermediate steps required
 
 ## Installation
 
 1. **Clone the repository**:
    ```bash
    git clone <repository-url>
-   cd newslaundry
+   cd hafta-podcast
    ```
 
 2. **Create virtual environment**:
@@ -31,9 +29,9 @@ A Python tool for scraping NL Hafta podcast episodes, extracting metadata, and m
    pip install -r requirements.txt
    ```
 
-4. **Install Playwright browsers**:
+4. **Install Playwright browser**:
    ```bash
-   playwright install
+   python -m playwright install chromium --only-shell
    ```
 
 ## Usage
@@ -43,126 +41,70 @@ A Python tool for scraping NL Hafta podcast episodes, extracting metadata, and m
 The main script `hafta_scraper.py` provides a unified interface for all operations:
 
 ```bash
-# Run complete pipeline (recommended)
+# Run complete pipeline (scrape new episodes and generate RSS)
 python hafta_scraper.py
+# or
+python hafta_scraper.py --action full
 
-# Run specific actions
-python hafta_scraper.py --action scrape-links
-python hafta_scraper.py --action extract-ids
-python hafta_scraper.py --action fetch-episodes
+# Only regenerate RSS feed from existing data
 python hafta_scraper.py --action generate-rss
-
-# Use default browser instead of Brave
-python hafta_scraper.py --no-brave
-
-# Scrape links from HTML file
-python hafta_scraper.py --action scrape-links --html-file my_html_file.html
 ```
 
 ### Command Line Options
 
-- `--action`: Choose operation (`scrape-links`, `extract-ids`, `fetch-episodes`, `generate-rss`, `full`)
-- `--html-file`: Specify HTML file for link scraping (required for `scrape-links` action)
-- `--no-brave`: Use default Playwright browser instead of Brave
+- `--action`: Choose operation (`generate-rss`, `full`)
 
 ## File Structure
 
-### Core Files
-
-- `hafta_scraper.py` - Main consolidated script with all functionality
+- `hafta_scraper.py` - Main script
 - `requirements.txt` - Python dependencies
+- `hafta_data.json` - Main data file (auto-generated)
+- `hafta_feed.xml` - RSS feed (auto-generated)
 
-### Generated Files
+## GitHub Actions Automation
 
-- `hafta_data.json` - **Main consolidated data file** containing all episode data, links, and metadata
-- `hafta_feed.xml` - RSS feed for podcast applications
-
-
-
-### Removed Files
-
-The following files have been removed and functionality consolidated into `hafta_scraper.py`:
-- `scrape_hafta_links.py` - Old link scraping script
-- `extract_episode_ids_playwright.py` - Old episode ID extraction
-- `fetch_all_hafta_json.py` - Old episode fetching
-- `extract_audio_metadata.py` - Old metadata extraction
-- `fetch_hafta_json.py` - Old single episode fetching
-- `json_to_rss.py` - Old RSS generation (now integrated)
-
-## Workflow
-
-1. **Run Pipeline**: Execute `python hafta_scraper.py` to run the complete pipeline
-2. **Use Data**: Access the generated `hafta_data.json` file for your applications
-
-**Note**: If you need to scrape new links from HTML, use:
-```bash
-python hafta_scraper.py --action scrape-links --html-file your_html_file.html
-```
+This project includes a GitHub Actions workflow (`.github/workflows/hafta_scraper.yml`) that runs the scraper weekly, updates the data and RSS feed, and commits changes automatically.
 
 ## Data Structure
 
-### hafta_data.json (Main File)
-The consolidated data file contains all information in a single, efficient structure:
+### hafta_data.json
 
 ```json
 {
   "episodes": {
-    "544": {
-      "episode_id": "6868c1f43b5dc9fc2237ce73",
-      "title": "Hafta 544: Episode Title",
-      "publish_date": "2025-07-05T06:12:08.750Z",
-      "summary": "Episode description...",
-      "stream_url": "https://feeds.acast.com/.../episode.mp3",
-      "duration": 6703.6,
-      "cover": "https://assets.pippa.io/.../cover.jpeg",
-      "raw_data": { /* Complete API response */ }
-    }
+    "545": { ... },
+    "544": { ... },
+    ...
   },
-  "links": ["https://www.newslaundry.com/...", ...],
-  "last_updated": "2025-07-05T23:48:00.000Z"
+  "links": [
+    "https://www.newslaundry.com/2025/07/12/hafta-545-bihar-electoral-revision-dalai-lama-and-the-future-of-tibetan-movement",
+    ...
+  ],
+  "last_updated": "2025-07-12T18:38:36.322467"
 }
 ```
 
-## Output Files
-
 ### hafta_feed.xml
-RSS feed compatible with iTunes, Spotify, and other podcast applications. Contains:
-- Episode titles and descriptions
-- Audio file URLs
-- Publication dates
-- Duration information
-- Cover images
 
-## Configuration
-
-Edit the configuration variables in `hafta_scraper.py`:
-
-- `BRAVE_PATH`: Path to Brave Browser executable
-- `SHOW_ID`: Newslaundry show ID (usually doesn't change)
+- Standard RSS 2.0 feed with all episode metadata, sorted newest first.
 
 ## Troubleshooting
 
-### Brave Browser Not Found
-If Brave is not installed at the default path, either:
-- Update `BRAVE_PATH` in the script
-- Use `--no-brave` flag to use default browser
+- Ensure all dependencies are installed:
+  ```bash
+  pip install -r requirements.txt
+  ```
+- Ensure Playwright browser is installed:
+  ```bash
+  python -m playwright install chromium --only-shell
+  ```
+- If you encounter issues, try deleting `hafta_data.json` and re-running the full pipeline.
 
-### Missing Dependencies
-Ensure all dependencies are installed:
-```bash
-pip install -r requirements.txt
-```
+### RSS Feed Links
 
-### Network Issues
-The script includes timeouts and retry logic, but network issues may cause some episodes to fail. Check the console output for failed episodes.
+- [NL Hafta English](https://raw.githubusercontent.com/prabhatisme/hafta-podcast/refs/heads/main/hafta_feed.xml)
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
+- [NL Hafta Hindi](https://www.newslaundry.com/podcast-rss/getFeed/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZW1iZXJJZCI6InlvZ2VzaHdhckBvdXRsb29rLmNvbSIsInN1YnNjcmlwdGlvbk5hbWUiOiJHYW1lIENoYW5nZXIiLCJleHBpcnlEYXRlIjoiNjU3LjY1MDQwNTU3ODcwMzdkIiwic2hvd0lkIjoiNWVjMjQ3YmYxYWQ5Zjg0OWIxZTNjNjQwIiwiaWF0IjoxNzA0NzAyMjA0LCJleHAiOjE3NjE1MjMxOTl9.xaAhKGIvz099K7u3KGR0lzeMdrATFAAlo-jrj2dfFck)
 
 ## License
 

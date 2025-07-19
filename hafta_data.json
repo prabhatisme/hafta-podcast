@@ -42,7 +42,7 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/684d2017b903c43b04184f2c.mp3",
       "duration": 6573.14,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1749884896956-52de8abc-0f60-4a83-83fd-513e922d515e.jpeg"
-    },  
+    },
     "543": {
       "episode_id": "685f92bc653df36e7b1d4807",
       "raw_data": {
@@ -170,13 +170,57 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6871fbafc8b2c1159de10c7f.mp3",
       "duration": 7314.101333,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1752300363150-aec573c7-4e7a-4d6b-9004-620e0647c8e3.jpeg"
+    },
+    "546": {
+      "episode_id": "687b3a34a2391fe43255eddb",
+      "raw_data": {
+        "shows": {
+          "_id": "687b3a34a2391fe43255eddb",
+          "title": "Hafta 546: The performance of authority on social media, FIR against Ajit Anjum and Bihar SIR",
+          "alias": "hafta-546-the-performance-of-authority-on-social-media-fir-a",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2025-07-19T06:24:52.085Z",
+          "lastEditedDate": "2025-07-19T06:25:14.858Z",
+          "publishDate": "2025-07-19T06:24:51.600Z",
+          "subtitle": "The podcast where we discuss the news of the week.",
+          "summary": "<p>This week on Hafta, Newslaundry\u2019s Abhinandan Sekhri, Manisha Pande, Raman Kirpal, and Shardool Katyayan are joined by University of Michigan\u2019s Associate Professor Joyojeet Pal and senior journalist Radhika Ramaseshan.&nbsp;</p><p><br></p><p>The episode opens with a discussion on Joyojeet and his team\u2019s research on the persuasion strategies used by social media influencers to talk about the benefits of cow urine.</p><p><br></p><p>\u201cOne of the most interesting things we noticed was the use of scientific terminology by influencers who talk about cow urine. They say things like \u2018it has phosphorus,\u2019 or \u2018it releases dopamine.\u2019 These are not verified claims. But the point isn\u2019t whether they\u2019re true. It\u2019s about the <em>performance</em> of authority \u2014 using science-y language to sound legitimate,\u201d Joyojeet says.&nbsp;</p><p><br></p><p>Shifting to Bihar\u2019s controversial Special Intensive Revision (SIR) exercise, Radhika points out that in many places of Bihar, BLOs are signing for the missing voters.&nbsp;</p><p><br></p><p>She remarks, \u201cI don\u2019t believe this is a random or routine process. It appears to be targeted, focused on constituencies where the ruling alliance anticipates a weaker performance.\u201d</p><p>Echoing her concerns, Raman added, \u201cIt\u2019s supposed to be an intensive verification exercise, but that\u2019s clearly not what\u2019s happening in practice.\u201d</p><p>Referring to the recent FIR against journalist Ajit Anjum, Abhinandan points to a troubling trend, \u201cThe nature of FIRs launched against journalists in the country is laughable. I don\u2019t know if the police expect the citizens to take them seriously.\u201d</p><p><br></p><p>Manisha calls out the BJP\u2019s repeated and unproven claims of Bangladeshi and Rohingya voters in Bihar constituencies and says, \u201cThey create this perpetual state of insecurity and panic before elections. This seems to be one of BJP\u2019s key electoral strategies.\u201d&nbsp;</p><p><br></p><p><strong>Timecodes</strong></p><p>00:00:00 \u2013 Introductions and announcements</p><p>00:02:47 \u2013 Headlines&nbsp;</p><p>00:15:43-How influencers promote cow urine</p><p>00:47:39- Joyjeet\u2019s recommendations</p><p>00:49:021 - Bihar Special Intensive Revision</p><p>01:10:32- Letters</p><p>01:26:29- Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced and recorded by Amit Pandey, Ashish Anand and Anil Kumar.&nbsp;</em></strong></p><p><strong><em>Research assistance by Vibha Rajeev&nbsp;</em></strong></p><p><br></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/687b3a34a2391fe43255eddb.mp3",
+          "duration": 5692.229333,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1752905669521-a52fa6b6-a98c-464e-8c1e-7c6dd33ceab2.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "687b3a34a2391fe43255eddc"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "687b3a34a2391fe43255eddd"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/687b3a34a2391fe43255eddb.mp3"
+        }
+      },
+      "title": "Hafta 546: The performance of authority on social media, FIR against Ajit Anjum and Bihar SIR",
+      "publish_date": "2025-07-19T06:24:51.600Z",
+      "summary": "<p>This week on Hafta, Newslaundry\u2019s Abhinandan Sekhri, Manisha Pande, Raman Kirpal, and Shardool Katyayan are joined by University of Michigan\u2019s Associate Professor Joyojeet Pal and senior journalist Radhika Ramaseshan.&nbsp;</p><p><br></p><p>The episode opens with a discussion on Joyojeet and his team\u2019s research on the persuasion strategies used by social media influencers to talk about the benefits of cow urine.</p><p><br></p><p>\u201cOne of the most interesting things we noticed was the use of scientific terminology by influencers who talk about cow urine. They say things like \u2018it has phosphorus,\u2019 or \u2018it releases dopamine.\u2019 These are not verified claims. But the point isn\u2019t whether they\u2019re true. It\u2019s about the <em>performance</em> of authority \u2014 using science-y language to sound legitimate,\u201d Joyojeet says.&nbsp;</p><p><br></p><p>Shifting to Bihar\u2019s controversial Special Intensive Revision (SIR) exercise, Radhika points out that in many places of Bihar, BLOs are signing for the missing voters.&nbsp;</p><p><br></p><p>She remarks, \u201cI don\u2019t believe this is a random or routine process. It appears to be targeted, focused on constituencies where the ruling alliance anticipates a weaker performance.\u201d</p><p>Echoing her concerns, Raman added, \u201cIt\u2019s supposed to be an intensive verification exercise, but that\u2019s clearly not what\u2019s happening in practice.\u201d</p><p>Referring to the recent FIR against journalist Ajit Anjum, Abhinandan points to a troubling trend, \u201cThe nature of FIRs launched against journalists in the country is laughable. I don\u2019t know if the police expect the citizens to take them seriously.\u201d</p><p><br></p><p>Manisha calls out the BJP\u2019s repeated and unproven claims of Bangladeshi and Rohingya voters in Bihar constituencies and says, \u201cThey create this perpetual state of insecurity and panic before elections. This seems to be one of BJP\u2019s key electoral strategies.\u201d&nbsp;</p><p><br></p><p><strong>Timecodes</strong></p><p>00:00:00 \u2013 Introductions and announcements</p><p>00:02:47 \u2013 Headlines&nbsp;</p><p>00:15:43-How influencers promote cow urine</p><p>00:47:39- Joyjeet\u2019s recommendations</p><p>00:49:021 - Bihar Special Intensive Revision</p><p>01:10:32- Letters</p><p>01:26:29- Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced and recorded by Amit Pandey, Ashish Anand and Anil Kumar.&nbsp;</em></strong></p><p><strong><em>Research assistance by Vibha Rajeev&nbsp;</em></strong></p><p><br></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/687b3a34a2391fe43255eddb.mp3",
+      "duration": 5692.229333,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1752905669521-a52fa6b6-a98c-464e-8c1e-7c6dd33ceab2.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2025/07/19/hafta-546-the-performance-of-authority-on-social-media-fir-against-ajit-anjum-and-bihar-sir",
     "https://www.newslaundry.com/2025/07/12/hafta-545-bihar-electoral-revision-dalai-lama-and-the-future-of-tibetan-movement",
     "https://www.newslaundry.com/2025/07/05/hafta-544-indias-lost-tourism-potential-and-floods-in-himachal-pradesh-and-uttarakhand",
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2025-07-12T18:38:36.322467"
+  "last_updated": "2025-07-19T11:43:07.690774"
 }

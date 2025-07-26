@@ -213,14 +213,58 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/687b3a34a2391fe43255eddb.mp3",
       "duration": 5692.229333,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1752905669521-a52fa6b6-a98c-464e-8c1e-7c6dd33ceab2.jpeg"
+    },
+    "547": {
+      "episode_id": "68846febf6d4262b07ad9bbb",
+      "raw_data": {
+        "shows": {
+          "_id": "68846febf6d4262b07ad9bbb",
+          "title": "Hafta 547 :\u2018Paranoia\u2019 in Modi govt, FTA myth, and an old police playbook",
+          "alias": "hafta-547-paranoia-in-modi-govt-fta-myth-and-an-old-police-p",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2025-07-26T06:04:27.021Z",
+          "lastEditedDate": "2025-07-26T06:48:44.107Z",
+          "publishDate": "2025-07-26T06:04:26.238Z",
+          "subtitle": "The podcast where we discuss the news of the week. ",
+          "summary": "<p><br></p><p><br></p><p>This week on Hafta, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Anand Vardhan, Raman Kirpal, and Jayashree Arunachalam are joined by MK Venu, Founding Editor of <em>The Wire</em>, and award-winning investigative journalist and author Josy Joseph.</p><p><br></p><p>The panel begins with a discussion on the recently signed \u201chistoric\u201d India-UK free trade agreement. Venu argues that the BJP\u2019s intention behind this FTA is to have a \u201cfresh start\u201d in global trade negotiations: \u201cIn the last 11 years of the Modi government, the narrative they built, led by Piyush Goyal, is that all the FTAs signed by the UPA government were bad for India, that they were being used as a conduit for Chinese goods.\u201d</p><p><br></p><p>The conversation then shifts to Jagdeep Dhankhar\u2019s resignation as vice president. Abhinandan asks who will oversee the Rajya Sabha \u201cwith the parliament session already happening, and all sorts of noise and protests\u201d.</p><p><br></p><p>Explaining the legal framework, Anand says, \u201cArticle 67 says that till the next vice president is appointed, he will have to continue. But he has made it clear that he will not be attending the House.\u201d&nbsp;</p><p><br></p><p>Venu draws a pattern of abrupt and unexplained resignations among the Indian political and bureaucratic elite: \u201cThere is a striking parallel in the manner in which Dhankhar, CBI chief (former Director) Alok Verma, and (former Election Commissioner) Arun Goel abruptly left. What is it that drives leadership in the Modi-Shah regime? There\u2019s intrigue, there\u2019s cloak and dagger, there\u2019s paranoia. Paranoia accompanied by complete power. It\u2019s a paradox.\u201d</p><p><br></p><p>Commenting on media speculation around Dhankhar\u2019s resignation, Anand says, \u201cJournalists and public and social media commentators cannot say the simple thing that \u2018we don\u2019t know\u2019.\u201d Jayashree adds, \u201cIt doesn\u2019t matter if there is any value to these theories. What matters is that you have a story,&nbsp;a source, the source has said something outlandish, and that is your headline.\u201d</p><p><br></p><p>The panel then shifts to the Bombay High Court\u2019s recent verdict on the 2006 Mumbai blasts. Raman explains: \u201cIt\u2019s a 576-page judgement talking about how the police have manufactured evidence in very great detail\u2026This particular judgement has put a huge question mark on this state-specific law MCOCA.\u201d</p><p><br></p><p>Drawing from his decades of experience reporting on intelligence and security, Josy says: \u201cOne of the things that has always struck me was the impunity with which our police and investigative agencies are able to do pure malicious things and get away because there is no prosecution for malpractices.\u201d</p><p><br></p><p>Josy also sheds light on the complexities of police functioning and the political pressures that often influence investigations. \u201cI think in India today, the most difficult job is not being a journalist or not being an NGO worker. I think the most difficult job is to be an honest government official.\u201d</p><p><br></p><p><strong>Timecodes</strong></p><p>00:00:00 \u2013 Introductions and announcements</p><p>00:05:50 \u2013 Headlines&nbsp;</p><p>00:14:20-FTA Deal between UK &amp; India / VP\u2019s resignation</p><p>00:47:55- MK Venu\u2019s recommendations</p><p>00:54:02 - Bombay Blast acquittal by the HC</p><p>01:21:30 - Josy\u2019s Recommendation</p><p>01:27:33- Letters</p><p>01:43:40- Recommendations</p><p><br></p><p><br></p><p><br></p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><br></p><p><strong><em>Produced and recorded by Amit Pandey, Ashish Anand and Anil Kumar.&nbsp;</em></strong></p><p><strong><em>Research assistance by Vibha Rajeev.&nbsp;</em></strong></p><p><br></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68846febf6d4262b07ad9bbb.mp3",
+          "duration": 6764.285333,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1753508850231-7ebaf7c6-18f8-42c4-9203-6bd38d22e9d2.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "68846febf6d4262b07ad9bbc"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "68846febf6d4262b07ad9bbd"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68846febf6d4262b07ad9bbb.mp3"
+        }
+      },
+      "title": "Hafta 547 :\u2018Paranoia\u2019 in Modi govt, FTA myth, and an old police playbook",
+      "publish_date": "2025-07-26T06:04:26.238Z",
+      "summary": "<p><br></p><p><br></p><p>This week on Hafta, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Anand Vardhan, Raman Kirpal, and Jayashree Arunachalam are joined by MK Venu, Founding Editor of <em>The Wire</em>, and award-winning investigative journalist and author Josy Joseph.</p><p><br></p><p>The panel begins with a discussion on the recently signed \u201chistoric\u201d India-UK free trade agreement. Venu argues that the BJP\u2019s intention behind this FTA is to have a \u201cfresh start\u201d in global trade negotiations: \u201cIn the last 11 years of the Modi government, the narrative they built, led by Piyush Goyal, is that all the FTAs signed by the UPA government were bad for India, that they were being used as a conduit for Chinese goods.\u201d</p><p><br></p><p>The conversation then shifts to Jagdeep Dhankhar\u2019s resignation as vice president. Abhinandan asks who will oversee the Rajya Sabha \u201cwith the parliament session already happening, and all sorts of noise and protests\u201d.</p><p><br></p><p>Explaining the legal framework, Anand says, \u201cArticle 67 says that till the next vice president is appointed, he will have to continue. But he has made it clear that he will not be attending the House.\u201d&nbsp;</p><p><br></p><p>Venu draws a pattern of abrupt and unexplained resignations among the Indian political and bureaucratic elite: \u201cThere is a striking parallel in the manner in which Dhankhar, CBI chief (former Director) Alok Verma, and (former Election Commissioner) Arun Goel abruptly left. What is it that drives leadership in the Modi-Shah regime? There\u2019s intrigue, there\u2019s cloak and dagger, there\u2019s paranoia. Paranoia accompanied by complete power. It\u2019s a paradox.\u201d</p><p><br></p><p>Commenting on media speculation around Dhankhar\u2019s resignation, Anand says, \u201cJournalists and public and social media commentators cannot say the simple thing that \u2018we don\u2019t know\u2019.\u201d Jayashree adds, \u201cIt doesn\u2019t matter if there is any value to these theories. What matters is that you have a story,&nbsp;a source, the source has said something outlandish, and that is your headline.\u201d</p><p><br></p><p>The panel then shifts to the Bombay High Court\u2019s recent verdict on the 2006 Mumbai blasts. Raman explains: \u201cIt\u2019s a 576-page judgement talking about how the police have manufactured evidence in very great detail\u2026This particular judgement has put a huge question mark on this state-specific law MCOCA.\u201d</p><p><br></p><p>Drawing from his decades of experience reporting on intelligence and security, Josy says: \u201cOne of the things that has always struck me was the impunity with which our police and investigative agencies are able to do pure malicious things and get away because there is no prosecution for malpractices.\u201d</p><p><br></p><p>Josy also sheds light on the complexities of police functioning and the political pressures that often influence investigations. \u201cI think in India today, the most difficult job is not being a journalist or not being an NGO worker. I think the most difficult job is to be an honest government official.\u201d</p><p><br></p><p><strong>Timecodes</strong></p><p>00:00:00 \u2013 Introductions and announcements</p><p>00:05:50 \u2013 Headlines&nbsp;</p><p>00:14:20-FTA Deal between UK &amp; India / VP\u2019s resignation</p><p>00:47:55- MK Venu\u2019s recommendations</p><p>00:54:02 - Bombay Blast acquittal by the HC</p><p>01:21:30 - Josy\u2019s Recommendation</p><p>01:27:33- Letters</p><p>01:43:40- Recommendations</p><p><br></p><p><br></p><p><br></p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><br></p><p><strong><em>Produced and recorded by Amit Pandey, Ashish Anand and Anil Kumar.&nbsp;</em></strong></p><p><strong><em>Research assistance by Vibha Rajeev.&nbsp;</em></strong></p><p><br></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68846febf6d4262b07ad9bbb.mp3",
+      "duration": 6764.285333,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1753508850231-7ebaf7c6-18f8-42c4-9203-6bd38d22e9d2.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2025/07/26/hafta-547-paranoia-in-modi-govt-fta-myth-and-an-old-police-playbook",
     "https://www.newslaundry.com/2025/07/19/hafta-546-the-performance-of-authority-on-social-media-fir-against-ajit-anjum-and-bihar-sir",
     "https://www.newslaundry.com/2025/07/12/hafta-545-bihar-electoral-revision-dalai-lama-and-the-future-of-tibetan-movement",
     "https://www.newslaundry.com/2025/07/05/hafta-544-indias-lost-tourism-potential-and-floods-in-himachal-pradesh-and-uttarakhand",
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2025-07-19T11:43:07.690774"
+  "last_updated": "2025-07-26T11:43:09.355513"
 }

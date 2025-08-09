@@ -299,9 +299,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/688daa6fc6d705dd3add5c90.mp3",
       "duration": 5821.109333,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1754114246586-b12a7b0a-e901-4b1b-aa48-d73b62189c6d.jpeg"
+    },
+    "549": {
+      "episode_id": "6896e63186fca1362897e0b4",
+      "raw_data": {
+        "shows": {
+          "_id": "6896e63186fca1362897e0b4",
+          "title": "Hafta 549: Trump\u2019s 50 per cent tariff threat on India, Uttarkashi disaster ",
+          "alias": "hafta-549-trumps-50-per-cent-tariff-threat-on-india-uttarkas",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2025-08-09T06:09:53.291Z",
+          "lastEditedDate": "2025-08-09T06:10:09.685Z",
+          "publishDate": "2025-08-09T06:09:52.517Z",
+          "subtitle": "The podcast where we discuss the news of the week. ",
+          "summary": "<p>This week on Hafta, <em>Newslaundry</em>\u2019s Manisha Pande, Jayashree Arunachalam, and Shardool Katyayan are joined by Nitin Pai, co-founder and director of The Takshashila Institution, and senior journalist <a href=\"mailto:hridayesh.joshi@gmail.com\" rel=\"noopener noreferrer\" target=\"_blank\">Hridayesh Joshi</a> from Uttarkashi.&nbsp;</p><p><br></p><p>The episode opens with a discussion on Trump\u2019s recent announcement to double the tariff on India, from 25 percent to 50 percent. Nitin argued that there is nothing wrong with India buying oil from Russia.&nbsp;</p><p><br></p><p>He said, \u201c I don\u2019t think there\u2019s anything wrong in India buying oil from Russia or from Iran or from wherever, as long as we can get away with it. To claim that, 'Oh, you're buying gas from a country which is at war and you're killing' is absurd\u2026 If the yardstick is that you're supplying or buying from people who are killing others, then the United States has to sanction itself to death.\"</p><p><br></p><p>Manisha asks Nitin what India should do next.&nbsp;</p><p><br></p><p>Despite the current tensions, including the imposition of steep tariffs by Trump and the broader uncertainty in US-India relations, Nitin underlines a crucial strategic point: that the United States remains India\u2019s most important partner for long-term growth and development.</p><p>\u201cEven after all of this, the United States is still India\u2019s best partner for growth and development. We've got to work with these guys and figure out how we can make use of the US economy and US military power to help us grow and be secure.\u201d Nitin said.</p><p>He further added that it would be foolish to talk about retaliation or going to the other side and forming an anti-US bloc. The answer is not in Moscow or Beijing \u2013 the answer is still in New Delhi.</p><p>For the discussion on the Uttarkashi disaster, Hridayesh joined the discussion from ground zero.&nbsp;</p><p>Hridayesh said that the death toll in the incident could increase as the rescue operation unfolds. He asserted that this disaster is not the result of the cloud bursts.&nbsp;</p><p>\u201cAccording to the definition [of cloudbursts], you require a hundred millimeters of rainfall in one hour in a particular area. So it has not happened [in Uttarkashi]. And, the other theories that are coming in say that there may be some obstruction in the upper reaches, and it may have formed a temporary lake. And that lake burst because of some landslide from above or by its own volume or pressure because it was raining continuously.\u201d Hridayesh added.&nbsp;</p><p><br></p><p>Manisha added that the Uttarakhand government\u2019s focus should be on such national disasters, but their priority instead is \u2018Land Jihad\u2019, \u2018Love Jihad\u2019, and registration of live-in relationships.&nbsp;</p><p><br></p><p>Shardool added that you can negotiate with every human problem, but you cannot negotiate with nature. \u201cLike an overflowing river, it does not care who you are and what you are, and what your problems are. Nature is very brutal in its judgment,\u201d he said. </p><p><br></p><p><strong>Timecodes</strong></p><p>00:00:00 \u2013 Introductions and announcements</p><p>00:03:00 \u2013 Headlines&nbsp;</p><p>00:08:11-Trump\u2019s Tariff threat to India&nbsp;</p><p>00:43:43- Nitin\u2019s recommendations</p><p>00:44:49 - Uttarkashi disaster&nbsp;</p><p>01:05:54- Letters</p><p>01:20:35- Recommendations</p><p><br></p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced and recorded by Amit Pandey, Ashish Anand and Anil Kumar.&nbsp;</em></strong></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6896e63186fca1362897e0b4.mp3",
+          "duration": 5272.013333,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1754718625695-4c3986f8-e3b1-4854-ab24-52e232f156a9.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "6896e63186fca1362897e0b5"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "6896e63186fca1362897e0b6"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6896e63186fca1362897e0b4.mp3"
+        }
+      },
+      "title": "Hafta 549: Trump\u2019s 50 per cent tariff threat on India, Uttarkashi disaster ",
+      "publish_date": "2025-08-09T06:09:52.517Z",
+      "summary": "<p>This week on Hafta, <em>Newslaundry</em>\u2019s Manisha Pande, Jayashree Arunachalam, and Shardool Katyayan are joined by Nitin Pai, co-founder and director of The Takshashila Institution, and senior journalist <a href=\"mailto:hridayesh.joshi@gmail.com\" rel=\"noopener noreferrer\" target=\"_blank\">Hridayesh Joshi</a> from Uttarkashi.&nbsp;</p><p><br></p><p>The episode opens with a discussion on Trump\u2019s recent announcement to double the tariff on India, from 25 percent to 50 percent. Nitin argued that there is nothing wrong with India buying oil from Russia.&nbsp;</p><p><br></p><p>He said, \u201c I don\u2019t think there\u2019s anything wrong in India buying oil from Russia or from Iran or from wherever, as long as we can get away with it. To claim that, 'Oh, you're buying gas from a country which is at war and you're killing' is absurd\u2026 If the yardstick is that you're supplying or buying from people who are killing others, then the United States has to sanction itself to death.\"</p><p><br></p><p>Manisha asks Nitin what India should do next.&nbsp;</p><p><br></p><p>Despite the current tensions, including the imposition of steep tariffs by Trump and the broader uncertainty in US-India relations, Nitin underlines a crucial strategic point: that the United States remains India\u2019s most important partner for long-term growth and development.</p><p>\u201cEven after all of this, the United States is still India\u2019s best partner for growth and development. We've got to work with these guys and figure out how we can make use of the US economy and US military power to help us grow and be secure.\u201d Nitin said.</p><p>He further added that it would be foolish to talk about retaliation or going to the other side and forming an anti-US bloc. The answer is not in Moscow or Beijing \u2013 the answer is still in New Delhi.</p><p>For the discussion on the Uttarkashi disaster, Hridayesh joined the discussion from ground zero.&nbsp;</p><p>Hridayesh said that the death toll in the incident could increase as the rescue operation unfolds. He asserted that this disaster is not the result of the cloud bursts.&nbsp;</p><p>\u201cAccording to the definition [of cloudbursts], you require a hundred millimeters of rainfall in one hour in a particular area. So it has not happened [in Uttarkashi]. And, the other theories that are coming in say that there may be some obstruction in the upper reaches, and it may have formed a temporary lake. And that lake burst because of some landslide from above or by its own volume or pressure because it was raining continuously.\u201d Hridayesh added.&nbsp;</p><p><br></p><p>Manisha added that the Uttarakhand government\u2019s focus should be on such national disasters, but their priority instead is \u2018Land Jihad\u2019, \u2018Love Jihad\u2019, and registration of live-in relationships.&nbsp;</p><p><br></p><p>Shardool added that you can negotiate with every human problem, but you cannot negotiate with nature. \u201cLike an overflowing river, it does not care who you are and what you are, and what your problems are. Nature is very brutal in its judgment,\u201d he said. </p><p><br></p><p><strong>Timecodes</strong></p><p>00:00:00 \u2013 Introductions and announcements</p><p>00:03:00 \u2013 Headlines&nbsp;</p><p>00:08:11-Trump\u2019s Tariff threat to India&nbsp;</p><p>00:43:43- Nitin\u2019s recommendations</p><p>00:44:49 - Uttarkashi disaster&nbsp;</p><p>01:05:54- Letters</p><p>01:20:35- Recommendations</p><p><br></p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced and recorded by Amit Pandey, Ashish Anand and Anil Kumar.&nbsp;</em></strong></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6896e63186fca1362897e0b4.mp3",
+      "duration": 5272.013333,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1754718625695-4c3986f8-e3b1-4854-ab24-52e232f156a9.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2025/08/09/hafta-549-trumps-50-per-cent-tariff-threat-on-india-uttarkashi-disaster",
     "https://www.newslaundry.com/2025/08/02/hafta-548-debate-wars-in-parliament-trumps-tariffs-on-india",
     "https://www.newslaundry.com/2025/07/26/hafta-547-paranoia-in-modi-govt-fta-myth-and-an-old-police-playbook",
     "https://www.newslaundry.com/2025/07/19/hafta-546-the-performance-of-authority-on-social-media-fir-against-ajit-anjum-and-bihar-sir",
@@ -310,5 +354,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2025-08-02T11:43:44.289678"
+  "last_updated": "2025-08-09T11:42:32.876922"
 }

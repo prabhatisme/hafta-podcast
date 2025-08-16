@@ -342,9 +342,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6896e63186fca1362897e0b4.mp3",
       "duration": 5272.013333,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1754718625695-4c3986f8-e3b1-4854-ab24-52e232f156a9.jpeg"
+    },
+    "550": {
+      "episode_id": "68a01cda290bdec8f9c1ba77",
+      "raw_data": {
+        "shows": {
+          "_id": "68a01cda290bdec8f9c1ba77",
+          "title": "Hafta 550: Opposition\u2019s protest against Bihar SIR, SC\u2019s stray dogs order, and Uttrakashi floods ",
+          "alias": "hafta-550-oppositions-protest-against-bihar-sir-scs-stray-do",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2025-08-16T05:53:30.659Z",
+          "lastEditedDate": "2025-08-16T05:57:32.855Z",
+          "publishDate": "2025-08-16T05:53:30.011Z",
+          "subtitle": "The podcast where we discuss the news of the week.",
+          "summary": "<p>This week on Hafta, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Manisha Pande, and Jayashree Arunachalam are joined by Priya Sahgal, editorial director at <em>NewsX</em>, Jasmine Damkewala, advocate on record in the Supreme Court, and senior journalist Hridayesh Joshi.</p><p><br></p><p>The episode opens with a discussion on the opposition\u2019s protest against the special intensive revision (SIR) exercise in Bihar. Priya states that when the opposition sets aside its differences, it can make an impact. \u201cThe fact that everybody came together, even the AAP, even though they're not part of the India Block itself, also showed there is unity. When the opposition comes in full strength, they can make an impact and a difference,\u201d she says.&nbsp;</p><p><br></p><p>Referring to Rahul Gandhi\u2019s press conference on alleged voter fraud, Manisha notes how it is unusual for a political party to assume the role traditionally played by the media. \u201cHowever journalistically sound it may be or not be, it\u2019s still striking that political parties today also have to do the media\u2019s job of starting a narrative through such investigations, because very few organisations have actually invested time in looking into this issue and the related complaints.\u201d</p><p><br></p><p>The conversation then shifts to the Supreme Court\u2019s order to remove stray dogs from Delhi\u2019s streets. Jasmine Damkewala notes that the dog population surged during the pandemic, when government-led sterilisation drives came to a halt. \u201cEspecially during COVID, no sterilisations were happening, or very little\u2026 The thing is, the state government is not really doing sterilisations. They do very little, and for that, too, they send the dogs to NGOs and pay them for it.\u201d&nbsp;</p><p><br></p><p>Manisha adds that the court\u2019s solution seems unworkable as there aren\u2019t enough shelters to house the dogs. \u201cThis is Delhi \u2013 we haven\u2019t even figured out shelters for humans during extreme heat waves or extreme cold waves,\u201d she says.</p><p>Abhinandan agrees and says, \u201cFor the Supreme Court to pass an order that is unimplementable is ridiculous. We have to acknowledge there\u2019s a problem, but this is certainly not the solution.\u201d</p><p>For the discussion on the Uttarakhand disaster, Hridayesh joins from ground zero. He recounts his journey to the site of the tragedy, despite being denied permission by the local authorities. He also discussed the current situation at Dharali, the village most affected by the flood.&nbsp;</p><p><br></p><p><em>Check out the</em><a href=\"https://www.newslaundry.com/store?routeName=NlStore\" rel=\"noopener noreferrer\" target=\"_blank\"><em> Newslaundry store</em></a><em> and flaunt your love for independent media.&nbsp;</em></p><p><br></p><p><em>Download the</em><a href=\"http://www.newslaundry.com/download-app\" rel=\"noopener noreferrer\" target=\"_blank\"><em> Newslaundry app</em></a><em>.&nbsp;</em></p><p><br></p><p><strong>Timecodes</strong></p><p>00:00:00 \u2013 Introductions and announcements</p><p>00:05:46 \u2013 Headlines&nbsp;</p><p>00:16:47 - Opposition\u2019s protest &amp; INDIA bloc unity</p><p>00:44:31- Priya\u2019s recommendations</p><p>00:47:53 - SC\u2019s decision on stray dogs&nbsp;</p><p>01:11:04 - Updates on Uttarkashi disaster</p><p>01:24:27- Letters</p><p>01:33:40- Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced and recorded by Amit Pandey and Naresh.&nbsp;</em></strong></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68a01cda290bdec8f9c1ba77.mp3",
+          "duration": 6396.88,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1755323461718-711428f9-0a71-4e3a-910e-69d08576fba8.jpeg",
+          "status": "published",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "68a01cda290bdec8f9c1ba78"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "68a01cda290bdec8f9c1ba79"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68a01cda290bdec8f9c1ba77.mp3"
+        }
+      },
+      "title": "Hafta 550: Opposition\u2019s protest against Bihar SIR, SC\u2019s stray dogs order, and Uttrakashi floods ",
+      "publish_date": "2025-08-16T05:53:30.011Z",
+      "summary": "<p>This week on Hafta, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Manisha Pande, and Jayashree Arunachalam are joined by Priya Sahgal, editorial director at <em>NewsX</em>, Jasmine Damkewala, advocate on record in the Supreme Court, and senior journalist Hridayesh Joshi.</p><p><br></p><p>The episode opens with a discussion on the opposition\u2019s protest against the special intensive revision (SIR) exercise in Bihar. Priya states that when the opposition sets aside its differences, it can make an impact. \u201cThe fact that everybody came together, even the AAP, even though they're not part of the India Block itself, also showed there is unity. When the opposition comes in full strength, they can make an impact and a difference,\u201d she says.&nbsp;</p><p><br></p><p>Referring to Rahul Gandhi\u2019s press conference on alleged voter fraud, Manisha notes how it is unusual for a political party to assume the role traditionally played by the media. \u201cHowever journalistically sound it may be or not be, it\u2019s still striking that political parties today also have to do the media\u2019s job of starting a narrative through such investigations, because very few organisations have actually invested time in looking into this issue and the related complaints.\u201d</p><p><br></p><p>The conversation then shifts to the Supreme Court\u2019s order to remove stray dogs from Delhi\u2019s streets. Jasmine Damkewala notes that the dog population surged during the pandemic, when government-led sterilisation drives came to a halt. \u201cEspecially during COVID, no sterilisations were happening, or very little\u2026 The thing is, the state government is not really doing sterilisations. They do very little, and for that, too, they send the dogs to NGOs and pay them for it.\u201d&nbsp;</p><p><br></p><p>Manisha adds that the court\u2019s solution seems unworkable as there aren\u2019t enough shelters to house the dogs. \u201cThis is Delhi \u2013 we haven\u2019t even figured out shelters for humans during extreme heat waves or extreme cold waves,\u201d she says.</p><p>Abhinandan agrees and says, \u201cFor the Supreme Court to pass an order that is unimplementable is ridiculous. We have to acknowledge there\u2019s a problem, but this is certainly not the solution.\u201d</p><p>For the discussion on the Uttarakhand disaster, Hridayesh joins from ground zero. He recounts his journey to the site of the tragedy, despite being denied permission by the local authorities. He also discussed the current situation at Dharali, the village most affected by the flood.&nbsp;</p><p><br></p><p><em>Check out the</em><a href=\"https://www.newslaundry.com/store?routeName=NlStore\" rel=\"noopener noreferrer\" target=\"_blank\"><em> Newslaundry store</em></a><em> and flaunt your love for independent media.&nbsp;</em></p><p><br></p><p><em>Download the</em><a href=\"http://www.newslaundry.com/download-app\" rel=\"noopener noreferrer\" target=\"_blank\"><em> Newslaundry app</em></a><em>.&nbsp;</em></p><p><br></p><p><strong>Timecodes</strong></p><p>00:00:00 \u2013 Introductions and announcements</p><p>00:05:46 \u2013 Headlines&nbsp;</p><p>00:16:47 - Opposition\u2019s protest &amp; INDIA bloc unity</p><p>00:44:31- Priya\u2019s recommendations</p><p>00:47:53 - SC\u2019s decision on stray dogs&nbsp;</p><p>01:11:04 - Updates on Uttarkashi disaster</p><p>01:24:27- Letters</p><p>01:33:40- Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced and recorded by Amit Pandey and Naresh.&nbsp;</em></strong></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68a01cda290bdec8f9c1ba77.mp3",
+      "duration": 6396.88,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1755323461718-711428f9-0a71-4e3a-910e-69d08576fba8.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2025/08/16/hafta-550-oppositions-protest-against-voter-fraud-sc-stray-dogs-order-and-uttarkashi-floods",
     "https://www.newslaundry.com/2025/08/09/hafta-549-trumps-50-per-cent-tariff-threat-on-india-uttarkashi-disaster",
     "https://www.newslaundry.com/2025/08/02/hafta-548-debate-wars-in-parliament-trumps-tariffs-on-india",
     "https://www.newslaundry.com/2025/07/26/hafta-547-paranoia-in-modi-govt-fta-myth-and-an-old-police-playbook",
@@ -354,5 +398,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2025-08-09T11:42:32.876922"
+  "last_updated": "2025-08-16T11:40:31.193555"
 }

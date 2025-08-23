@@ -385,9 +385,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68a01cda290bdec8f9c1ba77.mp3",
       "duration": 6396.88,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1755323461718-711428f9-0a71-4e3a-910e-69d08576fba8.jpeg"
+    },
+    "551": {
+      "episode_id": "68a95bef718453410e9471e3",
+      "raw_data": {
+        "shows": {
+          "_id": "68a95bef718453410e9471e3",
+          "title": "Hafta 551: Constitution 130th Amendment Bill, thaw in India-China relationship, Alaska meeting",
+          "alias": "hafta-551-constitution-130th-amendment-bill-thaw-in-india-ch",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2025-08-23T06:13:03.972Z",
+          "lastEditedDate": "2025-08-23T06:14:33.318Z",
+          "publishDate": "2025-08-23T06:13:03.631Z",
+          "subtitle": "The podcast where we discuss the news of the week. ",
+          "summary": "<p>This week on Hafta, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Manisha Pande, Raman Kirpal, and Shardool Katyayan are joined by Faizan Mustafa, legal scholar and VC of Chanakya National Law University, Patna, and Anuradha M Chenoy, former dean of JNU\u2019s School of International Affairs.&nbsp;</p><p><br></p><p>The episode opens with a discussion on the Constitution (130th Amendment) Bill, 2025, recently introduced in Parliament by the government. Abhinandan asks Faizan whether the BJP will be able to get the bill passed in Parliament. Faizan responds that since it\u2019s a constitutional amendment requiring a two-thirds majority in Parliament, which the current government doesn\u2019t have, the Bill is unlikely to be passed.&nbsp;</p><p><br></p><p>Raman questioned the intent behind the bill. He said, \u201cThe intent of the government is very clear that they have initiated several corruption cases against politicians whom they don\u2019t like and who fall out of favour, but yet they\u2019re not able to tame them. Since 2014, there have been 193 cases against politicians. Only two convictions have happened. So now the judiciary decides whether a corruption case is right or wrong,\u201d he added.</p><p><br></p><p>Manisha adds, \u201cI think to me, it's very clear in the tradition of countries like China, Russia, Turkey, Egypt, where anti-corruption laws are used to crack down on rivals\u2026And the BJP should worry about it because in these countries, which have no democracy, which have authoritarian leadership, once they're done with opposition, they use these laws to crack down on rivals within the party. So the BJP should also worry because this is not just about the opposition.\u201d</p><p>The conversation then shifts to the recent Alaska Summit, where Russian and US presidents Vladimir Putin and Donald Trump met to discuss the ongoing Russo-Ukrainian War. Abhinandan asks Anuradha about the significance of the meeting: \u201cAre you at all optimistic about this, or do you think it\u2019s just optics and everything will stay the same?\u201d</p><p><br></p><p>Anuradha responds that the optimism comes from the fact that conversations and diplomacy are continuing. \u201cIn any war, especially in a situation where there has been a kind of cold war between Russia, Europe, and the US for years, this dialogue is significant. None of them had met over the last three years since Russia\u2019s 2022 aggression on Ukraine, during which a proxy war had been underway.\u201d</p><p><br></p><p>The optimism, she explains, lies in the fact that they are now meeting and negotiating. \u201cThere will, of course, be disagreements, but as long as they don\u2019t return to the old system of not engaging at all, there\u2019s room for hope,\u201d she adds.</p><p>Shardool joins the discussion, pointing out that with China backing Russia, they don\u2019t really have to worry about the United States.&nbsp;</p><p>\u201cAlso, the European Union cannot go against the US because its entire security structure is heavily dependent on American support \u2013 from troops to military machinery,\u201d Shardool remarked.&nbsp;</p><p><br></p><p><strong>Timecodes</strong></p><p>00:00:00 \u2013 Introductions and announcements</p><p>00:03:06 \u2013 Headlines&nbsp;</p><p>00:10:25 - 130 th Amendment Bill 2025</p><p>00:43:43- Faizan\u2019s recommendations</p><p>00:48:54 - India &amp; China relation &amp; Alaska summit</p><p>01:17:11 - Anuradha\u2019s recommendations</p><p>01:18:32 - Letters</p><p>01:33:34 - Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced and recorded by Amit Pandey , Ashish Anand and Naresh.&nbsp;</em></strong></p><p><br></p><p><br></p><p><br></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68a95bef718453410e9471e3.mp3",
+          "duration": 6065.56,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1755929429929-b9f83747-6262-497d-ab16-bf4fbafc93ca.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "68a95bef718453410e9471e4"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "68a95bef718453410e9471e5"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68a95bef718453410e9471e3.mp3"
+        }
+      },
+      "title": "Hafta 551: Constitution 130th Amendment Bill, thaw in India-China relationship, Alaska meeting",
+      "publish_date": "2025-08-23T06:13:03.631Z",
+      "summary": "<p>This week on Hafta, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Manisha Pande, Raman Kirpal, and Shardool Katyayan are joined by Faizan Mustafa, legal scholar and VC of Chanakya National Law University, Patna, and Anuradha M Chenoy, former dean of JNU\u2019s School of International Affairs.&nbsp;</p><p><br></p><p>The episode opens with a discussion on the Constitution (130th Amendment) Bill, 2025, recently introduced in Parliament by the government. Abhinandan asks Faizan whether the BJP will be able to get the bill passed in Parliament. Faizan responds that since it\u2019s a constitutional amendment requiring a two-thirds majority in Parliament, which the current government doesn\u2019t have, the Bill is unlikely to be passed.&nbsp;</p><p><br></p><p>Raman questioned the intent behind the bill. He said, \u201cThe intent of the government is very clear that they have initiated several corruption cases against politicians whom they don\u2019t like and who fall out of favour, but yet they\u2019re not able to tame them. Since 2014, there have been 193 cases against politicians. Only two convictions have happened. So now the judiciary decides whether a corruption case is right or wrong,\u201d he added.</p><p><br></p><p>Manisha adds, \u201cI think to me, it's very clear in the tradition of countries like China, Russia, Turkey, Egypt, where anti-corruption laws are used to crack down on rivals\u2026And the BJP should worry about it because in these countries, which have no democracy, which have authoritarian leadership, once they're done with opposition, they use these laws to crack down on rivals within the party. So the BJP should also worry because this is not just about the opposition.\u201d</p><p>The conversation then shifts to the recent Alaska Summit, where Russian and US presidents Vladimir Putin and Donald Trump met to discuss the ongoing Russo-Ukrainian War. Abhinandan asks Anuradha about the significance of the meeting: \u201cAre you at all optimistic about this, or do you think it\u2019s just optics and everything will stay the same?\u201d</p><p><br></p><p>Anuradha responds that the optimism comes from the fact that conversations and diplomacy are continuing. \u201cIn any war, especially in a situation where there has been a kind of cold war between Russia, Europe, and the US for years, this dialogue is significant. None of them had met over the last three years since Russia\u2019s 2022 aggression on Ukraine, during which a proxy war had been underway.\u201d</p><p><br></p><p>The optimism, she explains, lies in the fact that they are now meeting and negotiating. \u201cThere will, of course, be disagreements, but as long as they don\u2019t return to the old system of not engaging at all, there\u2019s room for hope,\u201d she adds.</p><p>Shardool joins the discussion, pointing out that with China backing Russia, they don\u2019t really have to worry about the United States.&nbsp;</p><p>\u201cAlso, the European Union cannot go against the US because its entire security structure is heavily dependent on American support \u2013 from troops to military machinery,\u201d Shardool remarked.&nbsp;</p><p><br></p><p><strong>Timecodes</strong></p><p>00:00:00 \u2013 Introductions and announcements</p><p>00:03:06 \u2013 Headlines&nbsp;</p><p>00:10:25 - 130 th Amendment Bill 2025</p><p>00:43:43- Faizan\u2019s recommendations</p><p>00:48:54 - India &amp; China relation &amp; Alaska summit</p><p>01:17:11 - Anuradha\u2019s recommendations</p><p>01:18:32 - Letters</p><p>01:33:34 - Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced and recorded by Amit Pandey , Ashish Anand and Naresh.&nbsp;</em></strong></p><p><br></p><p><br></p><p><br></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68a95bef718453410e9471e3.mp3",
+      "duration": 6065.56,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1755929429929-b9f83747-6262-497d-ab16-bf4fbafc93ca.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2025/08/23/hafta-551-constitution-130th-amendment-bill-thaw-in-india-china-relationship-alaska-meeting",
     "https://www.newslaundry.com/2025/08/16/hafta-550-oppositions-protest-against-voter-fraud-sc-stray-dogs-order-and-uttarkashi-floods",
     "https://www.newslaundry.com/2025/08/09/hafta-549-trumps-50-per-cent-tariff-threat-on-india-uttarkashi-disaster",
     "https://www.newslaundry.com/2025/08/02/hafta-548-debate-wars-in-parliament-trumps-tariffs-on-india",
@@ -398,5 +442,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2025-08-16T11:40:31.193555"
+  "last_updated": "2025-08-23T11:41:54.876899"
 }

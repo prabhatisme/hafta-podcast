@@ -428,9 +428,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68a95bef718453410e9471e3.mp3",
       "duration": 6065.56,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1755929429929-b9f83747-6262-497d-ab16-bf4fbafc93ca.jpeg"
+    },
+    "552": {
+      "episode_id": "68b29324993d10acb9ec45cc",
+      "raw_data": {
+        "shows": {
+          "_id": "68b29324993d10acb9ec45cc",
+          "title": "Hafta 552: Online gaming ban, Trump\u2019s 50 per cent tariff on India ",
+          "alias": "hafta-552-online-gaming-ban-trumps-50-per-cent-tariff-on-ind",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2025-08-30T05:59:00.408Z",
+          "lastEditedDate": "2025-08-30T06:01:33.640Z",
+          "publishDate": "2025-08-30T05:59:00.144Z",
+          "subtitle": "The podcast where we discuss the news of the week. ",
+          "summary": "<p>This week on Hafta, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Raman Kirpal, Jayashree Arunachalam, and Anand Vardhan are joined by economist and author Vivek Kaul and sports journalist Sharda Ugra.&nbsp;</p><p><br></p><p>The episode opens with a discussion on the recently enacted Promotion and Regulation of Online Gaming Bill, 2025, which seeks to promote e-sports, regulate digital platforms, and ban real-money games. Abhinandan asks Vivek if he views online gaming as gambling or not.&nbsp;</p><p><br></p><p>Vivek replies, \u201cEven if you argue that it\u2019s a game of skill \u2013 that you need to know the players, their performance, the pitch, the weather, and so on \u2013 the real question is whether people are actually treating it as a game of skill.\u201d</p><p><br></p><p>He further cites the government\u2019s data, pointing out that 45 crore people are playing these games. With so many participants, he argued, it\u2019s no longer a game of skill but has essentially turned into a game of chance.</p><p><br></p><p>Discussing the Indian cricket team's jersey, Sharda notes that it is probably the most expensive real estate an advertiser can buy.&nbsp; \u201cBut notice the kind of companies that were stepping in \u2013 new-age firms like FinTech or EdTech players trying to build credibility and public recognition. Big, established corporates weren\u2019t lining up for it,\u201d she says.&nbsp;</p><p><br></p><p>She adds that \u200ait was everyone who was trying to give their brand and their company a certain respectability. \u201cThe cricket team jersey is the easiest way to do it.\u201d&nbsp;</p><p>Adding to the discussion, Jayashree says, \u201cFor me, this [the Bill] is like wearing a helmet. You can argue that if people don\u2019t want to wear one and risk dying, that\u2019s their choice. But it\u2019s really not; there\u2019s a law that enforces helmet use for a reason. Similarly, you need a bit of legal paternalism here, at least to keep things in check.\u201d</p><p><br></p><p>The conversation then shifts to the recent US tariffs and their impact on the Indian economy. Responding to Abhinandan\u2019s question on the media coverage of the issue, Vivek explains: \u201cThe media is right when it says \u200ait's the Americans who will pay that tariff. But what they\u2019re not telling the Indian audience is that our exports to the US, which are their imports, can easily be sourced from other countries instead.\u201d</p><p>Raman points out that campaigns promoting Swadeshi products have started in India to cope with the tariffs.</p><p><br></p><p><strong>Timecodes</strong></p><p>00:00:00 \u2013 Introductions and announcements</p><p>00:05:44 \u2013 Headlines&nbsp;</p><p>00:13:19:18 - <strong>&nbsp;</strong>Ban on Online Gaming</p><p>00:48:32- Sharda\u2019s recommendation</p><p>00:50:13 - US\u2019 tariff\u2019s impact on India&nbsp;</p><p>01:25:30 - Vivek\u2019s recommendations</p><p>01:27:33 - Letters</p><p>01:35:42 - Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced by Amit Pandey with production assistant Ashish Anand and sound recordist Anil .&nbsp;</em></strong></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68b29324993d10acb9ec45cc.mp3",
+          "duration": 6285.04,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1756533479825-9434316c-e9ac-4a6f-8b3b-52e21cee8d58.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "68b29324993d10acb9ec45cd"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "68b29324993d10acb9ec45ce"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68b29324993d10acb9ec45cc.mp3"
+        }
+      },
+      "title": "Hafta 552: Online gaming ban, Trump\u2019s 50 per cent tariff on India ",
+      "publish_date": "2025-08-30T05:59:00.144Z",
+      "summary": "<p>This week on Hafta, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Raman Kirpal, Jayashree Arunachalam, and Anand Vardhan are joined by economist and author Vivek Kaul and sports journalist Sharda Ugra.&nbsp;</p><p><br></p><p>The episode opens with a discussion on the recently enacted Promotion and Regulation of Online Gaming Bill, 2025, which seeks to promote e-sports, regulate digital platforms, and ban real-money games. Abhinandan asks Vivek if he views online gaming as gambling or not.&nbsp;</p><p><br></p><p>Vivek replies, \u201cEven if you argue that it\u2019s a game of skill \u2013 that you need to know the players, their performance, the pitch, the weather, and so on \u2013 the real question is whether people are actually treating it as a game of skill.\u201d</p><p><br></p><p>He further cites the government\u2019s data, pointing out that 45 crore people are playing these games. With so many participants, he argued, it\u2019s no longer a game of skill but has essentially turned into a game of chance.</p><p><br></p><p>Discussing the Indian cricket team's jersey, Sharda notes that it is probably the most expensive real estate an advertiser can buy.&nbsp; \u201cBut notice the kind of companies that were stepping in \u2013 new-age firms like FinTech or EdTech players trying to build credibility and public recognition. Big, established corporates weren\u2019t lining up for it,\u201d she says.&nbsp;</p><p><br></p><p>She adds that \u200ait was everyone who was trying to give their brand and their company a certain respectability. \u201cThe cricket team jersey is the easiest way to do it.\u201d&nbsp;</p><p>Adding to the discussion, Jayashree says, \u201cFor me, this [the Bill] is like wearing a helmet. You can argue that if people don\u2019t want to wear one and risk dying, that\u2019s their choice. But it\u2019s really not; there\u2019s a law that enforces helmet use for a reason. Similarly, you need a bit of legal paternalism here, at least to keep things in check.\u201d</p><p><br></p><p>The conversation then shifts to the recent US tariffs and their impact on the Indian economy. Responding to Abhinandan\u2019s question on the media coverage of the issue, Vivek explains: \u201cThe media is right when it says \u200ait's the Americans who will pay that tariff. But what they\u2019re not telling the Indian audience is that our exports to the US, which are their imports, can easily be sourced from other countries instead.\u201d</p><p>Raman points out that campaigns promoting Swadeshi products have started in India to cope with the tariffs.</p><p><br></p><p><strong>Timecodes</strong></p><p>00:00:00 \u2013 Introductions and announcements</p><p>00:05:44 \u2013 Headlines&nbsp;</p><p>00:13:19:18 - <strong>&nbsp;</strong>Ban on Online Gaming</p><p>00:48:32- Sharda\u2019s recommendation</p><p>00:50:13 - US\u2019 tariff\u2019s impact on India&nbsp;</p><p>01:25:30 - Vivek\u2019s recommendations</p><p>01:27:33 - Letters</p><p>01:35:42 - Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced by Amit Pandey with production assistant Ashish Anand and sound recordist Anil .&nbsp;</em></strong></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68b29324993d10acb9ec45cc.mp3",
+      "duration": 6285.04,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1756533479825-9434316c-e9ac-4a6f-8b3b-52e21cee8d58.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2025/08/30/hafta-552-online-gaming-ban-trumps-50-per-cent-tariff-on-india",
     "https://www.newslaundry.com/2025/08/23/hafta-551-constitution-130th-amendment-bill-thaw-in-india-china-relationship-alaska-meeting",
     "https://www.newslaundry.com/2025/08/16/hafta-550-oppositions-protest-against-voter-fraud-sc-stray-dogs-order-and-uttarkashi-floods",
     "https://www.newslaundry.com/2025/08/09/hafta-549-trumps-50-per-cent-tariff-threat-on-india-uttarkashi-disaster",
@@ -442,5 +486,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2025-08-23T11:41:54.876899"
+  "last_updated": "2025-08-30T11:40:40.670250"
 }

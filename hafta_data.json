@@ -471,9 +471,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68b29324993d10acb9ec45cc.mp3",
       "duration": 6285.04,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1756533479825-9434316c-e9ac-4a6f-8b3b-52e21cee8d58.jpeg"
+    },
+    "553": {
+      "episode_id": "68bbd10b1af371182a0250b4",
+      "raw_data": {
+        "shows": {
+          "_id": "68bbd10b1af371182a0250b4",
+          "title": "Hafta 553: Modi\u2019s bonhomie with Xi & Putin at Tianjin, Maratha quota protests ",
+          "alias": "hafta-553-modis-bonhomie-with-xi-putin-at-tianjin-maratha-qu",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2025-09-06T06:13:31.266Z",
+          "lastEditedDate": "2025-09-06T10:58:17.897Z",
+          "publishDate": "2025-09-06T06:13:30.387Z",
+          "subtitle": "The podcast where we discuss the news of the week. ",
+          "summary": "<p>This week on Hafta, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Manisha Pande, and Shardool Katyayan are joined by Akshay Bhambri, doctoral fellow at the Institute for Chinese Studies\u2013Harvard Yenching Institute, and Sumeet Mhaskar, professor at OP Jindal Global University.&nbsp;</p><p><br></p><p>The conversation opens with Prime Minister Narendra Modi\u2019s visit to China for the SCO Summit \u2013 his first visit to the country since 2018 \u2013 where he held talks with Chinese President Xi Jinping and Russian President Vladimir Putin. The panel analyses the optics of the meeting, body language narratives, and India\u2019s strategic balancing act.&nbsp;</p><p><br></p><p>Akshay argues that the Indian media\u2019s portrayal of Chinese reactions is not actually correct, noting that Chinese social media largely framed Modi\u2019s presence through Xi\u2019s success in convening world leaders rather than admiration for Modi himself.</p><p><br></p><p>\u201c<em>The Times of India</em> and <em>The Print</em> reported that Putin and Modi\u2019s car ride was trending on Baidu, China\u2019s equivalent of Google. It did appear in the top 20 of Baidu\u2019s trending list, but the conversation wasn\u2019t really about appreciating Modi or his actions. Instead, users were more focused on how Trump might react, what this meant for Putin, and how Xi Jinping had managed to orchestrate the moment,\u201d says Bhambri.&nbsp;</p><p><br></p><p>He also questions PM Modi\u2019s visit with Chinese Foreign Minister Wang Yi.&nbsp;</p><p><br></p><p>\u201cA big negative coming from SCO is that Modi met the right hand of Xi Jinping, Wang Yee, and all these people. When a head like the Prime Minister and president of China are meeting each other, there was no point meeting a second right hand of Xi Jinping, because that's a level below Xi Jinping.\u201d Bhambri adds.&nbsp;</p><p><br></p><p>Abhinandan adds, \u201cThe challenge for the Indian leadership is that Trump\u2019s unpredictability has forced everyone to realign their positions. He has shaken up the global order so dramatically that confusion is inevitable.\u201d&nbsp;</p><p><br></p><p>Speaking on India\u2019s foreign policy, Manisha points out, \u201cIndian diplomats and India\u2019s foreign policy also have a lot to answer for, because they relied too much on the supposed personal chemistry of Modi with global leaders. Serious diplomats, or mandarins as they\u2019re called, should have calculated what could happen and what needed to be done as situations evolved. You have to work out your realignment in advance, because at the end of the day, this is a game of chess.\u201d</p><p><br></p><p>Sumeet explains that social hierarchy plays a crucial role in how protests are treated. When dominant castes like the Marathas mobilise, the state response is far more restrained compared to how it would react if Muslims or Dalits staged similar demonstrations. </p><p><br></p><p><br></p><p><strong>Timecodes</strong></p><p>00:00:00 \u2013 Introductions and announcements</p><p>00:03:30\u2013 Headlines&nbsp;</p><p>00:11:59 - <strong>&nbsp;</strong>PM Modi at SCO, Tianjin</p><p>00:59:55- Maratha quota protest</p><p>01:36:56 - Akshay &amp; Sumeet\u2019s recommendations</p><p>01:43:10 - Letters</p><p>01:50:28 - Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced by Amit Pandey with production assistant Ashish Anand and sound recordist Anil .&nbsp;</em></strong></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68bbd10b1af371182a0250b4.mp3",
+          "duration": 6977.424,
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "68bbd10b1af371182a0250b5"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "68bbd10b1af371182a0250b6"
+            }
+          ],
+          "publishSequence": [],
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1757156290210-933b1685-a2f6-410b-ac5a-8d5a396668a5.jpeg",
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68bbd10b1af371182a0250b4.mp3"
+        }
+      },
+      "title": "Hafta 553: Modi\u2019s bonhomie with Xi & Putin at Tianjin, Maratha quota protests ",
+      "publish_date": "2025-09-06T06:13:30.387Z",
+      "summary": "<p>This week on Hafta, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Manisha Pande, and Shardool Katyayan are joined by Akshay Bhambri, doctoral fellow at the Institute for Chinese Studies\u2013Harvard Yenching Institute, and Sumeet Mhaskar, professor at OP Jindal Global University.&nbsp;</p><p><br></p><p>The conversation opens with Prime Minister Narendra Modi\u2019s visit to China for the SCO Summit \u2013 his first visit to the country since 2018 \u2013 where he held talks with Chinese President Xi Jinping and Russian President Vladimir Putin. The panel analyses the optics of the meeting, body language narratives, and India\u2019s strategic balancing act.&nbsp;</p><p><br></p><p>Akshay argues that the Indian media\u2019s portrayal of Chinese reactions is not actually correct, noting that Chinese social media largely framed Modi\u2019s presence through Xi\u2019s success in convening world leaders rather than admiration for Modi himself.</p><p><br></p><p>\u201c<em>The Times of India</em> and <em>The Print</em> reported that Putin and Modi\u2019s car ride was trending on Baidu, China\u2019s equivalent of Google. It did appear in the top 20 of Baidu\u2019s trending list, but the conversation wasn\u2019t really about appreciating Modi or his actions. Instead, users were more focused on how Trump might react, what this meant for Putin, and how Xi Jinping had managed to orchestrate the moment,\u201d says Bhambri.&nbsp;</p><p><br></p><p>He also questions PM Modi\u2019s visit with Chinese Foreign Minister Wang Yi.&nbsp;</p><p><br></p><p>\u201cA big negative coming from SCO is that Modi met the right hand of Xi Jinping, Wang Yee, and all these people. When a head like the Prime Minister and president of China are meeting each other, there was no point meeting a second right hand of Xi Jinping, because that's a level below Xi Jinping.\u201d Bhambri adds.&nbsp;</p><p><br></p><p>Abhinandan adds, \u201cThe challenge for the Indian leadership is that Trump\u2019s unpredictability has forced everyone to realign their positions. He has shaken up the global order so dramatically that confusion is inevitable.\u201d&nbsp;</p><p><br></p><p>Speaking on India\u2019s foreign policy, Manisha points out, \u201cIndian diplomats and India\u2019s foreign policy also have a lot to answer for, because they relied too much on the supposed personal chemistry of Modi with global leaders. Serious diplomats, or mandarins as they\u2019re called, should have calculated what could happen and what needed to be done as situations evolved. You have to work out your realignment in advance, because at the end of the day, this is a game of chess.\u201d</p><p><br></p><p>Sumeet explains that social hierarchy plays a crucial role in how protests are treated. When dominant castes like the Marathas mobilise, the state response is far more restrained compared to how it would react if Muslims or Dalits staged similar demonstrations. </p><p><br></p><p><br></p><p><strong>Timecodes</strong></p><p>00:00:00 \u2013 Introductions and announcements</p><p>00:03:30\u2013 Headlines&nbsp;</p><p>00:11:59 - <strong>&nbsp;</strong>PM Modi at SCO, Tianjin</p><p>00:59:55- Maratha quota protest</p><p>01:36:56 - Akshay &amp; Sumeet\u2019s recommendations</p><p>01:43:10 - Letters</p><p>01:50:28 - Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced by Amit Pandey with production assistant Ashish Anand and sound recordist Anil .&nbsp;</em></strong></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68bbd10b1af371182a0250b4.mp3",
+      "duration": 6977.424,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1757156290210-933b1685-a2f6-410b-ac5a-8d5a396668a5.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2025/09/06/hafta-553-modis-bonhomie-with-xi-putin-at-tianjin-maratha-quota-protests",
     "https://www.newslaundry.com/2025/08/30/hafta-552-online-gaming-ban-trumps-50-per-cent-tariff-on-india",
     "https://www.newslaundry.com/2025/08/23/hafta-551-constitution-130th-amendment-bill-thaw-in-india-china-relationship-alaska-meeting",
     "https://www.newslaundry.com/2025/08/16/hafta-550-oppositions-protest-against-voter-fraud-sc-stray-dogs-order-and-uttarkashi-floods",
@@ -486,5 +530,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2025-08-30T11:40:40.670250"
+  "last_updated": "2025-09-06T11:39:56.052259"
 }

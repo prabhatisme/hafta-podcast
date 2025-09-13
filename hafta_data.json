@@ -514,9 +514,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68bbd10b1af371182a0250b4.mp3",
       "duration": 6977.424,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1757156290210-933b1685-a2f6-410b-ac5a-8d5a396668a5.jpeg"
+    },
+    "554": {
+      "episode_id": "68c50cf98b1c6a4828824097",
+      "raw_data": {
+        "shows": {
+          "_id": "68c50cf98b1c6a4828824097",
+          "title": "Hafta 554: Nepal\u2019s \u2018GenZ\u2019 protest: What, why and how ",
+          "alias": "hafta-554-nepals-genz-protest-what-why-and-how",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2025-09-13T06:19:37.972Z",
+          "lastEditedDate": "2025-09-13T06:19:51.639Z",
+          "publishDate": "2025-09-13T06:19:37.109Z",
+          "subtitle": " The podcast where we discuss the news of the week. ",
+          "summary": "<p>This week on Hafta, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Manisha Pande, Anand Vardhan, and Raman Kirpal are joined by Kanak Mani Dixit, founder-editor of <em>Himal South Asian,</em> and writer and podcaster Anurag Minus Verma.&nbsp;</p><p><br></p><p>The conversation opens with Abhinandan asking Kanak about the&nbsp;</p><p>current law and order situation in Nepal. \u201cOn the ninth of September, there was pretty much violence everywhere\u2026 the Army came onto the streets and there\u2019s curfew, but things are calm now,\u201d says Kanak.&nbsp;</p><p><br></p><p>He says the Gen Z representatives rooted their protest in two demands: good governance and action against entrenched high-level corruption.</p><p><br></p><p>\u201cCorruption that was not really being tackled by the system, even though the journalists were very capable over the last few years in digging up the muck. They were great muck records, but the state system, the courts, the investigation, the attorney general's office, nobody took it to a conclusion. All of that was base-level disenchantment in the whole country \u2026 The trigger was the suspension of about 25 social media platforms announced by the government,\u201d Kanak states.&nbsp;</p><p>Manisha highlights that the unrest began with an attack on \u2018nepo babies\u2019. \u201cWhat the young in Nepal are calling out is politicians\u2019 kids who have access to vacations abroad, who have Christmas trees with Louis Vuitton boxes lined up. A lot of it starts off with this comparison of, look at these politicians\u2019 kids \u2013 where they\u2019ve gone, what they\u2019re doing, what they\u2019re capable of \u2013 and look at us. Where are we? The roads, the corruption, the houses falling. So there is this intense kind of barrage, especially on TikTok, of Gen Z going after Gen Z,\u201d she says.&nbsp;</p><p><br></p><p>Abhinandan contextualises Nepal\u2019s turmoil in relation to India\u2019s size, and says, \u201cIt\u2019s happening [here] \u2013just too big. Kashmir and Kerala aren\u2019t going to explode together. So don\u2019t be under the impression it\u2019s not happening. It is as violent, but our size keeps us together.\u201d</p><p><br></p><p>Yet, Kanak insists Nepal was not a failed state. \u201cNepal, even today, has a possibility of being an exemplar for South Asia\u2026 the only country in South Asia which doesn\u2019t have a death penalty\u2026 where the Supreme Court passes its judgment in the national language,\u201d he says.&nbsp;</p><p><br></p><p>Later in the show, Anurag argues that the very label \u201cGen Z\u201d obscures more than it explains. \u201cGen Z can also be in the popular sense privileged kids into Netflix and chill\u2026 but Gen Z are also people living in small towns with very different aspirations.\u201d</p><p><br></p><p>Still, he admitted corruption remains a unifier: \u201cIn popular terms, corruption is one issue that can bring people across caste, geographical, linguistic lines\u2026 That is what happened during the Anna movement in India.\u201d</p><p><br></p><p><strong>Timecodes</strong></p><p>00:00:00 \u2013 Introductions and announcements</p><p>00:03:50\u2013 Headlines&nbsp;</p><p>00:13:52 - <strong>&nbsp;</strong>Nepal Protest from political view</p><p>00:54:08- Kanak\u2019s recommendations&nbsp;</p><p>00:58:04- Nepal\u2019s protest from the lens of Gen Z&nbsp;</p><p>01:30:20 - Anurag\u2019s recommendation&nbsp;</p><p>01:32:01 - Letters</p><p>01:54:18 - Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced by Amit Pandey with production assistant Ashish Anand and sound recordist Anil.&nbsp;</em></strong></p><p><br></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68c50cf98b1c6a4828824097.mp3",
+          "duration": 7267.848,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1757742524085-a23429f5-eb13-4bac-8fd5-be54d88d28b1.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "68c50cf98b1c6a4828824098"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "68c50cf98b1c6a4828824099"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68c50cf98b1c6a4828824097.mp3"
+        }
+      },
+      "title": "Hafta 554: Nepal\u2019s \u2018GenZ\u2019 protest: What, why and how ",
+      "publish_date": "2025-09-13T06:19:37.109Z",
+      "summary": "<p>This week on Hafta, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Manisha Pande, Anand Vardhan, and Raman Kirpal are joined by Kanak Mani Dixit, founder-editor of <em>Himal South Asian,</em> and writer and podcaster Anurag Minus Verma.&nbsp;</p><p><br></p><p>The conversation opens with Abhinandan asking Kanak about the&nbsp;</p><p>current law and order situation in Nepal. \u201cOn the ninth of September, there was pretty much violence everywhere\u2026 the Army came onto the streets and there\u2019s curfew, but things are calm now,\u201d says Kanak.&nbsp;</p><p><br></p><p>He says the Gen Z representatives rooted their protest in two demands: good governance and action against entrenched high-level corruption.</p><p><br></p><p>\u201cCorruption that was not really being tackled by the system, even though the journalists were very capable over the last few years in digging up the muck. They were great muck records, but the state system, the courts, the investigation, the attorney general's office, nobody took it to a conclusion. All of that was base-level disenchantment in the whole country \u2026 The trigger was the suspension of about 25 social media platforms announced by the government,\u201d Kanak states.&nbsp;</p><p>Manisha highlights that the unrest began with an attack on \u2018nepo babies\u2019. \u201cWhat the young in Nepal are calling out is politicians\u2019 kids who have access to vacations abroad, who have Christmas trees with Louis Vuitton boxes lined up. A lot of it starts off with this comparison of, look at these politicians\u2019 kids \u2013 where they\u2019ve gone, what they\u2019re doing, what they\u2019re capable of \u2013 and look at us. Where are we? The roads, the corruption, the houses falling. So there is this intense kind of barrage, especially on TikTok, of Gen Z going after Gen Z,\u201d she says.&nbsp;</p><p><br></p><p>Abhinandan contextualises Nepal\u2019s turmoil in relation to India\u2019s size, and says, \u201cIt\u2019s happening [here] \u2013just too big. Kashmir and Kerala aren\u2019t going to explode together. So don\u2019t be under the impression it\u2019s not happening. It is as violent, but our size keeps us together.\u201d</p><p><br></p><p>Yet, Kanak insists Nepal was not a failed state. \u201cNepal, even today, has a possibility of being an exemplar for South Asia\u2026 the only country in South Asia which doesn\u2019t have a death penalty\u2026 where the Supreme Court passes its judgment in the national language,\u201d he says.&nbsp;</p><p><br></p><p>Later in the show, Anurag argues that the very label \u201cGen Z\u201d obscures more than it explains. \u201cGen Z can also be in the popular sense privileged kids into Netflix and chill\u2026 but Gen Z are also people living in small towns with very different aspirations.\u201d</p><p><br></p><p>Still, he admitted corruption remains a unifier: \u201cIn popular terms, corruption is one issue that can bring people across caste, geographical, linguistic lines\u2026 That is what happened during the Anna movement in India.\u201d</p><p><br></p><p><strong>Timecodes</strong></p><p>00:00:00 \u2013 Introductions and announcements</p><p>00:03:50\u2013 Headlines&nbsp;</p><p>00:13:52 - <strong>&nbsp;</strong>Nepal Protest from political view</p><p>00:54:08- Kanak\u2019s recommendations&nbsp;</p><p>00:58:04- Nepal\u2019s protest from the lens of Gen Z&nbsp;</p><p>01:30:20 - Anurag\u2019s recommendation&nbsp;</p><p>01:32:01 - Letters</p><p>01:54:18 - Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced by Amit Pandey with production assistant Ashish Anand and sound recordist Anil.&nbsp;</em></strong></p><p><br></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68c50cf98b1c6a4828824097.mp3",
+      "duration": 7267.848,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1757742524085-a23429f5-eb13-4bac-8fd5-be54d88d28b1.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2025/09/13/hafta-554-the-what-why-and-how-of-nepals-gen-z-protest",
     "https://www.newslaundry.com/2025/09/06/hafta-553-modis-bonhomie-with-xi-putin-at-tianjin-maratha-quota-protests",
     "https://www.newslaundry.com/2025/08/30/hafta-552-online-gaming-ban-trumps-50-per-cent-tariff-on-india",
     "https://www.newslaundry.com/2025/08/23/hafta-551-constitution-130th-amendment-bill-thaw-in-india-china-relationship-alaska-meeting",
@@ -530,5 +574,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2025-09-06T11:39:56.052259"
+  "last_updated": "2025-09-13T11:40:38.479665"
 }

@@ -557,9 +557,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68c50cf98b1c6a4828824097.mp3",
       "duration": 7267.848,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1757742524085-a23429f5-eb13-4bac-8fd5-be54d88d28b1.jpeg"
+    },
+    "555": {
+      "episode_id": "68ce4a91ef1d2c878dc337e3",
+      "raw_data": {
+        "shows": {
+          "_id": "68ce4a91ef1d2c878dc337e3",
+          "title": "Hafta 555: Rahul vs ECI: The big voter deletion row",
+          "alias": "hafta-554-rahul-vs-eci-the-big-voter-deletion-row",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2025-09-20T06:32:49.098Z",
+          "lastEditedDate": "2025-09-20T11:07:54.678Z",
+          "publishDate": "2025-09-20T06:32:48.728Z",
+          "subtitle": "The podcast where we discuss the news of the week. ",
+          "summary": "<p>This week on Hafta, <em>Newslaundry</em>\u2019s Manisha Pande and Shardool Katyayan are joined by Dhanya Rajendran, editor-in-chief of <em>The News Minute,</em> and Nitin Sethi, founding editor of the <em>Reporter\u2019s Collective</em>.&nbsp;</p><p><br></p><p>Manisha introduces the main debate on Rahul Gandhi\u2019s voter deletion allegations. She asks Dhanya to explain the allegation and whether it was credible enough to merit a serious Election Commission probe, instead of being dismissed outright.</p><p>Answering this, Dhanya says, \u201cIt's kind of complicated because what the allegation is that three different apps, the National Voter Service Portal or the NVSP, the Voter Helpline app, or the VHA, and the Garuda app of the Election Commission, were used to fill Form Seven. So Form Seven is basically somebody filling a form to delete a voter. So around 6,018 forms were filled.\u201d</p><p>She further explains, <em>The Hindu</em> had this story, I think two or three weeks ago. <em>The Hindu</em> story did track down some of these people whose names the forms were filled in, but they had no clue that the forms were filled\u2026 using their phones, that the OTP had come to them. Some of these phones were traced to Maharashtra, I think, Andhra Pradesh, et cetera. So the CID has written a letter as of last September this year saying that you have provided some details, but you have not provided all the details, including the destination IP and destination port. And without that, it's difficult to investigate as to how this was done.\u201d</p><p>Nitin Sethi criticizes the EC\u2019s opacity: \u201cThe weakness lies with the Election Commission, the way it attempts to camouflage what it does, hide plenty and then lie sometimes\u2026 The Election Commission\u2019s characteristic has been arrogance.\u201d</p><p>He stresses that the EC should be held to account as a constitutional body: \u201cLet\u2019s consider Mr Gandhi a citizen first, then a party leader.\u201d</p><p>Shardool chips in, highlighting how the broadcast media was portraying the issue. He says, \"The other strange thing was the media. They were asking on TV channels, 'Why do you have a problem? You won that seat.' Honestly, that\u2019s a ridiculous question to ask. Who made you the editor?\"</p><p>Speaking on the vote chori allegation, Manisha asks, \u201cThere is one aspect of the vote allegations \u2013 we call it, quote-unquote, a slogan by the Congress, but it\u2019s not a fact. The first aspect is about calling out partisanship, bureaucratic slip-ups, and shady practices like unexplained additions and deletions. The second aspect is the broader claim that democracy in India is rigged, that elections are stolen, or that democracy is dead. Is it fair for the Congress, especially through Rahul Gandhi and press conferences, to link these two?&nbsp;</p><p><br></p><p>Moving to another topic, the panel discusses press freedom and ex parte injunctions, highlighting how challenging it is for smaller media organisations to handle such cases with limited resources.</p><p><br></p><p><strong>Timecodes</strong></p><p>00:00:00 \u2013 Introductions and announcements</p><p>00:03:20 \u2013 Headlines&nbsp;</p><p>00:09:44 - <strong>&nbsp;</strong>Rahul\u2019s fresh allegations against ECI&nbsp;</p><p>00:46:29 - Nitin\u2019s recommendations&nbsp;</p><p>00:55:10- Freedom Of Expression of Media in current time&nbsp;</p><p>01:02:16 - Letters</p><p>01:16:00 - Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced by Amit Pandey with production assistant Ashish Anand and sound recordist Anil.&nbsp;</em></strong></p><p><br></p><p><br></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68ce4a91ef1d2c878dc337e3.mp3",
+          "duration": 4820.76,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1758349881200-48c4b2f8-4430-48b6-983a-1ca08a1de7e3.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "68ce4a91ef1d2c878dc337e4"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "68ce4a91ef1d2c878dc337e5"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68ce4a91ef1d2c878dc337e3.mp3"
+        }
+      },
+      "title": "Hafta 555: Rahul vs ECI: The big voter deletion row",
+      "publish_date": "2025-09-20T06:32:48.728Z",
+      "summary": "<p>This week on Hafta, <em>Newslaundry</em>\u2019s Manisha Pande and Shardool Katyayan are joined by Dhanya Rajendran, editor-in-chief of <em>The News Minute,</em> and Nitin Sethi, founding editor of the <em>Reporter\u2019s Collective</em>.&nbsp;</p><p><br></p><p>Manisha introduces the main debate on Rahul Gandhi\u2019s voter deletion allegations. She asks Dhanya to explain the allegation and whether it was credible enough to merit a serious Election Commission probe, instead of being dismissed outright.</p><p>Answering this, Dhanya says, \u201cIt's kind of complicated because what the allegation is that three different apps, the National Voter Service Portal or the NVSP, the Voter Helpline app, or the VHA, and the Garuda app of the Election Commission, were used to fill Form Seven. So Form Seven is basically somebody filling a form to delete a voter. So around 6,018 forms were filled.\u201d</p><p>She further explains, <em>The Hindu</em> had this story, I think two or three weeks ago. <em>The Hindu</em> story did track down some of these people whose names the forms were filled in, but they had no clue that the forms were filled\u2026 using their phones, that the OTP had come to them. Some of these phones were traced to Maharashtra, I think, Andhra Pradesh, et cetera. So the CID has written a letter as of last September this year saying that you have provided some details, but you have not provided all the details, including the destination IP and destination port. And without that, it's difficult to investigate as to how this was done.\u201d</p><p>Nitin Sethi criticizes the EC\u2019s opacity: \u201cThe weakness lies with the Election Commission, the way it attempts to camouflage what it does, hide plenty and then lie sometimes\u2026 The Election Commission\u2019s characteristic has been arrogance.\u201d</p><p>He stresses that the EC should be held to account as a constitutional body: \u201cLet\u2019s consider Mr Gandhi a citizen first, then a party leader.\u201d</p><p>Shardool chips in, highlighting how the broadcast media was portraying the issue. He says, \"The other strange thing was the media. They were asking on TV channels, 'Why do you have a problem? You won that seat.' Honestly, that\u2019s a ridiculous question to ask. Who made you the editor?\"</p><p>Speaking on the vote chori allegation, Manisha asks, \u201cThere is one aspect of the vote allegations \u2013 we call it, quote-unquote, a slogan by the Congress, but it\u2019s not a fact. The first aspect is about calling out partisanship, bureaucratic slip-ups, and shady practices like unexplained additions and deletions. The second aspect is the broader claim that democracy in India is rigged, that elections are stolen, or that democracy is dead. Is it fair for the Congress, especially through Rahul Gandhi and press conferences, to link these two?&nbsp;</p><p><br></p><p>Moving to another topic, the panel discusses press freedom and ex parte injunctions, highlighting how challenging it is for smaller media organisations to handle such cases with limited resources.</p><p><br></p><p><strong>Timecodes</strong></p><p>00:00:00 \u2013 Introductions and announcements</p><p>00:03:20 \u2013 Headlines&nbsp;</p><p>00:09:44 - <strong>&nbsp;</strong>Rahul\u2019s fresh allegations against ECI&nbsp;</p><p>00:46:29 - Nitin\u2019s recommendations&nbsp;</p><p>00:55:10- Freedom Of Expression of Media in current time&nbsp;</p><p>01:02:16 - Letters</p><p>01:16:00 - Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced by Amit Pandey with production assistant Ashish Anand and sound recordist Anil.&nbsp;</em></strong></p><p><br></p><p><br></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68ce4a91ef1d2c878dc337e3.mp3",
+      "duration": 4820.76,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1758349881200-48c4b2f8-4430-48b6-983a-1ca08a1de7e3.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2025/09/20/hafta-555-rahul-vs-eci-the-big-voter-deletion-row",
     "https://www.newslaundry.com/2025/09/13/hafta-554-the-what-why-and-how-of-nepals-gen-z-protest",
     "https://www.newslaundry.com/2025/09/06/hafta-553-modis-bonhomie-with-xi-putin-at-tianjin-maratha-quota-protests",
     "https://www.newslaundry.com/2025/08/30/hafta-552-online-gaming-ban-trumps-50-per-cent-tariff-on-india",
@@ -574,5 +618,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2025-09-13T11:40:38.479665"
+  "last_updated": "2025-09-20T11:40:54.752647"
 }

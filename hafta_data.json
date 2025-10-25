@@ -729,9 +729,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68f333bc888566c5b0d5fb2e.mp3",
       "duration": 6406.344,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1760768646281-9538a89e-1201-4794-91cd-d041c1952e25.jpeg"
+    },
+    "560": {
+      "episode_id": "68fc622b18bcdad2ab75a42b",
+      "raw_data": {
+        "shows": {
+          "_id": "68fc622b18bcdad2ab75a42b",
+          "title": "Hafta 560: Bihar assembly polls, Nitish Kumar\u2019s chances, toxic air in North India",
+          "alias": "hafta-560-bihar-assembly-polls-nitish-kumars-chances-toxic-a",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2025-10-25T05:37:47.928Z",
+          "lastEditedDate": "2025-10-25T05:40:34.704Z",
+          "publishDate": "2025-10-25T05:37:47.547Z",
+          "subtitle": "The podcast where we discuss the news of the week.",
+          "summary": "<p>This week on Hafta, <em>Newslaundry</em>\u2019s Manisha Pande, Jayashree Arunachalam and Anand Vardhan are joined by journalist Arati Jerath and Sunil Dahiya, founder of Envirocatalysts.&nbsp;</p><p><br></p><p>The discussion begins in Bihar with Arati talking about Nitish Kumar\u2019s relevance today. \u201cThe Nitish Kumar factor is the most critical in these elections. He has dominated Bihar\u2019s political landscape for 20 years and built a loyal EBC vote base \u2013 36 percent of the population,\u201d Arati said.&nbsp;</p><p><br></p><p>On the Congress, she says Rahul Gandhi probably \u201crealises that the Congress has to play second fiddle\u201d, but he\u2019s \u201ccaught between keeping his workers happy and accepting fewer seats\u201d. The panel also discusses the relevance of Prashant Kishor, with opinions ranging from \u201cgrifter\u201d to \u201cgasbag\u201d to Arati\u2019s kinder parallel between Kishor and Kejriwal.&nbsp;</p><p><br></p><p>On Delhi\u2019s air crisis, Sunil says years of awareness have passed but the situation is only getting worse: \u201cEvery indicator \u2013 private vehicle registration, petrol consumption, and nearby coal power generation \u2013 has increased.\u201d</p><p>He also questions the efficacy of the artificial rain project, pointing out its potential environmental and practical drawbacks. \u201cWill you make it rain all winter across Delhi, NCR, Haryana, and Punjab? How resource-intensive and economically feasible is that?\u201d</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and announcements</p><p>00:03:27 - Headlines&nbsp;</p><p>00:08:33 - Bihar polls</p><p>00:45:57 - Arati\u2019s recommendation</p><p>00:48:54 - Delhi\u2019s air pollution</p><p>01:20:35 - Sunil\u2019s recommendation&nbsp;</p><p>01:21:28 - Letters</p><p>01:34:14- Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced by Amit Pandey with production assistant Ashish Anand and sound recordist Anil Kumar. </em></strong></p><p><br></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68fc622b18bcdad2ab75a42b.mp3",
+          "duration": 6206.85,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1761370589208-84ed2e89-c2ab-4397-b111-2b5db77e7d56.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "68fc622b18bcdad2ab75a42c"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "68fc622b18bcdad2ab75a42d"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68fc622b18bcdad2ab75a42b.mp3"
+        }
+      },
+      "title": "Hafta 560: Bihar assembly polls, Nitish Kumar\u2019s chances, toxic air in North India",
+      "publish_date": "2025-10-25T05:37:47.547Z",
+      "summary": "<p>This week on Hafta, <em>Newslaundry</em>\u2019s Manisha Pande, Jayashree Arunachalam and Anand Vardhan are joined by journalist Arati Jerath and Sunil Dahiya, founder of Envirocatalysts.&nbsp;</p><p><br></p><p>The discussion begins in Bihar with Arati talking about Nitish Kumar\u2019s relevance today. \u201cThe Nitish Kumar factor is the most critical in these elections. He has dominated Bihar\u2019s political landscape for 20 years and built a loyal EBC vote base \u2013 36 percent of the population,\u201d Arati said.&nbsp;</p><p><br></p><p>On the Congress, she says Rahul Gandhi probably \u201crealises that the Congress has to play second fiddle\u201d, but he\u2019s \u201ccaught between keeping his workers happy and accepting fewer seats\u201d. The panel also discusses the relevance of Prashant Kishor, with opinions ranging from \u201cgrifter\u201d to \u201cgasbag\u201d to Arati\u2019s kinder parallel between Kishor and Kejriwal.&nbsp;</p><p><br></p><p>On Delhi\u2019s air crisis, Sunil says years of awareness have passed but the situation is only getting worse: \u201cEvery indicator \u2013 private vehicle registration, petrol consumption, and nearby coal power generation \u2013 has increased.\u201d</p><p>He also questions the efficacy of the artificial rain project, pointing out its potential environmental and practical drawbacks. \u201cWill you make it rain all winter across Delhi, NCR, Haryana, and Punjab? How resource-intensive and economically feasible is that?\u201d</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and announcements</p><p>00:03:27 - Headlines&nbsp;</p><p>00:08:33 - Bihar polls</p><p>00:45:57 - Arati\u2019s recommendation</p><p>00:48:54 - Delhi\u2019s air pollution</p><p>01:20:35 - Sunil\u2019s recommendation&nbsp;</p><p>01:21:28 - Letters</p><p>01:34:14- Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced by Amit Pandey with production assistant Ashish Anand and sound recordist Anil Kumar. </em></strong></p><p><br></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/68fc622b18bcdad2ab75a42b.mp3",
+      "duration": 6206.85,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1761370589208-84ed2e89-c2ab-4397-b111-2b5db77e7d56.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2025/10/25/hafta-560-bihar-assembly-polls-nitish-kumars-chances-toxic-air-in-north-india",
     "https://www.newslaundry.com/2025/10/18/hafta-559-talibans-visit-to-india-gaza-peace-plan-agreement",
     "https://www.newslaundry.com/2025/10/11/hafta-558-madhya-pradeshs-cough-syrup-tragedy-trumps-gaza-peace-plan",
     "https://www.newslaundry.com/2025/09/27/hafta-556-h-1b-visa-fee-hike-ladakh-protests-and-zubeen-gargs-passing",
@@ -750,5 +794,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2025-10-18T11:41:39.961460"
+  "last_updated": "2025-10-25T11:41:51.986924"
 }

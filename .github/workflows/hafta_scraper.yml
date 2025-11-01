@@ -12,10 +12,13 @@ permissions:
 
 jobs:
   run-scraper:
+    name: Scrape Both Shows
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -28,23 +31,29 @@ jobs:
           pip install -r requirements.txt
           python -m playwright install --with-deps --only-shell
 
-      - name: Run Hafta Scraper
+      - name: Run Hafta Scraper (English)
         run: |
-          python hafta_scraper.py --action full
+          python hafta_scraper.py --action full --show hafta
 
-      - name: Commit and push changes
+      - name: Run NL Charcha Scraper (Hindi)
+        run: |
+          python hafta_scraper.py --action full --show hafta_hindi
+
+      - name: Configure git
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Commit and push changes
+        run: |
+          # Stage the data and feed files
+          git add hafta_data.json hafta_feed.xml hafta_hindi.json hafta_hindi_feed.xml
           
           # Check if there are any changes to commit
-          if git diff --staged --quiet && git diff --quiet; then
+          if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git add hafta_data.json hafta_feed.xml
-            git commit -m "Update Hafta data and feed [auto] - $(date +'%Y-%m-%d %H:%M:%S UTC')"
+            git commit -m "Update Hafta and NL Charcha data and feeds [auto] - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
             git push
             echo "Changes committed and pushed successfully"
           fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }} 

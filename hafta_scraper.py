@@ -12,16 +12,47 @@ import requests
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 from datetime import datetime
-from bs4.element import Tag
+from typing import Optional
 
-# Configuration
-SHOW_ID = "5ec3d9497cef7479d2ef4798"
-API_BASE = f"https://www.newslaundry.com/acast-rest/shows/{SHOW_ID}/episodes"
+# Show configurations
+SHOW_CONFIGS = {
+    'hafta': {
+        'show_id': '5ec3d9497cef7479d2ef4798',
+        'data_file': 'hafta_data.json',
+        'feed_file': 'hafta_feed.xml',
+        'url': 'https://www.newslaundry.com/podcast/nl-hafta',
+        'episode_pattern': r'hafta-(\d+)',
+        'channel_title': 'Newslaundry Hafta',
+        'channel_description': 'Freewheeling discussion on the news of the week from Newslaundry',
+        'channel_link': 'https://www.newslaundry.com/podcast/nl-hafta',
+        'channel_image': 'https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1751695551059-62a98700-bdf2-4588-911c-4f8f4d930ac3.jpeg',
+        'language': 'en-us',
+        'min_episode': 541
+    },
+    'hafta_hindi': {
+        'show_id': '5ec247bf1ad9f849b1e3c640',
+        'data_file': 'hafta_hindi.json',
+        'feed_file': 'hafta_hindi_feed.xml',
+        'url': 'https://www.newslaundry.com/podcast/nl-charcha',
+        'episode_pattern': r'(?:charcha|nl-charcha)[-/](\d+)',  # Matches charcha-395 or nl-charcha-395
+        'channel_title': 'NL Charcha',
+        'channel_description': 'हिंदी पॉडकास्ट जहां हम हफ्तेभर के बवालों और सवालों पर चर्चा करते हैं',
+        'channel_link': 'https://www.newslaundry.com/podcast/nl-charcha',
+        'channel_image': None,  # Will use episode cover or default
+        'language': 'hi-in',
+        'min_episode': 1
+    }
+}
 
 class HaftaScraper:
-    def __init__(self):
-        self.data_file = 'hafta_data.json'
-        # self.links_file = 'hafta_links.json'  # Remove unused attribute
+    def __init__(self, show_name: str = 'hafta'):
+        """Initialize scraper for a specific show."""
+        if show_name not in SHOW_CONFIGS:
+            raise ValueError(f"Unknown show: {show_name}. Available: {list(SHOW_CONFIGS.keys())}")
+        
+        self.config = SHOW_CONFIGS[show_name]
+        self.show_name = show_name
+        self.data_file = self.config['data_file']
         self.data = self.load_data()
         
     def load_data(self):
@@ -49,7 +80,6 @@ class HaftaScraper:
         # Import here to avoid dependency issues
         import xml.etree.ElementTree as ET
         from xml.dom import minidom
-        import re
         
         def clean_html_tags(text):
             if not text:
@@ -75,8 +105,12 @@ class HaftaScraper:
             print("No episodes with data found. Skipping RSS feed generation.")
             return
         
-        # Reference image URL from reference.xml
-        reference_image_url = "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1751695551059-62a98700-bdf2-4588-911c-4f8f4d930ac3.jpeg"
+        # Get reference image URL - use config or first episode cover
+        reference_image_url = self.config['channel_image']
+        if not reference_image_url and episodes:
+            # Try to get from first episode
+            first_episode = episodes[0][1]
+            reference_image_url = first_episode.get('cover') or ''
         
         # Create RSS root element
         rss = ET.Element('rss')
@@ -90,25 +124,26 @@ class HaftaScraper:
         
         # Channel metadata
         title = ET.SubElement(channel, 'title')
-        title.text = 'Newslaundry Hafta'
+        title.text = self.config['channel_title']
         
         description = ET.SubElement(channel, 'description')
-        description.text = 'Freewheeling discussion on the news of the week from Newslaundry'
+        description.text = self.config['channel_description']
         
         link = ET.SubElement(channel, 'link')
-        link.text = 'https://www.newslaundry.com/podcast/nl-hafta'
+        link.text = self.config['channel_link']
         
-        # Channel image (reference)
-        image = ET.SubElement(channel, 'image')
-        image_url = ET.SubElement(image, 'url')
-        image_url.text = reference_image_url
-        image_title = ET.SubElement(image, 'title')
-        image_title.text = 'Hafta Podcast'
-        image_link = ET.SubElement(image, 'link')
-        image_link.text = 'https://www.newslaundry.com/podcast/nl-hafta'
+        # Channel image (if available)
+        if reference_image_url:
+            image = ET.SubElement(channel, 'image')
+            image_url = ET.SubElement(image, 'url')
+            image_url.text = reference_image_url
+            image_title = ET.SubElement(image, 'title')
+            image_title.text = self.config['channel_title']
+            image_link = ET.SubElement(image, 'link')
+            image_link.text = self.config['channel_link']
         
         language = ET.SubElement(channel, 'language')
-        language.text = 'en-us'
+        language.text = self.config['language']
         
         # iTunes specific channel tags
         itunes_author = ET.SubElement(channel, 'itunes:author')
@@ -124,8 +159,9 @@ class HaftaScraper:
         itunes_type.text = 'episodic'
         
         # iTunes channel image
-        itunes_image = ET.SubElement(channel, 'itunes:image')
-        itunes_image.set('href', reference_image_url)
+        if reference_image_url:
+            itunes_image = ET.SubElement(channel, 'itunes:image')
+            itunes_image.set('href', reference_image_url)
         
         # Add episodes
         for _, episode in episodes:
@@ -142,7 +178,7 @@ class HaftaScraper:
             
             # Link
             item_link = ET.SubElement(item, 'link')
-            item_link.text = f"https://www.newslaundry.com/podcast/nl-hafta"
+            item_link.text = self.config['channel_link']
             
             # Publication date
             if episode.get('publish_date'):
@@ -185,19 +221,25 @@ class HaftaScraper:
         pretty_xml = reparsed.toprettyxml(indent="  ")
         
         # Write to file
-        with open('hafta_feed.xml', 'w', encoding='utf-8') as f:
+        feed_file = self.config['feed_file']
+        with open(feed_file, 'w', encoding='utf-8') as f:
             f.write(pretty_xml)
         
-        print(f"RSS feed created with {len(episodes)} episodes: hafta_feed.xml")
+        print(f"RSS feed created with {len(episodes)} episodes: {feed_file}")
     
-    def run_full_pipeline(self, min_hafta=541):
-        print("Running full Hafta scraping pipeline...")
-        hafta_url = "https://www.newslaundry.com/podcast/nl-hafta"
+    def run_full_pipeline(self, min_episode: Optional[int] = None):
+        """Run full scraping pipeline for the configured show."""
+        if min_episode is None:
+            min_episode = self.config['min_episode']
+        
+        show_name_display = self.config['channel_title']
+        print(f"Running full {show_name_display} scraping pipeline...")
+        podcast_url = self.config['url']
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=True)
             context = browser.new_context()
             page = context.new_page()
-            page.goto(hafta_url, timeout=60000)
+            page.goto(podcast_url, timeout=60000)
             # Wait for at least one article to appear
             try:
                 page.wait_for_selector('article', timeout=15000)
@@ -207,36 +249,36 @@ class HaftaScraper:
                 return
             html = page.content()
             soup = BeautifulSoup(html, 'lxml')
-            from bs4.element import Tag
             new_links = []
-            hafta_num_re = re.compile(r"hafta-(\d+)")
+            episode_num_re = re.compile(self.config['episode_pattern'])
             for article in soup.find_all('article'):
-                if not isinstance(article, Tag):
+                if not hasattr(article, 'descendants'):
                     continue
                 a = None
                 for child in article.descendants:
-                    if isinstance(child, Tag) and child.name == 'a' and child.has_attr('href'):
-                        a = child
-                        break
-                if not a or not isinstance(a, Tag):
+                    if hasattr(child, 'name') and hasattr(child, 'has_attr'):
+                        if child.name == 'a' and child.has_attr('href'):
+                            a = child
+                            break
+                if not a or not hasattr(a, 'has_attr'):
                     continue
                 href = a['href']
                 if not isinstance(href, str):
                     continue
-                match = hafta_num_re.search(href)
+                match = episode_num_re.search(href)
                 if match:
-                    hafta_num = int(match.group(1))
-                    if hafta_num >= min_hafta:
+                    episode_num = int(match.group(1))
+                    if episode_num >= min_episode:
                         full_url = href
                         if not full_url.startswith('http'):
                             full_url = 'https://www.newslaundry.com' + full_url
-                        new_links.append((hafta_num, full_url))
-            # Sort by hafta number descending (latest first)
+                        new_links.append((episode_num, full_url))
+            # Sort by episode number descending (latest first)
             new_links = sorted(set(new_links), key=lambda x: -x[0])
             # Compare with existing links
             last_links = self.data.get('links', [])
             if not new_links:
-                print("No Hafta links found on page.")
+                print(f"No {show_name_display} links found on page.")
                 browser.close()
                 return
             latest_scraped = last_links[0] if last_links else None
@@ -254,10 +296,11 @@ class HaftaScraper:
             # Prepend new links to links list
             self.data['links'] = [url for _, url in new_episode_links] + last_links
             # For each new episode, visit the link and listen for the API request
-            hafta_num_re = re.compile(r'hafta-(\d+)')
-            api_re = re.compile(r'/acast-rest/shows/5ec3d9497cef7479d2ef4798/episodes/([a-z0-9]+)')
-            for hafta_num, link in new_episode_links:
-                print(f"Processing Hafta {hafta_num} at {link}")
+            episode_num_re = re.compile(self.config['episode_pattern'])
+            show_id = self.config['show_id']
+            api_re = re.compile(rf'/acast-rest/shows/{re.escape(show_id)}/episodes/([a-z0-9]+)')
+            for episode_num, link in new_episode_links:
+                print(f"Processing Episode {episode_num} at {link}")
                 episode_id_found = [None]
                 api_json = [None]
                 episode_page = context.new_page()
@@ -294,10 +337,10 @@ class HaftaScraper:
                         'duration': api_json[0].get('shows', {}).get('duration', 0),
                         'cover': api_json[0].get('shows', {}).get('cover', ''),
                     }
-                    self.data['episodes'][str(hafta_num)] = episode_data  # type: ignore[assignment]
-                    print(f"Fetched and added Hafta {hafta_num}")
+                    self.data['episodes'][str(episode_num)] = episode_data  # type: ignore[assignment]
+                    print(f"Fetched and added Episode {episode_num}")
                 else:
-                    print(f"Failed to fetch episode data for Hafta {hafta_num}")
+                    print(f"Failed to fetch episode data for Episode {episode_num}")
             browser.close()
             self.save_data()
             self.generate_rss_feed()
@@ -309,14 +352,18 @@ def main():
     parser = argparse.ArgumentParser(description='Hafta Podcast Scraper')
     parser.add_argument('--action', choices=['generate-rss', 'full'], 
                        default='full', help='Action to perform')
+    parser.add_argument('--show', choices=list(SHOW_CONFIGS.keys()),
+                       default='hafta', help='Show to scrape (default: hafta)')
+    parser.add_argument('--min-episode', type=int, default=None,
+                       help='Minimum episode number to scrape (overrides config default)')
     args = parser.parse_args()
     
-    scraper = HaftaScraper()
+    scraper = HaftaScraper(show_name=args.show)
     
     if args.action == 'generate-rss':
         scraper.generate_rss_feed()
     elif args.action == 'full':
-        scraper.run_full_pipeline()
+        scraper.run_full_pipeline(min_episode=args.min_episode)
 
 if __name__ == "__main__":
     main() 

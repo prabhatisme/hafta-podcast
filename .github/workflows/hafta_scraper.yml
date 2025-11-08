@@ -46,6 +46,10 @@ jobs:
 
       - name: Commit and push changes
         run: |
+          # Ensure we're on the latest main branch
+          git checkout main
+          git pull --rebase origin main
+          
           # Stage the data and feed files
           git add hafta_data.json hafta_feed.xml hafta_hindi.json hafta_hindi_feed.xml
           
@@ -53,7 +57,10 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
+            # Create commit
             git commit -m "Update Hafta and NL Charcha data and feeds [auto] - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
-            git push origin HEAD:main
+            
+            # Push changes
+            git push origin main
             echo "Changes committed and pushed successfully"
           fi

@@ -9,6 +9,7 @@ import re
 import os
 import argparse
 import requests
+from urllib.parse import urlparse
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 from datetime import datetime
@@ -33,11 +34,11 @@ SHOW_CONFIGS = {
         'show_id': '5ec247bf1ad9f849b1e3c640',
         'data_file': 'hafta_hindi.json',
         'feed_file': 'hafta_hindi_feed.xml',
-        'url': 'https://www.newslaundry.com/podcast/nl-charcha',
-        'episode_pattern': r'(?:charcha|nl-charcha)[-/](\d+)',  # Matches charcha-395 or nl-charcha-395
+        'url': 'https://hindi.newslaundry.com/podcast/nl-charcha',
+        'episode_pattern': r'(?:charcha|nl-charcha)(?:-episode)?[-/](\d+)',  # Matches charcha-395, nl-charcha-395, or nl-charcha-episode-396
         'channel_title': 'NL Charcha',
         'channel_description': 'हिंदी पॉडकास्ट जहां हम हफ्तेभर के बवालों और सवालों पर चर्चा करते हैं',
-        'channel_link': 'https://www.newslaundry.com/podcast/nl-charcha',
+        'channel_link': 'https://hindi.newslaundry.com/podcast/nl-charcha',
         'channel_image': None,  # Will use episode cover or default
         'language': 'hi-in',
         'min_episode': 1
@@ -271,7 +272,9 @@ class HaftaScraper:
                     if episode_num >= min_episode:
                         full_url = href
                         if not full_url.startswith('http'):
-                            full_url = 'https://www.newslaundry.com' + full_url
+                            # Extract base URL from config (handles both www and hindi subdomains)
+                            base_url = urlparse(self.config['url']).scheme + '://' + urlparse(self.config['url']).netloc
+                            full_url = base_url + full_url
                         new_links.append((episode_num, full_url))
             # Sort by episode number descending (latest first)
             new_links = sorted(set(new_links), key=lambda x: -x[0])

@@ -20,6 +20,11 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Update main branch
+        run: |
+          git checkout main
+          git pull --rebase origin main
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -46,13 +51,12 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          # Ensure we're on the latest main branch
-          git checkout main
-          git pull --rebase origin main
-          
           # Stage the data and feed files
           git add hafta_data.json hafta_feed.xml hafta_hindi.json hafta_hindi_feed.xml
           
+          # Ensure we're on the main branch for committing
+          git checkout main
+
           # Check if there are any changes to commit
           if git diff --staged --quiet; then
             echo "No changes to commit"

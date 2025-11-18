@@ -23,6 +23,7 @@ SHOW_CONFIGS = {
         'feed_file': 'hafta_feed.xml',
         'url': 'https://www.newslaundry.com/podcast/nl-hafta',
         'episode_pattern': r'hafta-(\d+)',
+        'episode_text_pattern': r'Hafta\s+(\d+)',
         'channel_title': 'Newslaundry Hafta',
         'channel_description': 'Freewheeling discussion on the news of the week from Newslaundry',
         'channel_link': 'https://www.newslaundry.com/podcast/nl-hafta',
@@ -36,6 +37,7 @@ SHOW_CONFIGS = {
         'feed_file': 'hafta_hindi_feed.xml',
         'url': 'https://hindi.newslaundry.com/podcast/nl-charcha',
         'episode_pattern': r'(?:charcha|nl-charcha)(?:-episode)?[-/](\d+)',  # Matches charcha-395, nl-charcha-395, or nl-charcha-episode-396
+        'episode_text_pattern': r'(?:NL\s*)?Charcha\s+(\d+)',
         'channel_title': 'NL Charcha',
         'channel_description': 'हिंदी पॉडकास्ट जहां हम हफ्तेभर के बवालों और सवालों पर चर्चा करते हैं',
         'channel_link': 'https://hindi.newslaundry.com/podcast/nl-charcha',
@@ -251,7 +253,9 @@ class HaftaScraper:
             html = page.content()
             soup = BeautifulSoup(html, 'lxml')
             new_links = []
-            episode_num_re = re.compile(self.config['episode_pattern'])
+            episode_num_re = re.compile(self.config['episode_pattern'], re.IGNORECASE)
+            text_pattern = self.config.get('episode_text_pattern')
+            text_num_re = re.compile(text_pattern, re.IGNORECASE) if text_pattern else None
             for article in soup.find_all('article'):
                 if not hasattr(article, 'descendants'):
                     continue
@@ -266,16 +270,22 @@ class HaftaScraper:
                 href = a['href']
                 if not isinstance(href, str):
                     continue
-                match = episode_num_re.search(href)
+                episode_num = None
+                match = episode_num_re.search(href) if episode_num_re else None
                 if match:
                     episode_num = int(match.group(1))
-                    if episode_num >= min_episode:
-                        full_url = href
-                        if not full_url.startswith('http'):
-                            # Extract base URL from config (handles both www and hindi subdomains)
-                            base_url = urlparse(self.config['url']).scheme + '://' + urlparse(self.config['url']).netloc
-                            full_url = base_url + full_url
-                        new_links.append((episode_num, full_url))
+                elif text_num_re:
+                    text_content = article.get_text(separator=' ', strip=True)
+                    text_match = text_num_re.search(text_content)
+                    if text_match:
+                        episode_num = int(text_match.group(1))
+                if episode_num is not None and episode_num >= min_episode:
+                    full_url = href
+                    if not full_url.startswith('http'):
+                        # Extract base URL from config (handles both www and hindi subdomains)
+                        base_url = urlparse(self.config['url']).scheme + '://' + urlparse(self.config['url']).netloc
+                        full_url = base_url + full_url
+                    new_links.append((episode_num, full_url))
             # Sort by episode number descending (latest first)
             new_links = sorted(set(new_links), key=lambda x: -x[0])
             # Compare with existing links

@@ -944,9 +944,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69214ac400a96fa12b55c309.mp3",
       "duration": 6326.42,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1763789478569-bf25306d-2eaf-4280-965d-aae6708fff8c.jpeg"
+    },
+    "565": {
+      "episode_id": "692a8a7a635c16d640a02b80",
+      "raw_data": {
+        "shows": {
+          "_id": "692a8a7a635c16d640a02b80",
+          "title": "Hafta 565: Behind the Karnataka Congress rift, Constitution disconnect",
+          "alias": "hafta-565-behind-the-karnataka-congress-rift-constitution-di",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2025-11-29T05:54:02.265Z",
+          "lastEditedDate": "2025-11-29T05:55:34.307Z",
+          "publishDate": "2025-11-29T05:54:02.004Z",
+          "subtitle": "The podcast where we discuss the news of the week. ",
+          "summary": "<p>This week, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Manisha Pande, and Anand Vardhan are joined by content creator Meghnad S and Pooja Prasanna of <em>The News Minute</em>.</p><p><br></p><p>The episode opens with an overview of Karnataka politics and the rift within the state unit of the Congress.&nbsp;</p><p>Pooja explains the growing impatience within D K Shivakumar\u2019s camp, noting that he had expected a leadership transition after two-and-a-half years of the Congress government. \u201cHe\u2019s now waiting for an assurance \u2013 any signal \u2013 from the high command,\u201d she says, adding that the silence from Delhi has \u201ctriggered the first public signs of frustration\u201d in the form of Shivakumar\u2019s cryptic posts about \u201ckeeping one\u2019s word\u201d.</p><p><br></p><p>The Chief Minister\u2019s office, meanwhile, interprets Shivakumar\u2019s messaging as an attempt to dilute Siddaramaiah\u2019s governance record. \u201cThey believe he\u2019s trying to take away from the CM\u2019s narrative of fulfilling the five guarantees,\u201d Pooja notes.</p><p><br></p><p>Anand Vardhan draws attention to how this tussle exposes the Congress high command\u2019s eroding authority. \u201cThe national leadership has limited patronage left. You can\u2019t dictate terms the way you once could,\u201d he says.</p><p><br></p><p>The conversation then moves to the significance of the Constitution, considering the Samvidhan Diwas this week. Meghnad describes the code as \u201cboth prescriptive and reflective\u201d. \u201cIt tells us what India should be, but also reflects what India actually is. And increasingly, those two are drifting apart.\u201d</p><p>Manisha adds that the Constitution has increasingly become a political tool rather than a lived document. \u201cA lot of people bring up the Constitution today because it\u2019s the best argument against the BJP,\u201d she notes, explaining that for many, opposing the ruling party now automatically means invoking constitutional principles. She points out that during the 2024 election cycle, despite the heavy rhetoric around \u201csamvidhan\u201d and constitutional rights, it was mostly minorities who spoke about it with real urgency.</p><p><br></p><p>This and a lot more. Tune in!</p><p><br></p><p><strong>Timecodes</strong></p><p>00:00:00 - Introductions and announcements</p><p>00:05:40 - Headlines&nbsp;</p><p>00:18:33 - Karnataka Politics&nbsp;</p><p>00:41:16 - Constitution debate&nbsp;</p><p>01:20:49 - Pooja\u2019s Recommendation&nbsp;</p><p>01:21:32 - Letters</p><p>01:33:33- Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced by Amit Pandey with </em></strong><a href=\"mailto:ashish@newslaundry.com\" rel=\"noopener noreferrer\" target=\"_blank\"><strong><em>Ashish Anand</em></strong></a><strong><em> and Sourav Ranjan. Sound by Anil.&nbsp;</em></strong></p><p><br></p><p><br></p><p><br></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/692a8a7a635c16d640a02b80.mp3",
+          "duration": 6349.68,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1764395619705-b7e67eb9-e826-4eef-8c41-3ab8747434f7.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "692a8a7a635c16d640a02b81"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "692a8a7a635c16d640a02b82"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/692a8a7a635c16d640a02b80.mp3"
+        }
+      },
+      "title": "Hafta 565: Behind the Karnataka Congress rift, Constitution disconnect",
+      "publish_date": "2025-11-29T05:54:02.004Z",
+      "summary": "<p>This week, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Manisha Pande, and Anand Vardhan are joined by content creator Meghnad S and Pooja Prasanna of <em>The News Minute</em>.</p><p><br></p><p>The episode opens with an overview of Karnataka politics and the rift within the state unit of the Congress.&nbsp;</p><p>Pooja explains the growing impatience within D K Shivakumar\u2019s camp, noting that he had expected a leadership transition after two-and-a-half years of the Congress government. \u201cHe\u2019s now waiting for an assurance \u2013 any signal \u2013 from the high command,\u201d she says, adding that the silence from Delhi has \u201ctriggered the first public signs of frustration\u201d in the form of Shivakumar\u2019s cryptic posts about \u201ckeeping one\u2019s word\u201d.</p><p><br></p><p>The Chief Minister\u2019s office, meanwhile, interprets Shivakumar\u2019s messaging as an attempt to dilute Siddaramaiah\u2019s governance record. \u201cThey believe he\u2019s trying to take away from the CM\u2019s narrative of fulfilling the five guarantees,\u201d Pooja notes.</p><p><br></p><p>Anand Vardhan draws attention to how this tussle exposes the Congress high command\u2019s eroding authority. \u201cThe national leadership has limited patronage left. You can\u2019t dictate terms the way you once could,\u201d he says.</p><p><br></p><p>The conversation then moves to the significance of the Constitution, considering the Samvidhan Diwas this week. Meghnad describes the code as \u201cboth prescriptive and reflective\u201d. \u201cIt tells us what India should be, but also reflects what India actually is. And increasingly, those two are drifting apart.\u201d</p><p>Manisha adds that the Constitution has increasingly become a political tool rather than a lived document. \u201cA lot of people bring up the Constitution today because it\u2019s the best argument against the BJP,\u201d she notes, explaining that for many, opposing the ruling party now automatically means invoking constitutional principles. She points out that during the 2024 election cycle, despite the heavy rhetoric around \u201csamvidhan\u201d and constitutional rights, it was mostly minorities who spoke about it with real urgency.</p><p><br></p><p>This and a lot more. Tune in!</p><p><br></p><p><strong>Timecodes</strong></p><p>00:00:00 - Introductions and announcements</p><p>00:05:40 - Headlines&nbsp;</p><p>00:18:33 - Karnataka Politics&nbsp;</p><p>00:41:16 - Constitution debate&nbsp;</p><p>01:20:49 - Pooja\u2019s Recommendation&nbsp;</p><p>01:21:32 - Letters</p><p>01:33:33- Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced by Amit Pandey with </em></strong><a href=\"mailto:ashish@newslaundry.com\" rel=\"noopener noreferrer\" target=\"_blank\"><strong><em>Ashish Anand</em></strong></a><strong><em> and Sourav Ranjan. Sound by Anil.&nbsp;</em></strong></p><p><br></p><p><br></p><p><br></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/692a8a7a635c16d640a02b80.mp3",
+      "duration": 6349.68,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1764395619705-b7e67eb9-e826-4eef-8c41-3ab8747434f7.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2025/11/29/hafta-565-behind-the-karnataka-congress-rift-constitution-disconnect",
     "https://www.newslaundry.com/2025/11/22/hafta-564-killing-of-madvi-hidma-and-aftermath-of-red-fort-blast",
     "https://www.newslaundry.com/2025/11/14/nl-hafta-live-decoding-bihars-mandate",
     "https://www.newslaundry.com/2025/11/08/hafta-562-phase-1-of-bihar-polls-nitishs-legacy-zohran-mamdanis-victory",
@@ -970,5 +1014,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2025-11-22T11:39:44.389497"
+  "last_updated": "2025-11-29T11:39:58.311191"
 }

@@ -987,9 +987,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/692a8a7a635c16d640a02b80.mp3",
       "duration": 6349.68,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1764395619705-b7e67eb9-e826-4eef-8c41-3ab8747434f7.jpeg"
+    },
+    "566": {
+      "episode_id": "6933cbaa5054592eda9991bf",
+      "raw_data": {
+        "shows": {
+          "_id": "6933cbaa5054592eda9991bf",
+          "title": "Hafta 566: Sanchar Saathi app fiasco, Putin\u2019s visit to India ",
+          "alias": "hafta-566-sanchar-saathi-app-fiasco-putins-visit-to-india",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2025-12-06T06:22:34.174Z",
+          "lastEditedDate": "2025-12-06T06:22:47.416Z",
+          "publishDate": "2025-12-06T06:22:33.926Z",
+          "subtitle": "The podcast where we discuss the news of the week. ",
+          "summary": "<p>This week, <em>Newslaundry</em>\u2019s Manisha Pande, Shardool Katyayan and Raman Kirpal are joined by <em>Medianama </em>founder and editor Nikhil Pahwa and senior journalist Maya Mirchandani.</p><p><br></p><p>The episode opens with the sudden rollout \u2013 and equally swift withdrawal \u2013 of the government\u2019s Sanchar Saathi app.&nbsp;</p><p><br></p><p>Pahwa warned that forcing a government app onto personal devices crossed a critical line between governance and surveillance. \u201cIf you look at the permissions \u2013 access to messages, calls, galleries \u2013 it\u2019s like the government sitting in your phone all the time,\u201d Pahwa said.&nbsp;</p><p><br></p><p>Manisha noted that the app\u2019s withdrawal within 24 hours raised questions about both intent and pushback. \u201cThe introduction and removal of it was very interesting. Why was it hastily introduced and then taken back?\u201d she asked.</p><p><br></p><p>Pahwa acknowledged the scale of India\u2019s fraud problem but underlined that mandatory installation was never the solution. \u201cThe intention wasn\u2019t wrong \u2013 but the question is the method,\u201d he said&nbsp;</p><p><br></p><p>The conversation then moves to Putin's visit to India. Speaking on the media coverage of his visit, Manisha remarked, \u201cEven if there is no deal or whatever happens, we've at least gifted him the great gift of our media, which is the sort of coverage that even his own state media cannot manage.\u201d</p><p><br></p><p>Maya Mirchandani noted that the visit gains significance as it comes amid renewed efforts to negotiate an end to the Ukraine war and rapidly shifting global power alignments.</p><p><br></p><p>This and a lot more. Tune in!</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and announcements</p><p>00:01:59 - Headlines&nbsp;</p><p>00:07:54 - Sanchar Sathi App</p><p>00:49:35-&nbsp; Nikhil\u2019s recommendation</p><p>00:50:55 - Putin visit to India&nbsp;</p><p>01:19:06 - Winter Session of the parliament</p><p>01:38:39 - Maya\u2019s Recommendations</p><p>01:40:15 - Letters</p><p>01:45:10 -&nbsp; Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced by Amit Pandey, with assistant production by Sourav Ranjan. Sound by Anil.</em></strong></p><p><br></p><p><br></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6933cbaa5054592eda9991bf.mp3",
+          "duration": 6879.36,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1765001819703-713f4afe-4c35-4a5d-a869-a1c173566a20.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "6933cbaa5054592eda9991c0"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "6933cbaa5054592eda9991c1"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6933cbaa5054592eda9991bf.mp3"
+        }
+      },
+      "title": "Hafta 566: Sanchar Saathi app fiasco, Putin\u2019s visit to India ",
+      "publish_date": "2025-12-06T06:22:33.926Z",
+      "summary": "<p>This week, <em>Newslaundry</em>\u2019s Manisha Pande, Shardool Katyayan and Raman Kirpal are joined by <em>Medianama </em>founder and editor Nikhil Pahwa and senior journalist Maya Mirchandani.</p><p><br></p><p>The episode opens with the sudden rollout \u2013 and equally swift withdrawal \u2013 of the government\u2019s Sanchar Saathi app.&nbsp;</p><p><br></p><p>Pahwa warned that forcing a government app onto personal devices crossed a critical line between governance and surveillance. \u201cIf you look at the permissions \u2013 access to messages, calls, galleries \u2013 it\u2019s like the government sitting in your phone all the time,\u201d Pahwa said.&nbsp;</p><p><br></p><p>Manisha noted that the app\u2019s withdrawal within 24 hours raised questions about both intent and pushback. \u201cThe introduction and removal of it was very interesting. Why was it hastily introduced and then taken back?\u201d she asked.</p><p><br></p><p>Pahwa acknowledged the scale of India\u2019s fraud problem but underlined that mandatory installation was never the solution. \u201cThe intention wasn\u2019t wrong \u2013 but the question is the method,\u201d he said&nbsp;</p><p><br></p><p>The conversation then moves to Putin's visit to India. Speaking on the media coverage of his visit, Manisha remarked, \u201cEven if there is no deal or whatever happens, we've at least gifted him the great gift of our media, which is the sort of coverage that even his own state media cannot manage.\u201d</p><p><br></p><p>Maya Mirchandani noted that the visit gains significance as it comes amid renewed efforts to negotiate an end to the Ukraine war and rapidly shifting global power alignments.</p><p><br></p><p>This and a lot more. Tune in!</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and announcements</p><p>00:01:59 - Headlines&nbsp;</p><p>00:07:54 - Sanchar Sathi App</p><p>00:49:35-&nbsp; Nikhil\u2019s recommendation</p><p>00:50:55 - Putin visit to India&nbsp;</p><p>01:19:06 - Winter Session of the parliament</p><p>01:38:39 - Maya\u2019s Recommendations</p><p>01:40:15 - Letters</p><p>01:45:10 -&nbsp; Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced by Amit Pandey, with assistant production by Sourav Ranjan. Sound by Anil.</em></strong></p><p><br></p><p><br></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6933cbaa5054592eda9991bf.mp3",
+      "duration": 6879.36,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1765001819703-713f4afe-4c35-4a5d-a869-a1c173566a20.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2025/12/06/hafta-566-sanchar-saathi-app-fiasco-putins-visit-to-india",
     "https://www.newslaundry.com/2025/11/29/hafta-565-behind-the-karnataka-congress-rift-constitution-disconnect",
     "https://www.newslaundry.com/2025/11/22/hafta-564-killing-of-madvi-hidma-and-aftermath-of-red-fort-blast",
     "https://www.newslaundry.com/2025/11/14/nl-hafta-live-decoding-bihars-mandate",
@@ -1014,5 +1058,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2025-11-29T11:39:58.311191"
+  "last_updated": "2025-12-06T11:40:19.128241"
 }

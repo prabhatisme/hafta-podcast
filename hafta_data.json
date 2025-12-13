@@ -1030,9 +1030,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6933cbaa5054592eda9991bf.mp3",
       "duration": 6879.36,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1765001819703-713f4afe-4c35-4a5d-a869-a1c173566a20.jpeg"
+    },
+    "567": {
+      "episode_id": "693cfe66f817d7dbe89ac8fe",
+      "raw_data": {
+        "shows": {
+          "_id": "693cfe66f817d7dbe89ac8fe",
+          "title": "Hafta 567: Dileep acquittal, IndiGo meltdown and the cost of power",
+          "alias": "hafta-567-dileep-acquittal-indigo-meltdown-and-the-cost-of-p",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2025-12-13T05:49:26.754Z",
+          "lastEditedDate": "2025-12-13T10:47:34.939Z",
+          "publishDate": "2025-12-13T05:49:26.481Z",
+          "subtitle": "The podcast where we discuss the news of the week. ",
+          "summary": "<p>This week on <em>Hafta</em>, <em>Newslaundry\u2019s</em> Abhinandan Sekhri, Jayashree Arunachalam and Anand Vardhan are joined by Dhanya Rajendran, editor-in-chief <em>of The News Minute</em> and Anupam Manur, professor at the Takshashila Institution.&nbsp;</p><p><br></p><p>The conversation kicks off with a discussion on the acquittal of Malayalam film star Dileep in the Kerala actor assault case.&nbsp;</p><p><br></p><p>Abhinandan asks Dhanya whether Dileep was too powerful for the courts to act, or whether the investigation was so flawed that a conviction was never possible. Dhanya responds by explaining where the prosecution\u2019s case fell apart. She highlights that in conspiracy cases, the entire chain \u2013 motive, communication, execution, and payment \u2013 must be established. With key witnesses turning hostile, that chain didn\u2019t hold.&nbsp;&nbsp;&nbsp;</p><p><br></p><p>Commenting on the wider implications of the case, Jayashree notes that it has sparked conversations on workplace sexism, misogyny, and gender justice. She adds that Kerala, often perceived as progressive on gender issues, remains deeply patriarchal in reality, with gender being the area where it has made the least progress \u2013 \u201cat times matching the worst examples of misogyny and violence seen elsewhere in India\u201d.</p><p><br></p><p>The conversation then shifts to the recent IndiGo crisis, which left thousands of passengers stranded after mass flight cancellations.&nbsp;</p><p><br></p><p>Anupam Manur notes that India\u2019s aviation industry duopoly is the result of years of airline collapses, mergers, and policy decisions that gradually concentrated market power, raising serious concerns for consumers and regulators alike.</p><p><br></p><p>He further adds, \u201cFor an airline that prides itself on efficiency and foresight, claiming it failed to anticipate new duty-time rules is hard to believe. Either this was poor planning \u2013 or a calculated gamble that passengers ultimately paid for.\u201d</p><p><br></p><p>This and a lot more. Tune in!</p><p><br></p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and announcements</p><p>00:03:42 - Headlines&nbsp;</p><p>00:12:01 - Acquittal of Dileep in 2017 Kerala Actor Assault case&nbsp;</p><p>00:35:27 -&nbsp; Parliament debate on Vande Mathram&nbsp;</p><p>00:43:12 - Indigo Flight crisis</p><p>01:20:31 - Anupam\u2019s Recommendations</p><p>01:24:39 -&nbsp; Letters</p><p>01:33:35-&nbsp; Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced by Amit Pandey, with assistant production by Sourav Ranjan. Sound by Anil. Research Intern Komal Godhra&nbsp;</em></strong></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/693cfe66f817d7dbe89ac8fe.mp3",
+          "duration": 6271.51,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1765604909311-eb3e3c55-9da5-4fde-9b5e-6076075003ab.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "693cfe66f817d7dbe89ac8ff"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "693cfe66f817d7dbe89ac900"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/693cfe66f817d7dbe89ac8fe.mp3"
+        }
+      },
+      "title": "Hafta 567: Dileep acquittal, IndiGo meltdown and the cost of power",
+      "publish_date": "2025-12-13T05:49:26.481Z",
+      "summary": "<p>This week on <em>Hafta</em>, <em>Newslaundry\u2019s</em> Abhinandan Sekhri, Jayashree Arunachalam and Anand Vardhan are joined by Dhanya Rajendran, editor-in-chief <em>of The News Minute</em> and Anupam Manur, professor at the Takshashila Institution.&nbsp;</p><p><br></p><p>The conversation kicks off with a discussion on the acquittal of Malayalam film star Dileep in the Kerala actor assault case.&nbsp;</p><p><br></p><p>Abhinandan asks Dhanya whether Dileep was too powerful for the courts to act, or whether the investigation was so flawed that a conviction was never possible. Dhanya responds by explaining where the prosecution\u2019s case fell apart. She highlights that in conspiracy cases, the entire chain \u2013 motive, communication, execution, and payment \u2013 must be established. With key witnesses turning hostile, that chain didn\u2019t hold.&nbsp;&nbsp;&nbsp;</p><p><br></p><p>Commenting on the wider implications of the case, Jayashree notes that it has sparked conversations on workplace sexism, misogyny, and gender justice. She adds that Kerala, often perceived as progressive on gender issues, remains deeply patriarchal in reality, with gender being the area where it has made the least progress \u2013 \u201cat times matching the worst examples of misogyny and violence seen elsewhere in India\u201d.</p><p><br></p><p>The conversation then shifts to the recent IndiGo crisis, which left thousands of passengers stranded after mass flight cancellations.&nbsp;</p><p><br></p><p>Anupam Manur notes that India\u2019s aviation industry duopoly is the result of years of airline collapses, mergers, and policy decisions that gradually concentrated market power, raising serious concerns for consumers and regulators alike.</p><p><br></p><p>He further adds, \u201cFor an airline that prides itself on efficiency and foresight, claiming it failed to anticipate new duty-time rules is hard to believe. Either this was poor planning \u2013 or a calculated gamble that passengers ultimately paid for.\u201d</p><p><br></p><p>This and a lot more. Tune in!</p><p><br></p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and announcements</p><p>00:03:42 - Headlines&nbsp;</p><p>00:12:01 - Acquittal of Dileep in 2017 Kerala Actor Assault case&nbsp;</p><p>00:35:27 -&nbsp; Parliament debate on Vande Mathram&nbsp;</p><p>00:43:12 - Indigo Flight crisis</p><p>01:20:31 - Anupam\u2019s Recommendations</p><p>01:24:39 -&nbsp; Letters</p><p>01:33:35-&nbsp; Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced by Amit Pandey, with assistant production by Sourav Ranjan. Sound by Anil. Research Intern Komal Godhra&nbsp;</em></strong></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/693cfe66f817d7dbe89ac8fe.mp3",
+      "duration": 6271.51,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1765604909311-eb3e3c55-9da5-4fde-9b5e-6076075003ab.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2025/12/13/hafta-567-dileeps-acquittal-in-kerala-actor-assault-case-indigo-grounds-flyers",
     "https://www.newslaundry.com/2025/12/06/hafta-566-sanchar-saathi-app-fiasco-putins-visit-to-india",
     "https://www.newslaundry.com/2025/11/29/hafta-565-behind-the-karnataka-congress-rift-constitution-disconnect",
     "https://www.newslaundry.com/2025/11/22/hafta-564-killing-of-madvi-hidma-and-aftermath-of-red-fort-blast",
@@ -1058,5 +1102,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2025-12-06T11:40:19.128241"
+  "last_updated": "2025-12-13T11:40:31.963098"
 }

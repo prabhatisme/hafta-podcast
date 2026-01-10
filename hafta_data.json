@@ -1159,9 +1159,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6958b08b18c941d6d6e79f6c.mp3",
       "duration": 6959.11,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1767419989698-77f8ecbc-c83e-4ba0-856f-f60705c9ab15.jpeg"
+    },
+    "571": {
+      "episode_id": "6961ea009ab39048a68a5cfe",
+      "raw_data": {
+        "shows": {
+          "_id": "6961ea009ab39048a68a5cfe",
+          "title": "Hafta 571: Venezuela crisis, still no bail for Umar Khalid and Sharjeel Imam",
+          "alias": "hafta-571-venezuela-crisis-still-no-bail-for-umar-khalid-and",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2026-01-10T05:56:16.984Z",
+          "lastEditedDate": "2026-01-10T05:56:33.717Z",
+          "publishDate": "2026-01-10T05:56:16.689Z",
+          "subtitle": "The podcast where we discuss the news of the week. ",
+          "summary": "<p><br></p><p>This week on Hafta, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Manisha Pande, Jayashree Arunachalam and Raman Kirpal are joined by Ishaan Tharoor, a foreign affairs columnist at <em>The Washington Post</em> and Advocate Vrinda Grover.&nbsp;</p><p><br></p><p>The discussion opens with an examination of the United States\u2019 military operation in Venezuela and its global implications. Ishaan Tharoor says the Trump administration\u2019s approach marked a clear shift in posture. \u201cWhat we\u2019re seeing are a set of impulses and a set of ideologies manifesting in very concrete ways.\u201d</p><p><br></p><p>This operation, he adds, reflects a departure from earlier US claims of restraint. \u201cThe administration has pinned its flag to the mast of not being the kind of administration that wouldn\u2019t wade into major wars or nation-building projects abroad.\u201d</p><p><br></p><p>Manisha Pande discusses the implications of Trump's Venezuela operation for sovereignty in the Global South. \u201cYou are going back to that 19th century idea of imperial power among nation states, which says economic might precedes political sovereignty. Just because we are stronger economically, or we helped you build your systems and industries, we now have control over your political affairs. That's very alarming to me. And where does this stop?\u201d</p><p>The panel then turns to the Supreme Court\u2019s recent decision to deny bail to Umar Khalid and Sharjeel Imam in the 2020 Delhi riots conspiracy case while granting bail to five other accused.</p><p><br></p><p>Vrinda Grover remarks, \u201cI think the Supreme Court needs to reflect very carefully on its own role. It does not help to apologise decades later for decisions like ADM Jabalpur, where fundamental rights were held to be suspended during the Emergency. Here, the court is saying that young people who organised protests \u2014 and who did not indulge in violence \u2014 must remain behind bars, as if they pose a grave danger.\u201d</p><p>She adds, \u201cThe tone and tenor of the judgment present this as an extremely dangerous situation. But that claim collapses when you look at who has been granted bail and who has not. So, what exactly is the Supreme Court saying?\u201d</p><p>This and a lot more. Tune in!</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and announcements</p><p>00:01:01&nbsp;- Headlines&nbsp;</p><p>00:11:35 - Venezuela Crisis</p><p>00:52:15 -&nbsp;Ishaan\u2019s recommendations</p><p>00:55:21 - Lutnick on India - US Trade deal</p><p>01:01:01-&nbsp;Bail Denial to Sharjeel &amp; Umar&nbsp;</p><p>01:22:14 -Vrinda\u2019s recommendations</p><p>01:22:45 - Letters</p><p>01:29:19 -&nbsp;Recommendations</p><p><br></p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced by Amit Pandey, with assistant production by Ashish Anand. Sound by Anil Kumar&nbsp;</em></strong></p><p><br></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6961ea009ab39048a68a5cfe.mp3",
+          "duration": 5967.984,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1768024104904-42d7aec3-826d-47dd-84f2-a5c055484edd.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "6961ea009ab39048a68a5cff"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "6961ea009ab39048a68a5d00"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6961ea009ab39048a68a5cfe.mp3"
+        }
+      },
+      "title": "Hafta 571: Venezuela crisis, still no bail for Umar Khalid and Sharjeel Imam",
+      "publish_date": "2026-01-10T05:56:16.689Z",
+      "summary": "<p><br></p><p>This week on Hafta, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Manisha Pande, Jayashree Arunachalam and Raman Kirpal are joined by Ishaan Tharoor, a foreign affairs columnist at <em>The Washington Post</em> and Advocate Vrinda Grover.&nbsp;</p><p><br></p><p>The discussion opens with an examination of the United States\u2019 military operation in Venezuela and its global implications. Ishaan Tharoor says the Trump administration\u2019s approach marked a clear shift in posture. \u201cWhat we\u2019re seeing are a set of impulses and a set of ideologies manifesting in very concrete ways.\u201d</p><p><br></p><p>This operation, he adds, reflects a departure from earlier US claims of restraint. \u201cThe administration has pinned its flag to the mast of not being the kind of administration that wouldn\u2019t wade into major wars or nation-building projects abroad.\u201d</p><p><br></p><p>Manisha Pande discusses the implications of Trump's Venezuela operation for sovereignty in the Global South. \u201cYou are going back to that 19th century idea of imperial power among nation states, which says economic might precedes political sovereignty. Just because we are stronger economically, or we helped you build your systems and industries, we now have control over your political affairs. That's very alarming to me. And where does this stop?\u201d</p><p>The panel then turns to the Supreme Court\u2019s recent decision to deny bail to Umar Khalid and Sharjeel Imam in the 2020 Delhi riots conspiracy case while granting bail to five other accused.</p><p><br></p><p>Vrinda Grover remarks, \u201cI think the Supreme Court needs to reflect very carefully on its own role. It does not help to apologise decades later for decisions like ADM Jabalpur, where fundamental rights were held to be suspended during the Emergency. Here, the court is saying that young people who organised protests \u2014 and who did not indulge in violence \u2014 must remain behind bars, as if they pose a grave danger.\u201d</p><p>She adds, \u201cThe tone and tenor of the judgment present this as an extremely dangerous situation. But that claim collapses when you look at who has been granted bail and who has not. So, what exactly is the Supreme Court saying?\u201d</p><p>This and a lot more. Tune in!</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and announcements</p><p>00:01:01&nbsp;- Headlines&nbsp;</p><p>00:11:35 - Venezuela Crisis</p><p>00:52:15 -&nbsp;Ishaan\u2019s recommendations</p><p>00:55:21 - Lutnick on India - US Trade deal</p><p>01:01:01-&nbsp;Bail Denial to Sharjeel &amp; Umar&nbsp;</p><p>01:22:14 -Vrinda\u2019s recommendations</p><p>01:22:45 - Letters</p><p>01:29:19 -&nbsp;Recommendations</p><p><br></p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced by Amit Pandey, with assistant production by Ashish Anand. Sound by Anil Kumar&nbsp;</em></strong></p><p><br></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6961ea009ab39048a68a5cfe.mp3",
+      "duration": 5967.984,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1768024104904-42d7aec3-826d-47dd-84f2-a5c055484edd.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2026/01/10/hafta-571-venezuela-crisis-still-no-bail-for-umar-khalid-and-sharjeel-imam",
     "https://www.newslaundry.com/2026/01/03/hafta-570-dehradun-lynching-bangladesh-in-strife-and-the-gig-worker-strike",
     "https://www.newslaundry.com/2025/12/20/hafta-568-mgnrega-replaced-guarantees-gone-and-messi-comes-to-town",
     "https://www.newslaundry.com/2025/12/13/hafta-567-dileeps-acquittal-in-kerala-actor-assault-case-indigo-grounds-flyers",
@@ -1190,5 +1234,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2026-01-03T11:41:21.819987"
+  "last_updated": "2026-01-10T11:41:16.529682"
 }

@@ -1202,9 +1202,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6961ea009ab39048a68a5cfe.mp3",
       "duration": 5967.984,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1768024104904-42d7aec3-826d-47dd-84f2-a5c055484edd.jpeg"
+    },
+    "572": {
+      "episode_id": "696b223d4788cf9ec60fb9da",
+      "raw_data": {
+        "shows": {
+          "_id": "696b223d4788cf9ec60fb9da",
+          "title": "Hafta 572: BCCI vs Bangladesh, and the regime change debate in Iran",
+          "alias": "hafta-572-bcci-vs-bangladesh-and-the-regime-change-debate-in",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2026-01-17T05:46:37.568Z",
+          "lastEditedDate": "2026-01-17T05:52:34.429Z",
+          "publishDate": "2026-01-17T05:46:37.330Z",
+          "subtitle": "The podcast where we discuss the news of the week. ",
+          "summary": "<p><br></p><p>This week on Hafta, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Manisha Pande, Jayashree Arunachalam and Anand Vardhan are joined by Chander Shekhar Luthra, a veteran sports journalist, and Suhasini Haidar, diplomatic affairs editor of <em>The Hindu</em>.&nbsp;</p><p><br></p><p>The discussion opens with India\u2019s latest cricketing row with Bangladesh, triggered by the release of Mustafizur Rahman from IPL 2026 following BCCI directives on apparent geopolitical grounds.</p><p><br></p><p>Chander Shekhar sums up the fallout bluntly: \u201cBangladesh has always backed India at the ICC. There was never a single instance where Bangladesh voted against the BCCI. We\u2019ve actually created an enemy for no reason.\u201d</p><p><br></p><p>Panelists also recall how cricket once acted as a diplomatic bridge \u2013 most notably during India-Pakistan engagements in the early 2000s. Jayashree notes, \u201cI remember 20 or 30 years ago when cricket was actually used to soften political tensions. There was that India tour of Pakistan, a couple of years after the Kargil war, which was seen as a powerful gesture \u2013 a way of saying that the friendship sort of exists\u2026 That\u2019s why this episode feels so petty to me. Are we officially at war with Bangladesh?\u201d</p><p>The discussion then moves to the nationwide protests in Iran. Suhasini stresses that the demonstrations are rooted in lived economic pain. \u201cI don\u2019t think the protests are completely run by foreigners. You\u2019re seeing real protests on the streets.\u201d</p><p><br></p><p>She points to inflation, sanctions, and currency collapse as long-term pressure points, noting that the anger spans cities and social groups, not just activists.</p><p>While acknowledging reports of severe repression, Suhasini cautions against overstating the immediacy of regime change. \u201cThe Iranian regime is going to have to keep dealing with the anger on the streets. But is that enough for regime change?\u201d</p><p><br></p><p>She also asks, \u201cAnd will that regime change actually help?\u201d noting that there is no historical evidence that external intervention in places like Afghanistan, Iraq, or Libya has ever successfully fostered democracy.</p><p><br></p><p>This and a lot more. Tune in!</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and announcements</p><p>00:02:55&nbsp; - Headlines&nbsp;</p><p>00:10:51 - Bangladesh VS India cricket Boards</p><p>00:49:29 - Luthara\u2019s recommendations</p><p>00:50:52 - Iran Unrest &amp; Global Upheavels</p><p>01:31:07 - Letters</p><p>01:44:17 -&nbsp; Recommendations</p><p><br></p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced by Amit Pandey, with assistant production by Saurav Sound by Anil Kumar </em></strong></p><p><br></p><p><br></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/696b223d4788cf9ec60fb9da.mp3",
+          "duration": 7184.56,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1768628651174-db0d942e-a639-4ee9-b472-bc8b97d04d59.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "696b223d4788cf9ec60fb9db"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "696b223d4788cf9ec60fb9dc"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/696b223d4788cf9ec60fb9da.mp3"
+        }
+      },
+      "title": "Hafta 572: BCCI vs Bangladesh, and the regime change debate in Iran",
+      "publish_date": "2026-01-17T05:46:37.330Z",
+      "summary": "<p><br></p><p>This week on Hafta, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Manisha Pande, Jayashree Arunachalam and Anand Vardhan are joined by Chander Shekhar Luthra, a veteran sports journalist, and Suhasini Haidar, diplomatic affairs editor of <em>The Hindu</em>.&nbsp;</p><p><br></p><p>The discussion opens with India\u2019s latest cricketing row with Bangladesh, triggered by the release of Mustafizur Rahman from IPL 2026 following BCCI directives on apparent geopolitical grounds.</p><p><br></p><p>Chander Shekhar sums up the fallout bluntly: \u201cBangladesh has always backed India at the ICC. There was never a single instance where Bangladesh voted against the BCCI. We\u2019ve actually created an enemy for no reason.\u201d</p><p><br></p><p>Panelists also recall how cricket once acted as a diplomatic bridge \u2013 most notably during India-Pakistan engagements in the early 2000s. Jayashree notes, \u201cI remember 20 or 30 years ago when cricket was actually used to soften political tensions. There was that India tour of Pakistan, a couple of years after the Kargil war, which was seen as a powerful gesture \u2013 a way of saying that the friendship sort of exists\u2026 That\u2019s why this episode feels so petty to me. Are we officially at war with Bangladesh?\u201d</p><p>The discussion then moves to the nationwide protests in Iran. Suhasini stresses that the demonstrations are rooted in lived economic pain. \u201cI don\u2019t think the protests are completely run by foreigners. You\u2019re seeing real protests on the streets.\u201d</p><p><br></p><p>She points to inflation, sanctions, and currency collapse as long-term pressure points, noting that the anger spans cities and social groups, not just activists.</p><p>While acknowledging reports of severe repression, Suhasini cautions against overstating the immediacy of regime change. \u201cThe Iranian regime is going to have to keep dealing with the anger on the streets. But is that enough for regime change?\u201d</p><p><br></p><p>She also asks, \u201cAnd will that regime change actually help?\u201d noting that there is no historical evidence that external intervention in places like Afghanistan, Iraq, or Libya has ever successfully fostered democracy.</p><p><br></p><p>This and a lot more. Tune in!</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and announcements</p><p>00:02:55&nbsp; - Headlines&nbsp;</p><p>00:10:51 - Bangladesh VS India cricket Boards</p><p>00:49:29 - Luthara\u2019s recommendations</p><p>00:50:52 - Iran Unrest &amp; Global Upheavels</p><p>01:31:07 - Letters</p><p>01:44:17 -&nbsp; Recommendations</p><p><br></p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced by Amit Pandey, with assistant production by Saurav Sound by Anil Kumar </em></strong></p><p><br></p><p><br></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/696b223d4788cf9ec60fb9da.mp3",
+      "duration": 7184.56,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1768628651174-db0d942e-a639-4ee9-b472-bc8b97d04d59.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2026/01/17/hafta-572-bcci-vs-bangladesh-and-the-regime-change-debate-in-iran",
     "https://www.newslaundry.com/2026/01/10/hafta-571-venezuela-crisis-still-no-bail-for-umar-khalid-and-sharjeel-imam",
     "https://www.newslaundry.com/2026/01/03/hafta-570-dehradun-lynching-bangladesh-in-strife-and-the-gig-worker-strike",
     "https://www.newslaundry.com/2025/12/20/hafta-568-mgnrega-replaced-guarantees-gone-and-messi-comes-to-town",
@@ -1234,5 +1278,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2026-01-10T11:41:16.529682"
+  "last_updated": "2026-01-17T11:41:29.871014"
 }

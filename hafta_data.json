@@ -1245,9 +1245,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/696b223d4788cf9ec60fb9da.mp3",
       "duration": 7184.56,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1768628651174-db0d942e-a639-4ee9-b472-bc8b97d04d59.jpeg"
+    },
+    "573": {
+      "episode_id": "69745f5635a98abf7c9d619c",
+      "raw_data": {
+        "shows": {
+          "_id": "69745f5635a98abf7c9d619c",
+          "title": "Hafta 573: Funding the Davos circus while the net tightens on press freedom in Kashmir",
+          "alias": "hafta-573-funding-the-davos-circus-while-the-net-tightens-on",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2026-01-24T05:57:42.921Z",
+          "lastEditedDate": "2026-01-24T05:58:34.430Z",
+          "publishDate": "2026-01-24T05:57:42.633Z",
+          "subtitle": "The podcast where we discuss the news of the week. ",
+          "summary": "<p><br></p><p>This week on Hafta, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Manisha Pande and Jayashree Arunachalam are joined by journalist and entrepreneur Govindraj Ethiraj.&nbsp;</p><p><br></p><p>The discussion opens up with the recently concluded World Economic Forum held in Davos. Abhinandan sharply questions the performative nature of Indian participation at the forum, criticising chief ministers for announcing Memorandums of Understanding (MoUs) with Indian companies on foreign soil. \u201cWe are funding the circus,\u201d Jayashree remarks bluntly, calling Davos a \u201cclown show\u201d driven by optics rather than outcomes.</p><p><br></p><p>Govindraj also agrees that announcing MoUs, especially with Indian firms, is a misallocation of time and attention, given how the WEF offers leaders \u201can opportunity to gauge the temperature of what is happening in the world order right now\u201d.&nbsp;&nbsp;</p><p><br></p><p>The discussion also touches on the much-touted India-EU free trade agreement, which European Commission president Ursula von der Leyen described as the \u201cmother of all deals\u201d. Govindraj, however, tempers expectations, warning that free trade agreements are often narrow and slow-moving. \u201cThe first bottle of cheaper Scotch won\u2019t arrive tomorrow \u2013 it could take five years,\u201d he quips.</p><p><br></p><p>He further adds, \u201cThe red lines for India are clearly dairy and agricultural products\u2026 You can\u2019t do something which immediately jeopardises your farming lobby. \u200bSo, if you take away agriculture and cheese, what\u2019s left now?\u201d</p><p><br></p><p>From Davos, the conversation shifts to press freedom in Jammu and Kashmir. Speaking on the recent summonses sent national&nbsp; media reporters by the J&amp;K Police, Manisha remarks, \u201cOver the last one year, at least 25 journalists have been summoned by the J&amp;K Police\u2026 anything at all can just land you in a police station being questioned, because it\u2019s \u2018public disorder\u2019, you\u2019re causing \u2018public safety\u2019 disorder.\u201d</p><p><br></p><p>Drawing a contrast between reporters in New Delhi and Kashmir, Abhinandan says, \u201cIt\u2019s very difficult for someone in J&amp;K to tough it out because there is no insulation. Delhi provides great insulation; that\u2019s why those headquartered in Delhi have to step up and protect their reporters who are not in Delhi.</p><p><br></p><p>This and a lot more. Tune in!</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and announcements</p><p>00:04:40&nbsp; - Headlines&nbsp;</p><p>00:17:15 - WEF Davos / India- Eu trade deals&nbsp;</p><p>00: 55:59 - Govind\u2019 recommendations</p><p>01:08:51 - Kashmir reporter\u2019s summoning&nbsp;</p><p>01:17:35 - Letters</p><p>01:28:07 -&nbsp; Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced by Amit Pandey, with assistant production by Ashish, Sound by Anil Kumar&nbsp;</em></strong></p><p><br></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69745f5635a98abf7c9d619c.mp3",
+          "duration": 5681.73,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1769234056090-1038b772-7641-4b2a-8105-7c5a0d24c633.jpeg",
+          "status": "published",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "69745f5635a98abf7c9d619d"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "69745f5635a98abf7c9d619e"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69745f5635a98abf7c9d619c.mp3"
+        }
+      },
+      "title": "Hafta 573: Funding the Davos circus while the net tightens on press freedom in Kashmir",
+      "publish_date": "2026-01-24T05:57:42.633Z",
+      "summary": "<p><br></p><p>This week on Hafta, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Manisha Pande and Jayashree Arunachalam are joined by journalist and entrepreneur Govindraj Ethiraj.&nbsp;</p><p><br></p><p>The discussion opens up with the recently concluded World Economic Forum held in Davos. Abhinandan sharply questions the performative nature of Indian participation at the forum, criticising chief ministers for announcing Memorandums of Understanding (MoUs) with Indian companies on foreign soil. \u201cWe are funding the circus,\u201d Jayashree remarks bluntly, calling Davos a \u201cclown show\u201d driven by optics rather than outcomes.</p><p><br></p><p>Govindraj also agrees that announcing MoUs, especially with Indian firms, is a misallocation of time and attention, given how the WEF offers leaders \u201can opportunity to gauge the temperature of what is happening in the world order right now\u201d.&nbsp;&nbsp;</p><p><br></p><p>The discussion also touches on the much-touted India-EU free trade agreement, which European Commission president Ursula von der Leyen described as the \u201cmother of all deals\u201d. Govindraj, however, tempers expectations, warning that free trade agreements are often narrow and slow-moving. \u201cThe first bottle of cheaper Scotch won\u2019t arrive tomorrow \u2013 it could take five years,\u201d he quips.</p><p><br></p><p>He further adds, \u201cThe red lines for India are clearly dairy and agricultural products\u2026 You can\u2019t do something which immediately jeopardises your farming lobby. \u200bSo, if you take away agriculture and cheese, what\u2019s left now?\u201d</p><p><br></p><p>From Davos, the conversation shifts to press freedom in Jammu and Kashmir. Speaking on the recent summonses sent national&nbsp; media reporters by the J&amp;K Police, Manisha remarks, \u201cOver the last one year, at least 25 journalists have been summoned by the J&amp;K Police\u2026 anything at all can just land you in a police station being questioned, because it\u2019s \u2018public disorder\u2019, you\u2019re causing \u2018public safety\u2019 disorder.\u201d</p><p><br></p><p>Drawing a contrast between reporters in New Delhi and Kashmir, Abhinandan says, \u201cIt\u2019s very difficult for someone in J&amp;K to tough it out because there is no insulation. Delhi provides great insulation; that\u2019s why those headquartered in Delhi have to step up and protect their reporters who are not in Delhi.</p><p><br></p><p>This and a lot more. Tune in!</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and announcements</p><p>00:04:40&nbsp; - Headlines&nbsp;</p><p>00:17:15 - WEF Davos / India- Eu trade deals&nbsp;</p><p>00: 55:59 - Govind\u2019 recommendations</p><p>01:08:51 - Kashmir reporter\u2019s summoning&nbsp;</p><p>01:17:35 - Letters</p><p>01:28:07 -&nbsp; Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><strong><em>Produced by Amit Pandey, with assistant production by Ashish, Sound by Anil Kumar&nbsp;</em></strong></p><p><br></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69745f5635a98abf7c9d619c.mp3",
+      "duration": 5681.73,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1769234056090-1038b772-7641-4b2a-8105-7c5a0d24c633.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2026/01/24/hafta-573-funding-the-circus-in-davos-as-the-net-tightens-on-press-freedom-in-kashmir",
     "https://www.newslaundry.com/2026/01/17/hafta-572-bcci-vs-bangladesh-and-the-regime-change-debate-in-iran",
     "https://www.newslaundry.com/2026/01/10/hafta-571-venezuela-crisis-still-no-bail-for-umar-khalid-and-sharjeel-imam",
     "https://www.newslaundry.com/2026/01/03/hafta-570-dehradun-lynching-bangladesh-in-strife-and-the-gig-worker-strike",
@@ -1278,5 +1322,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2026-01-17T11:41:29.871014"
+  "last_updated": "2026-01-24T11:42:20.074722"
 }

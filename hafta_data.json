@@ -1331,9 +1331,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/697d923f9a56fea50875c6cf.mp3",
       "duration": 7359.14,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1769837078112-471d6b33-aff5-41ad-a0fc-69de6bad8c50.jpeg"
+    },
+    "575": {
+      "episode_id": "69863855d4e01f1069e12aed",
+      "raw_data": {
+        "shows": {
+          "_id": "69863855d4e01f1069e12aed",
+          "title": "Hafta 575: The Naravane book row, WaPo layoffs, and TM Krishna on \u2018making democracy a culture\u2019",
+          "alias": "hafta-575-washington-post-layoffs-the-naravane-book-row-and",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2026-02-06T18:52:05.832Z",
+          "lastEditedDate": "2026-02-07T05:35:43.597Z",
+          "publishDate": "2026-02-07T05:35:43.471Z",
+          "subtitle": "The podcast where we discuss the news of the week. ",
+          "summary": "<p><br></p><p><br></p><p>This week on <em>Hafta</em>, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Manisha Pande, and Jayashree Arunachalam are joined by musician and author T.M. Krishna and defence analyst Ajai Shukla for a conversation that spans Parliament flashpoints, billionaire ownership in journalism, and the deeper cultural fight over India\u2019s national symbols.</p><p><br></p><p>The panel opens with a discussion around the furore in Parliament over former Army chief General M.M. Naravane\u2019s yet-to-be-released memoir this week. Questioning Om Birla\u2019s claim that the Opposition was planning an attack on PM Narendra Modi, Manisha says, \u201cIt\u2019s fear-mongering\u2026 the same story as what prime time had done back when the Prime Minister got stuck in a traffic jam.\u201d</p><p><br></p><p>Ajai Shukla opines that the very fact that a former Army Chief\u2019s account is stuck in clearance limbo shows how tightly the government controls uncomfortable narratives around national security and China.</p><p>The discussion then transitions to the layoff purge at <em>The Washington Post</em>, which Jayashree describes as a symptom of a world where media outlets are \u201cbought by a billionaire\u201d and then \u201cgutted to maximise profits\u201d.&nbsp;</p><p>Abhinandan argues that economics is not just a study of money, but a study of societies, adding that journalism is a public good that cannot be left to the mercy of a billionaire.</p><p>Finally, TM Krishna discusses his new book, <em>We, the People of India</em>, which examines India\u2019s anthem, flag, and other national symbols. Krishna contrasts <em>Vande Mataram </em>with <em>Jana Gana Mana</em>, arguing they reflect very different ideas of India. He also points to a deeper democratic failure.&nbsp;</p><p>\u201cWe entirely failed in making democracy a culture,\u201d Krishna says, arguing that constitutional values were reduced to textbook lines you \u201cjust mugged up to write in an examination.\u201d</p><p>This and a lot more. Tune in!</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and birthday announcements!</p><p>00:05:25 - Headlines</p><p>00:28:14 - T.M. Krishna on his book and being an artist today</p><p>01:28:00 - Controversy over General MM Naravane\u2019s book</p><p>01:49:11 - Letters</p><p>02:08:10 - Recommendations</p><p><br></p><p><br></p><p><em>If you want to write to Hafta, </em><a href=\"https://www.newslaundry.com/podcast-letters\" rel=\"noopener noreferrer\" target=\"_blank\"><em>click here</em></a><em>. </em></p><p><em>Click </em><a href=\"http://newslaundry.com/sena\" rel=\"noopener noreferrer\" target=\"_blank\"><em>here</em></a><em> to contribute to our Sena project. </em></p><p><em>Check out the</em><a href=\"https://www.newslaundry.com/store?routeName=NlStore\" rel=\"noopener noreferrer\" target=\"_blank\"><em> Newslaundry store</em></a><em> and flaunt your love for independent media. </em></p><p><em>Download the</em><a href=\"http://www.newslaundry.com/download-app\" rel=\"noopener noreferrer\" target=\"_blank\"><em> Newslaundry app</em></a><em>.&nbsp;</em></p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em> Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><em>Produced by Priyali Dhingra, with assistant production by Ashish Anand. Sound by Anil Kumar </em></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69863855d4e01f1069e12aed.mp3",
+          "duration": 8095.96,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1770403656692-7395e175-6c38-4db8-8f1e-9aeee8abf6dc.jpeg",
+          "status": "published",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "69863855d4e01f1069e12aee"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "69863855d4e01f1069e12aef"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69863855d4e01f1069e12aed.mp3"
+        }
+      },
+      "title": "Hafta 575: The Naravane book row, WaPo layoffs, and TM Krishna on \u2018making democracy a culture\u2019",
+      "publish_date": "2026-02-07T05:35:43.471Z",
+      "summary": "<p><br></p><p><br></p><p>This week on <em>Hafta</em>, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Manisha Pande, and Jayashree Arunachalam are joined by musician and author T.M. Krishna and defence analyst Ajai Shukla for a conversation that spans Parliament flashpoints, billionaire ownership in journalism, and the deeper cultural fight over India\u2019s national symbols.</p><p><br></p><p>The panel opens with a discussion around the furore in Parliament over former Army chief General M.M. Naravane\u2019s yet-to-be-released memoir this week. Questioning Om Birla\u2019s claim that the Opposition was planning an attack on PM Narendra Modi, Manisha says, \u201cIt\u2019s fear-mongering\u2026 the same story as what prime time had done back when the Prime Minister got stuck in a traffic jam.\u201d</p><p><br></p><p>Ajai Shukla opines that the very fact that a former Army Chief\u2019s account is stuck in clearance limbo shows how tightly the government controls uncomfortable narratives around national security and China.</p><p>The discussion then transitions to the layoff purge at <em>The Washington Post</em>, which Jayashree describes as a symptom of a world where media outlets are \u201cbought by a billionaire\u201d and then \u201cgutted to maximise profits\u201d.&nbsp;</p><p>Abhinandan argues that economics is not just a study of money, but a study of societies, adding that journalism is a public good that cannot be left to the mercy of a billionaire.</p><p>Finally, TM Krishna discusses his new book, <em>We, the People of India</em>, which examines India\u2019s anthem, flag, and other national symbols. Krishna contrasts <em>Vande Mataram </em>with <em>Jana Gana Mana</em>, arguing they reflect very different ideas of India. He also points to a deeper democratic failure.&nbsp;</p><p>\u201cWe entirely failed in making democracy a culture,\u201d Krishna says, arguing that constitutional values were reduced to textbook lines you \u201cjust mugged up to write in an examination.\u201d</p><p>This and a lot more. Tune in!</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and birthday announcements!</p><p>00:05:25 - Headlines</p><p>00:28:14 - T.M. Krishna on his book and being an artist today</p><p>01:28:00 - Controversy over General MM Naravane\u2019s book</p><p>01:49:11 - Letters</p><p>02:08:10 - Recommendations</p><p><br></p><p><br></p><p><em>If you want to write to Hafta, </em><a href=\"https://www.newslaundry.com/podcast-letters\" rel=\"noopener noreferrer\" target=\"_blank\"><em>click here</em></a><em>. </em></p><p><em>Click </em><a href=\"http://newslaundry.com/sena\" rel=\"noopener noreferrer\" target=\"_blank\"><em>here</em></a><em> to contribute to our Sena project. </em></p><p><em>Check out the</em><a href=\"https://www.newslaundry.com/store?routeName=NlStore\" rel=\"noopener noreferrer\" target=\"_blank\"><em> Newslaundry store</em></a><em> and flaunt your love for independent media. </em></p><p><em>Download the</em><a href=\"http://www.newslaundry.com/download-app\" rel=\"noopener noreferrer\" target=\"_blank\"><em> Newslaundry app</em></a><em>.&nbsp;</em></p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em> Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><em>Produced by Priyali Dhingra, with assistant production by Ashish Anand. Sound by Anil Kumar </em></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69863855d4e01f1069e12aed.mp3",
+      "duration": 8095.96,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1770403656692-7395e175-6c38-4db8-8f1e-9aeee8abf6dc.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2026/02/07/hafta-575-the-naravane-book-row-wapo-layoffs-and-tm-krishna-on-making-democracy-a-culture",
     "https://www.newslaundry.com/2026/01/31/hafta-574-economic-survey-budget-anxieties-and-the-ugc-caste-row",
     "https://www.newslaundry.com/2026/01/24/hafta-573-funding-the-circus-in-davos-as-the-net-tightens-on-press-freedom-in-kashmir",
     "https://www.newslaundry.com/2026/01/17/hafta-572-bcci-vs-bangladesh-and-the-regime-change-debate-in-iran",
@@ -1366,5 +1410,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2026-01-31T11:45:50.597588"
+  "last_updated": "2026-02-07T11:47:08.357043"
 }

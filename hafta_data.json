@@ -1417,9 +1417,52 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6990106ad6c27a06bb9d7fff.mp3",
       "duration": 7663.512,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1771048720445-a623e982-1cdb-43c3-8b27-da7218048635.jpeg"
+    },
+    "577": {
+      "episode_id": "69994f4a166f17685816f7b4",
+      "raw_data": {
+        "shows": {
+          "_id": "69994f4a166f17685816f7b4",
+          "title": "Hafta 577: AI Impact Summit, big tech brokering, and Delhi\u2019s logistical chaos",
+          "alias": "hafta-577-ai-impact-summit-big-tech-brokering-and-delhis-log",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2026-02-21T06:23:06.983Z",
+          "lastEditedDate": "2026-02-21T06:27:32.502Z",
+          "publishDate": "2026-02-21T06:23:06.593Z",
+          "subtitle": "The podcast where we discuss the news of the week. ",
+          "summary": "<p>This week on <em>Hafta</em>, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Manisha Pande and Shardool Katyayan are joined by Amba Kak, a tech policy expert and researcher, and Alex Travelli, the South Asia business correspondent for <em>The New York Times</em>.</p><p><br></p><p>The panel opens the discussion on the recently concluded AI Impact Summit 2026 in New Delhi, unpacking the logistical chaos, public participation, and the overarching implications of artificial intelligence on society and business and the talk of the town: Galgotias University.</p><p><br></p><p>Amba Kak pulls back the curtain on the official agenda versus the reality. She says, \u201cNone of what is on the agenda really matters because the real agenda is being set in the announcements around the big tech investments and some brokering that happened with some extremely weak source commitments. So, it's almost like \u2018have your fun, have your conversations, and we will be having the real summit elsewhere.\u2019 And I think that is exactly what happened.\u201d&nbsp;</p><p><br></p><p>Alex Travelli expresses skepticism over the massive capital influx driving the industry, noting that India is being treated as the world\u2019s \u201clargest living laboratory\u201d for AI. \u201cThere's been too much money committed to this part of the world's growth cycle,\u201d he warns. \u201cThere's just no way that these trillions can pay off in the way that a normal investment does.\u201d</p><p><br></p><p>The panel also notes the potential benefits of AI. Manisha, for example, makes an interesting point about using AI to address civic issues and improve state transparency, citing how cities like Memphis in the US are using AI to fix potholes.&nbsp;</p><p><br></p><p>Abhinandan, meanwhile, takes issue with the traffic chaos surrounding the AI Summit, noting: \u201cIn any other civilised democracy, citizens would not tolerate the kind of crap that happened... People are walking five kilometres to get a cab.\u201d He\u2019s not exaggerating \u2013 several attendees, including delegates, were forced to walk for kilometres to find a ride after vehicle access was barred for VVIP movement and the nearest metro station was closed.</p><p><br></p><p>This and a lot more. Tune in!</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and announcements!</p><p>00:04:03 - Headlines</p><p>00:13:30 - AI Impact Summit 2026 in New Delhi</p><p>01:07:02 - Amba\u2019s Recommendations</p><p>01:10:05 - Economics and Business side of AI</p><p>01:38:40 - Letter</p><p>01:50:42 - Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><em>Produced by Ashish Anand &amp; Amit Pandey. Sound by Anil Kumar&nbsp;</em></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69994f4a166f17685816f7b4.mp3",
+          "duration": 6911.97,
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "69994f4a166f17685816f7b5"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "69994f4a166f17685816f7b6"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69994f4a166f17685816f7b4.mp3"
+        }
+      },
+      "title": "Hafta 577: AI Impact Summit, big tech brokering, and Delhi\u2019s logistical chaos",
+      "publish_date": "2026-02-21T06:23:06.593Z",
+      "summary": "<p>This week on <em>Hafta</em>, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Manisha Pande and Shardool Katyayan are joined by Amba Kak, a tech policy expert and researcher, and Alex Travelli, the South Asia business correspondent for <em>The New York Times</em>.</p><p><br></p><p>The panel opens the discussion on the recently concluded AI Impact Summit 2026 in New Delhi, unpacking the logistical chaos, public participation, and the overarching implications of artificial intelligence on society and business and the talk of the town: Galgotias University.</p><p><br></p><p>Amba Kak pulls back the curtain on the official agenda versus the reality. She says, \u201cNone of what is on the agenda really matters because the real agenda is being set in the announcements around the big tech investments and some brokering that happened with some extremely weak source commitments. So, it's almost like \u2018have your fun, have your conversations, and we will be having the real summit elsewhere.\u2019 And I think that is exactly what happened.\u201d&nbsp;</p><p><br></p><p>Alex Travelli expresses skepticism over the massive capital influx driving the industry, noting that India is being treated as the world\u2019s \u201clargest living laboratory\u201d for AI. \u201cThere's been too much money committed to this part of the world's growth cycle,\u201d he warns. \u201cThere's just no way that these trillions can pay off in the way that a normal investment does.\u201d</p><p><br></p><p>The panel also notes the potential benefits of AI. Manisha, for example, makes an interesting point about using AI to address civic issues and improve state transparency, citing how cities like Memphis in the US are using AI to fix potholes.&nbsp;</p><p><br></p><p>Abhinandan, meanwhile, takes issue with the traffic chaos surrounding the AI Summit, noting: \u201cIn any other civilised democracy, citizens would not tolerate the kind of crap that happened... People are walking five kilometres to get a cab.\u201d He\u2019s not exaggerating \u2013 several attendees, including delegates, were forced to walk for kilometres to find a ride after vehicle access was barred for VVIP movement and the nearest metro station was closed.</p><p><br></p><p>This and a lot more. Tune in!</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and announcements!</p><p>00:04:03 - Headlines</p><p>00:13:30 - AI Impact Summit 2026 in New Delhi</p><p>01:07:02 - Amba\u2019s Recommendations</p><p>01:10:05 - Economics and Business side of AI</p><p>01:38:40 - Letter</p><p>01:50:42 - Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><em>Produced by Ashish Anand &amp; Amit Pandey. Sound by Anil Kumar&nbsp;</em></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69994f4a166f17685816f7b4.mp3",
+      "duration": 6911.97,
+      "cover": ""
     }
   },
   "links": [
+    "https://www.newslaundry.com/2026/02/21/hafta-577-ai-impact-summit-big-tech-brokering-and-delhis-logistical-chaos",
     "https://www.newslaundry.com/2026/02/14/hafta-576-cinema-censorship-and-the-crisis-in-parliament",
     "https://www.newslaundry.com/2026/02/07/hafta-575-the-naravane-book-row-wapo-layoffs-and-tm-krishna-on-making-democracy-a-culture",
     "https://www.newslaundry.com/2026/01/31/hafta-574-economic-survey-budget-anxieties-and-the-ugc-caste-row",
@@ -1454,5 +1497,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2026-02-14T11:47:34.739386"
+  "last_updated": "2026-02-21T11:46:51.943801"
 }

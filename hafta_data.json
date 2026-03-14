@@ -1545,9 +1545,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69abb9c9c2eb2fc3ab648b43.mp3",
       "duration": 6612.88,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1772861806351-c9e12e81-b385-4d2b-932c-2ab1293a5be7.jpeg"
+    },
+    "580": {
+      "episode_id": "69b4fa9763444515f9032bef",
+      "raw_data": {
+        "shows": {
+          "_id": "69b4fa9763444515f9032bef",
+          "title": "Hafta 580: Nitish Kumar's \u2018decline\u2019, religion in sports, and the ethics of euthanasia",
+          "alias": "hafta-580-nitish-kumars-decline-religion-in-sports-and-the-e",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2026-03-14T06:05:11.328Z",
+          "lastEditedDate": "2026-03-14T06:05:25.928Z",
+          "publishDate": "2026-03-14T06:05:11.065Z",
+          "subtitle": " The podcast where we discuss the news of the week. ",
+          "summary": "<p><br></p><p>This week on Hafta, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Manisha Pande, Jayashree Arunachalam, Raman Kirpal and Anand Vardhan discuss three big themes: Nitish Kumar\u2019s succession politics in Bihar, religion creeping into sport, and the ethics of euthanasia.</p><p><br></p><p>On Nitish Kumar, Abhinandan frames the twist of his son entering politics and Nitish eyeing the Rajya Sabha as a test of \u201cthe inevitability of nepotism\u201d, noting that even leaders who built careers on anti-dynasty politics eventually \u201cjust stop pretending that it\u2019s not an issue.\u201d</p><p><br></p><p>Anand is blunt about Nitish\u2019s present state: \u201cWe have seen the decline in his cognitive health\u2026 there are hours when he\u2019s in control, but most of the hours he\u2019s not in control,\u201d arguing that coterie figures are now \u201cmanaging him and deciding for him.\u201d</p><p><br></p><p>The conversation then shifts to religion in sports, triggered by controversy over India\u2019s cricket World Cup trophy being taken to a temple and football matches pausing to allow Muslim players to break their Ramadan fast.</p><p><br></p><p>Abhinandan calls religiosity on the field \u201cextremely distasteful,\u201d adding, \u201cIf you want to fast, don\u2019t play the game,\u201d and asks why a state-aligned BCCI-style system would never allow the trophy to be taken to \u201ca church or a mosque\u201d without a political storm.</p><p><br></p><p>Manisha takes a more nuanced view, distinguishing between individual expression and institutional endorsement. She remarks, \u201cIf it\u2019s a personal thing, it\u2019s fine\u2026 but as a team it\u2019s better to keep it out.\u201d&nbsp;</p><p><br></p><p>Raman adds that religion should remain a private matter and warns that public displays can alienate others.</p><p><br></p><p>Finally, the discussion transitions to euthanasia, following a Supreme Court case involving a man who has remained in a vegetative state since 2013. The debate centers on the distinction between active euthanasia and passive euthanasia, and the ethical dilemmas faced by families forced to decide whether to withdraw life support.</p><p><br></p><p>The discussion highlights the emotional difficulty of such decisions, especially when families continue to hope for a miracle despite medical evidence.</p><p><br></p><p><strong><em>All this and more \u2013 listen to the full discussion.</em></strong></p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and announcements!</p><p>00:03:46 - Headlines</p><p>00:17:05&nbsp; - Nitish &amp; Bihar politics</p><p>00:27:04 - Religiosity in sports&nbsp;</p><p>00:47:48&nbsp; - Euthanasia: Right or Wrong ?</p><p>01:16:46 - Letter</p><p>01:30:43- Recommendations</p><p><br></p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><em>Produced by Amit Pandey with Production assistant by Saif Ekram &amp; Abhay. Sound by Naresh&nbsp;</em></p><p><br></p><p><br></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69b4fa9763444515f9032bef.mp3",
+          "duration": 6657.144,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1773467592503-a9b1b4f8-4dfd-4163-bc8b-514677d79294.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "69b4fa9763444515f9032bf0"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "69b4fa9763444515f9032bf1"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69b4fa9763444515f9032bef.mp3"
+        }
+      },
+      "title": "Hafta 580: Nitish Kumar's \u2018decline\u2019, religion in sports, and the ethics of euthanasia",
+      "publish_date": "2026-03-14T06:05:11.065Z",
+      "summary": "<p><br></p><p>This week on Hafta, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Manisha Pande, Jayashree Arunachalam, Raman Kirpal and Anand Vardhan discuss three big themes: Nitish Kumar\u2019s succession politics in Bihar, religion creeping into sport, and the ethics of euthanasia.</p><p><br></p><p>On Nitish Kumar, Abhinandan frames the twist of his son entering politics and Nitish eyeing the Rajya Sabha as a test of \u201cthe inevitability of nepotism\u201d, noting that even leaders who built careers on anti-dynasty politics eventually \u201cjust stop pretending that it\u2019s not an issue.\u201d</p><p><br></p><p>Anand is blunt about Nitish\u2019s present state: \u201cWe have seen the decline in his cognitive health\u2026 there are hours when he\u2019s in control, but most of the hours he\u2019s not in control,\u201d arguing that coterie figures are now \u201cmanaging him and deciding for him.\u201d</p><p><br></p><p>The conversation then shifts to religion in sports, triggered by controversy over India\u2019s cricket World Cup trophy being taken to a temple and football matches pausing to allow Muslim players to break their Ramadan fast.</p><p><br></p><p>Abhinandan calls religiosity on the field \u201cextremely distasteful,\u201d adding, \u201cIf you want to fast, don\u2019t play the game,\u201d and asks why a state-aligned BCCI-style system would never allow the trophy to be taken to \u201ca church or a mosque\u201d without a political storm.</p><p><br></p><p>Manisha takes a more nuanced view, distinguishing between individual expression and institutional endorsement. She remarks, \u201cIf it\u2019s a personal thing, it\u2019s fine\u2026 but as a team it\u2019s better to keep it out.\u201d&nbsp;</p><p><br></p><p>Raman adds that religion should remain a private matter and warns that public displays can alienate others.</p><p><br></p><p>Finally, the discussion transitions to euthanasia, following a Supreme Court case involving a man who has remained in a vegetative state since 2013. The debate centers on the distinction between active euthanasia and passive euthanasia, and the ethical dilemmas faced by families forced to decide whether to withdraw life support.</p><p><br></p><p>The discussion highlights the emotional difficulty of such decisions, especially when families continue to hope for a miracle despite medical evidence.</p><p><br></p><p><strong><em>All this and more \u2013 listen to the full discussion.</em></strong></p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and announcements!</p><p>00:03:46 - Headlines</p><p>00:17:05&nbsp; - Nitish &amp; Bihar politics</p><p>00:27:04 - Religiosity in sports&nbsp;</p><p>00:47:48&nbsp; - Euthanasia: Right or Wrong ?</p><p>01:16:46 - Letter</p><p>01:30:43- Recommendations</p><p><br></p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><em>Produced by Amit Pandey with Production assistant by Saif Ekram &amp; Abhay. Sound by Naresh&nbsp;</em></p><p><br></p><p><br></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69b4fa9763444515f9032bef.mp3",
+      "duration": 6657.144,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1773467592503-a9b1b4f8-4dfd-4163-bc8b-514677d79294.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2026/03/14/hafta-580-nitish-kumars-decline-religion-in-sports-and-the-ethics-of-euthanasia",
     "https://www.newslaundry.com/2026/03/07/hafta-579-us-israels-war-against-iran-civilian-toll-and-indias-dilemma",
     "https://www.newslaundry.com/2026/02/28/hafta-578-the-lutyens-bust-row-and-indias-shifting-ties-with-israel",
     "https://www.newslaundry.com/2026/02/21/hafta-577-ai-impact-summit-big-tech-brokering-and-delhis-logistical-chaos",
@@ -1585,5 +1629,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2026-03-07T11:45:17.740462"
+  "last_updated": "2026-03-14T11:48:21.347900"
 }

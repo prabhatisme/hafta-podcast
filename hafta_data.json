@@ -1588,9 +1588,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69b4fa9763444515f9032bef.mp3",
       "duration": 6657.144,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1773467592503-a9b1b4f8-4dfd-4163-bc8b-514677d79294.jpeg"
+    },
+    "581": {
+      "episode_id": "69bdf4d31a160b44dbd86917",
+      "raw_data": {
+        "shows": {
+          "_id": "69bdf4d31a160b44dbd86917",
+          "title": "Hafta 581: Bollywood\u2019s #MeToo disincentive and the Trans Bill 2026 protests",
+          "alias": "hafta-581",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2026-03-21T01:30:59.962Z",
+          "lastEditedDate": "2026-03-21T10:45:49.022Z",
+          "publishDate": "2026-03-21T05:46:38.921Z",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69bdf4d31a160b44dbd86917.mp3",
+          "duration": 7049.01,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1774056651113-222acd99-9a59-4b94-a8b8-ce667b0738d3.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "69bdf4d31a160b44dbd86918"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "69bdf4d31a160b44dbd86919"
+            }
+          ],
+          "publishSequence": [],
+          "subtitle": "The podcast where we discuss the news of the week. ",
+          "summary": "<p>This week on Hafta, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Jayashree Arunachalam, and Shardool Katyayan are joined by independent journalist Nidhi Suresh and Mridul Dudeja, a freelance technologist who has been engaged with queer-trans community spaces in Mumbai and across India for over 15 years.&nbsp;</p><p><br></p><p>The episode opens with a deep dive into Nidhi Suresh\u2019s investigation into the promise and collapse of the #MeToo movement in Bollywood, unpacking how the movement exposed abuse but failed to deliver structural change.</p><p><br></p><p>Nidhi traces the original intent of the movement, saying, \u201cWhen MeToo began in 2017, it was about calling out men in power who are abusers\u2026 to say that I have lost out on opportunities because I did not give in to what you wanted from me.\u201d</p><p><br></p><p>However, she explains that the aftermath has been far more damaging for survivors than perpetrators. \u201cWhat has happened now\u2026 is that most women have lost jobs for calling out men. So, the incentive to actually name a perpetrator has gone down.\u201d</p><p><br></p><p>Abhinandan underlines the shift bluntly by saying, \u201cNot only has the incentive gone down, but there is also a disincentive. You\u2019ll suffer.\u201d</p><p><br></p><p>Speaking about the challenges of reporting on #MeToo, Nidhi remarks, \u201cI do think that as journalists, this poses an interesting challenge because we are still trying to understand how to report on power and gender dynamics\u2026 how do you report something that is so private and so intimate?\u201d</p><p><br></p><p>The discussion then shifts to the Transgender Persons (Protection of Rights) Amendment Bill, 2026, which has triggered protests across the country.</p><p><br></p><p>Highlighting key concerns with the Transgender Persons Bill, 2026, Mridul Dudeja outlines several problematic provisions. He points to the removal of self-identification, a narrow definition of transgender identity, and the inclusion of Section 18, which criminalises anyone who \u201cforces or allures\u201d a person into identifying as transgender.</p><p><br></p><p>Mridul also notes that the law introduces a range of penalties, including fines and possible imprisonment, despite there being no evidence in India of people being coerced into becoming transgender. He describes Section 18 as a particularly \u201cdangerous provision\u201d that risks undermining the very groups the government claims to protect.</p><p><br></p><p>Critiquing the role of institutional control in the Bill, Jayashree points out how identity is being shifted away from individuals to external bodies, saying, \u201cThe bill removes the provision of self-perceived gender identity and mandates certification instead by a medical board,\u201d warning that such frameworks risk creating layers of gatekeeping similar to NGO or institutional mediation rather than recognising lived identity.</p><p><br></p><p><strong><em>All this and more \u2013 listen to the full discussion.</em></strong></p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and announcements</p><p>00:06:03 - Headlines</p><p>00:19:46 - #Meetoo Movement &amp; Election</p><p>01:10:42- Transgender Amendment Bill 2026&nbsp;</p><p>01:27:14&nbsp;- Mridul\u2019s Recommendation</p><p>01:33:27 - Letters</p><p>01:47:27 - Recommendations</p><p><br></p><p><strong>&nbsp;</strong></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><em>Produced by Amit Pandey with production assistance from Sourav Ranjan and Abhay Kumar. Sound by Anil Kumar</em></p><p><br></p><p><br></p>",
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69bdf4d31a160b44dbd86917.mp3"
+        }
+      },
+      "title": "Hafta 581: Bollywood\u2019s #MeToo disincentive and the Trans Bill 2026 protests",
+      "publish_date": "2026-03-21T05:46:38.921Z",
+      "summary": "<p>This week on Hafta, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Jayashree Arunachalam, and Shardool Katyayan are joined by independent journalist Nidhi Suresh and Mridul Dudeja, a freelance technologist who has been engaged with queer-trans community spaces in Mumbai and across India for over 15 years.&nbsp;</p><p><br></p><p>The episode opens with a deep dive into Nidhi Suresh\u2019s investigation into the promise and collapse of the #MeToo movement in Bollywood, unpacking how the movement exposed abuse but failed to deliver structural change.</p><p><br></p><p>Nidhi traces the original intent of the movement, saying, \u201cWhen MeToo began in 2017, it was about calling out men in power who are abusers\u2026 to say that I have lost out on opportunities because I did not give in to what you wanted from me.\u201d</p><p><br></p><p>However, she explains that the aftermath has been far more damaging for survivors than perpetrators. \u201cWhat has happened now\u2026 is that most women have lost jobs for calling out men. So, the incentive to actually name a perpetrator has gone down.\u201d</p><p><br></p><p>Abhinandan underlines the shift bluntly by saying, \u201cNot only has the incentive gone down, but there is also a disincentive. You\u2019ll suffer.\u201d</p><p><br></p><p>Speaking about the challenges of reporting on #MeToo, Nidhi remarks, \u201cI do think that as journalists, this poses an interesting challenge because we are still trying to understand how to report on power and gender dynamics\u2026 how do you report something that is so private and so intimate?\u201d</p><p><br></p><p>The discussion then shifts to the Transgender Persons (Protection of Rights) Amendment Bill, 2026, which has triggered protests across the country.</p><p><br></p><p>Highlighting key concerns with the Transgender Persons Bill, 2026, Mridul Dudeja outlines several problematic provisions. He points to the removal of self-identification, a narrow definition of transgender identity, and the inclusion of Section 18, which criminalises anyone who \u201cforces or allures\u201d a person into identifying as transgender.</p><p><br></p><p>Mridul also notes that the law introduces a range of penalties, including fines and possible imprisonment, despite there being no evidence in India of people being coerced into becoming transgender. He describes Section 18 as a particularly \u201cdangerous provision\u201d that risks undermining the very groups the government claims to protect.</p><p><br></p><p>Critiquing the role of institutional control in the Bill, Jayashree points out how identity is being shifted away from individuals to external bodies, saying, \u201cThe bill removes the provision of self-perceived gender identity and mandates certification instead by a medical board,\u201d warning that such frameworks risk creating layers of gatekeeping similar to NGO or institutional mediation rather than recognising lived identity.</p><p><br></p><p><strong><em>All this and more \u2013 listen to the full discussion.</em></strong></p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and announcements</p><p>00:06:03 - Headlines</p><p>00:19:46 - #Meetoo Movement &amp; Election</p><p>01:10:42- Transgender Amendment Bill 2026&nbsp;</p><p>01:27:14&nbsp;- Mridul\u2019s Recommendation</p><p>01:33:27 - Letters</p><p>01:47:27 - Recommendations</p><p><br></p><p><strong>&nbsp;</strong></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><em>Produced by Amit Pandey with production assistance from Sourav Ranjan and Abhay Kumar. Sound by Anil Kumar</em></p><p><br></p><p><br></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69bdf4d31a160b44dbd86917.mp3",
+      "duration": 7049.01,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1774056651113-222acd99-9a59-4b94-a8b8-ce667b0738d3.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2026/03/21/hafta-581-bollywoods-metoo-disincentive-and-the-trans-bill-2026-protests",
     "https://www.newslaundry.com/2026/03/14/hafta-580-nitish-kumars-decline-religion-in-sports-and-the-ethics-of-euthanasia",
     "https://www.newslaundry.com/2026/03/07/hafta-579-us-israels-war-against-iran-civilian-toll-and-indias-dilemma",
     "https://www.newslaundry.com/2026/02/28/hafta-578-the-lutyens-bust-row-and-indias-shifting-ties-with-israel",
@@ -1629,5 +1673,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2026-03-14T11:48:21.347900"
+  "last_updated": "2026-03-21T11:47:55.762024"
 }

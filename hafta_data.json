@@ -1631,9 +1631,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69bdf4d31a160b44dbd86917.mp3",
       "duration": 7049.01,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1774056651113-222acd99-9a59-4b94-a8b8-ce667b0738d3.jpeg"
+    },
+    "582": {
+      "episode_id": "69c76d079b6be94a1a2581ad",
+      "raw_data": {
+        "shows": {
+          "_id": "69c76d079b6be94a1a2581ad",
+          "title": "Hafta 582: Old ghosts, new Af-Pak war and India\u2019s strategy",
+          "alias": "hafta-582-old-ghosts-new-af-pak-war-and-indias-strategy",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2026-03-28T05:54:15.321Z",
+          "lastEditedDate": "2026-03-28T11:03:31.894Z",
+          "publishDate": "2026-03-28T05:54:15.034Z",
+          "subtitle": " The podcast where we discuss the news of the week. ",
+          "summary": "<p>This week on Hafta, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Jayashree Arunachalam, and Manisha Pande are joined by <em>The</em> <em>New York Times</em> journalist Mujib Mashal and Aishwaria Sonavane, research analyst for Pakistan studies at the Takshashila Institution.</p><p><br></p><p>The episode dives deep into the escalating tensions between Afghanistan and Pakistan, unpacking the history, geopolitics, and contradictions shaping the region today.&nbsp;</p><p><br></p><p>Aishwaria notes that the latest escalation marks a significant shift in Pakistan\u2019s approach. \u201cThis is not the first time Pakistan has conducted airstrikes in Afghanistan, but what is different this time is where and how. Earlier, the strikes were limited to targeting Tehreek-e-Taliban Pakistan camps in peripheral regions. But now, Pakistan has changed its strategy. It has effectively declared an open war on the Afghan Taliban itself\u2026Strikes have taken place in Kandahar, which is the birthplace of the Taliban, and even Kabul,\u201d she says.</p><p><br></p><p>Mujib points to the geopolitical context and the changing global order. \u201cWe are living in a transactional world right now, where what matters is what you can offer to major powers. That defines your legitimacy and your space to act. Pakistan, even as it wages war in Afghanistan, is being seen internationally as a potential mediator in other conflicts. That tells you everything. You can operate freely in your backyard as long as you remain useful globally.\u201d</p><p><br></p><p>He highlights Pakistan\u2019s long-standing strategic contradictions. \u201cFor years, Pakistan played a double game. While it provided safe havens and support to the Afghan Taliban fighting the Americans, it simultaneously maintained strong ties with the United States.\u201d</p><p><br></p><p>Abhinandan questions the objectives. \u201cThey say it\u2019s about the TTP and security threats \u2013 but that\u2019s not new. So what\u2019s the real objective here? Because unless something fundamental has shifted, this escalation doesn\u2019t fully make sense on the surface.\u201d</p><p><br></p><p>Mujib points to the historical roots of the conflict. \u201cWe cannot ignore the role of American intervention in creating this situation. The first iteration of the Taliban emerged from US-backed efforts during the Cold War. The second, more emboldened version emerged after a 20-year war that ended with the US leaving and handing power back to them. Yet, global discussions often ignore this history \u2013 as if these conflicts appeared out of nowhere.\u201d</p><p><br></p><p>On India\u2019s position, Aishwaria reiterates a pragmatic approach. \u201cIndia\u2019s engagement with the Taliban is not ideological. It is strategic. India waited for fractures between Pakistan and Afghanistan to emerge, and once that happened, it used the opportunity to establish contact. The goal is to maintain influence in the region, counter China and Pakistan, and ensure that Afghan territory is not used against Indian interests. It\u2019s a classic example of realpolitik, where interests take precedence over ideology.\u201d</p><p><br></p><p>All this and more.</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and announcements</p><p>00:05:52: - Headlines</p><p>00:14:50 - Afghanistan and Pakistan Conflict</p><p>00:58:09 - Aishwaria\u2019s Recommendation</p><p>00:58:52 \u2013 Subramaniam Swamy Interview&nbsp;</p><p>01:07:49 &nbsp; - Mujib\u2019\u2019s Recommendation</p><p>01:10:58 - Subramaniam Swamy Interview&nbsp;</p><p>01:17:59 - Letters</p><p>01:37:21:04&nbsp; - Recommendations</p><p><br></p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><em>Produced by Amit Pandey with production assistance from Priyali Dhingra and Abhay Kumar. Sound by Anil Kumar</em></p><p><br></p><p><br></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69c76d079b6be94a1a2581ad.mp3",
+          "duration": 6150.31,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1774676671738-921b863a-30b0-4602-98a0-27c89ec4afa6.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "69c76d079b6be94a1a2581ae"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "69c76d079b6be94a1a2581af"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69c76d079b6be94a1a2581ad.mp3"
+        }
+      },
+      "title": "Hafta 582: Old ghosts, new Af-Pak war and India\u2019s strategy",
+      "publish_date": "2026-03-28T05:54:15.034Z",
+      "summary": "<p>This week on Hafta, <em>Newslaundry</em>\u2019s Abhinandan Sekhri, Jayashree Arunachalam, and Manisha Pande are joined by <em>The</em> <em>New York Times</em> journalist Mujib Mashal and Aishwaria Sonavane, research analyst for Pakistan studies at the Takshashila Institution.</p><p><br></p><p>The episode dives deep into the escalating tensions between Afghanistan and Pakistan, unpacking the history, geopolitics, and contradictions shaping the region today.&nbsp;</p><p><br></p><p>Aishwaria notes that the latest escalation marks a significant shift in Pakistan\u2019s approach. \u201cThis is not the first time Pakistan has conducted airstrikes in Afghanistan, but what is different this time is where and how. Earlier, the strikes were limited to targeting Tehreek-e-Taliban Pakistan camps in peripheral regions. But now, Pakistan has changed its strategy. It has effectively declared an open war on the Afghan Taliban itself\u2026Strikes have taken place in Kandahar, which is the birthplace of the Taliban, and even Kabul,\u201d she says.</p><p><br></p><p>Mujib points to the geopolitical context and the changing global order. \u201cWe are living in a transactional world right now, where what matters is what you can offer to major powers. That defines your legitimacy and your space to act. Pakistan, even as it wages war in Afghanistan, is being seen internationally as a potential mediator in other conflicts. That tells you everything. You can operate freely in your backyard as long as you remain useful globally.\u201d</p><p><br></p><p>He highlights Pakistan\u2019s long-standing strategic contradictions. \u201cFor years, Pakistan played a double game. While it provided safe havens and support to the Afghan Taliban fighting the Americans, it simultaneously maintained strong ties with the United States.\u201d</p><p><br></p><p>Abhinandan questions the objectives. \u201cThey say it\u2019s about the TTP and security threats \u2013 but that\u2019s not new. So what\u2019s the real objective here? Because unless something fundamental has shifted, this escalation doesn\u2019t fully make sense on the surface.\u201d</p><p><br></p><p>Mujib points to the historical roots of the conflict. \u201cWe cannot ignore the role of American intervention in creating this situation. The first iteration of the Taliban emerged from US-backed efforts during the Cold War. The second, more emboldened version emerged after a 20-year war that ended with the US leaving and handing power back to them. Yet, global discussions often ignore this history \u2013 as if these conflicts appeared out of nowhere.\u201d</p><p><br></p><p>On India\u2019s position, Aishwaria reiterates a pragmatic approach. \u201cIndia\u2019s engagement with the Taliban is not ideological. It is strategic. India waited for fractures between Pakistan and Afghanistan to emerge, and once that happened, it used the opportunity to establish contact. The goal is to maintain influence in the region, counter China and Pakistan, and ensure that Afghan territory is not used against Indian interests. It\u2019s a classic example of realpolitik, where interests take precedence over ideology.\u201d</p><p><br></p><p>All this and more.</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and announcements</p><p>00:05:52: - Headlines</p><p>00:14:50 - Afghanistan and Pakistan Conflict</p><p>00:58:09 - Aishwaria\u2019s Recommendation</p><p>00:58:52 \u2013 Subramaniam Swamy Interview&nbsp;</p><p>01:07:49 &nbsp; - Mujib\u2019\u2019s Recommendation</p><p>01:10:58 - Subramaniam Swamy Interview&nbsp;</p><p>01:17:59 - Letters</p><p>01:37:21:04&nbsp; - Recommendations</p><p><br></p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><em>Produced by Amit Pandey with production assistance from Priyali Dhingra and Abhay Kumar. Sound by Anil Kumar</em></p><p><br></p><p><br></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69c76d079b6be94a1a2581ad.mp3",
+      "duration": 6150.31,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1774676671738-921b863a-30b0-4602-98a0-27c89ec4afa6.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2026/03/28/hafta-582-old-ghosts-new-af-pak-war-and-indias-strategy",
     "https://www.newslaundry.com/2026/03/21/hafta-581-bollywoods-metoo-disincentive-and-the-trans-bill-2026-protests",
     "https://www.newslaundry.com/2026/03/14/hafta-580-nitish-kumars-decline-religion-in-sports-and-the-ethics-of-euthanasia",
     "https://www.newslaundry.com/2026/03/07/hafta-579-us-israels-war-against-iran-civilian-toll-and-indias-dilemma",
@@ -1673,5 +1717,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2026-03-21T11:47:55.762024"
+  "last_updated": "2026-03-28T11:52:47.839014"
 }

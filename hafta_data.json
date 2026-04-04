@@ -1674,9 +1674,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69c76d079b6be94a1a2581ad.mp3",
       "duration": 6150.31,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1774676671738-921b863a-30b0-4602-98a0-27c89ec4afa6.jpeg"
+    },
+    "583": {
+      "episode_id": "69d0a94c3a785fb94b40f16e",
+      "raw_data": {
+        "shows": {
+          "_id": "69d0a94c3a785fb94b40f16e",
+          "title": "Hafta 583: BJP's Assam lock, Vijay\u2019s debut, and a tight race in Kerala",
+          "alias": "hafta-583-bjps-assam-lock-vijays-debut-and-a-tight-race-in-k",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2026-04-04T06:01:48.480Z",
+          "lastEditedDate": "2026-04-04T06:02:00.299Z",
+          "publishDate": "2026-04-04T06:01:48.318Z",
+          "subtitle": "The podcast where we discuss the news of the week. ",
+          "summary": "<p>This week on Hafta, Abhinandan Sekhri, Manisha Pande, and Shardool Katyayan are joined by senior journalist Sreenivasan Jain and Dhanya Rajendran, editor-in-chief of <em>The News Minute</em>. The panel dives into the high-stakes 2026 assembly elections across Assam, West Bengal, Tamil Nadu, Kerala, and Puducherry.</p><p><br></p><p>Sreenivasan Jain describes Assam as the \u201cmost one-sided\u201d contest of the cycle, with the BJP\u2019s Himanta Biswa Sarma poised for a comfortable return despite a decade in power. Jain notes limited anti-incumbency, praising improvements in infrastructure and the delivery of roughly 1.5 lakh government jobs \u201cwithout too much corruption\u201d.&nbsp;</p><p>However, he sharply criticises Sarma\u2019s \u201ctoxic campaign\u201d against Assam\u2019s Muslims, characterising the strategy of home demolitions and arming communities as \u201cvirtually a campaign of ethnic cleansing\u201d.</p><p>As the conversation shifts to Tamil Nadu, Dhanya predicts that actor Vijay\u2019s political debut with his party, TVK, could capture \u201c15 percent to 20 percent\u201d of the vote. She attributes this significant projected share to his massive film persona and growing public fatigue with the DMK-AIADMK alternates.</p><p>Turning to Kerala, Dhanya delivers a sharp analysis of the LDF\u2019s attempt to retain power for a third term. While anti-incumbency exists, she describes an \u201cinch-by-inch\u201d battle with the UDF, noting that Chief Minister Pinarayi Vijayan\u2019s image as a \u201chard taskmaster\u201d remains a strong draw for voters seeking continuity.&nbsp;</p><p>She also highlights the BJP\u2019s strategy to woo Christian voters \u2013 particularly the Syrian Christian community, which constitutes a significant share of the state\u2019s Christian population \u2013 by elevating community members to leadership roles and fielding Christian candidates.</p><p>Finally, Dhanya flags the sheer volume of money flooding the fray, spotlighting \u2018Lottery King\u2019 Santiago Martin\u2019s family. His son, Jose Charles Martin, is contesting in Puducherry as a potential chief ministerial face for his party, LJK, while his son-in-law, Aadhav Arjuna, is a key figure in Vijay's TVK. This highlights a sprawling web of influence that spans DMK funding, AIADMK ties, and new political entrants alike.</p><p>All this and more.</p><p><br></p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and announcements</p><p>00:03:05&nbsp; - Headlines</p><p>00:16:08 - Assam &amp; West Bengal Election&nbsp;</p><p>00:35:23 - Srinivasan\u2019s Recommendation</p><p>00:46:26 \u2013 TN, Kerala &amp; Puducherry elections</p><p>01:03:13&nbsp; &nbsp; - Dhanya\u2019\u2019s Recommendation</p><p>01:09:49&nbsp; - Letters</p><p>01:24:30&nbsp; - Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><em>Produced by Amit Pandey with production assistance from Priyali Dhingra and Abhay Kumar. Sound by Anil Kumar</em></p><p><br></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69d0a94c3a785fb94b40f16e.mp3",
+          "duration": 5454.024,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1775281449816-a917e2ec-f8cc-4794-af21-9814e3e1ae47.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "69d0a94c3a785fb94b40f16f"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "69d0a94c3a785fb94b40f170"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69d0a94c3a785fb94b40f16e.mp3"
+        }
+      },
+      "title": "Hafta 583: BJP's Assam lock, Vijay\u2019s debut, and a tight race in Kerala",
+      "publish_date": "2026-04-04T06:01:48.318Z",
+      "summary": "<p>This week on Hafta, Abhinandan Sekhri, Manisha Pande, and Shardool Katyayan are joined by senior journalist Sreenivasan Jain and Dhanya Rajendran, editor-in-chief of <em>The News Minute</em>. The panel dives into the high-stakes 2026 assembly elections across Assam, West Bengal, Tamil Nadu, Kerala, and Puducherry.</p><p><br></p><p>Sreenivasan Jain describes Assam as the \u201cmost one-sided\u201d contest of the cycle, with the BJP\u2019s Himanta Biswa Sarma poised for a comfortable return despite a decade in power. Jain notes limited anti-incumbency, praising improvements in infrastructure and the delivery of roughly 1.5 lakh government jobs \u201cwithout too much corruption\u201d.&nbsp;</p><p>However, he sharply criticises Sarma\u2019s \u201ctoxic campaign\u201d against Assam\u2019s Muslims, characterising the strategy of home demolitions and arming communities as \u201cvirtually a campaign of ethnic cleansing\u201d.</p><p>As the conversation shifts to Tamil Nadu, Dhanya predicts that actor Vijay\u2019s political debut with his party, TVK, could capture \u201c15 percent to 20 percent\u201d of the vote. She attributes this significant projected share to his massive film persona and growing public fatigue with the DMK-AIADMK alternates.</p><p>Turning to Kerala, Dhanya delivers a sharp analysis of the LDF\u2019s attempt to retain power for a third term. While anti-incumbency exists, she describes an \u201cinch-by-inch\u201d battle with the UDF, noting that Chief Minister Pinarayi Vijayan\u2019s image as a \u201chard taskmaster\u201d remains a strong draw for voters seeking continuity.&nbsp;</p><p>She also highlights the BJP\u2019s strategy to woo Christian voters \u2013 particularly the Syrian Christian community, which constitutes a significant share of the state\u2019s Christian population \u2013 by elevating community members to leadership roles and fielding Christian candidates.</p><p>Finally, Dhanya flags the sheer volume of money flooding the fray, spotlighting \u2018Lottery King\u2019 Santiago Martin\u2019s family. His son, Jose Charles Martin, is contesting in Puducherry as a potential chief ministerial face for his party, LJK, while his son-in-law, Aadhav Arjuna, is a key figure in Vijay's TVK. This highlights a sprawling web of influence that spans DMK funding, AIADMK ties, and new political entrants alike.</p><p>All this and more.</p><p><br></p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and announcements</p><p>00:03:05&nbsp; - Headlines</p><p>00:16:08 - Assam &amp; West Bengal Election&nbsp;</p><p>00:35:23 - Srinivasan\u2019s Recommendation</p><p>00:46:26 \u2013 TN, Kerala &amp; Puducherry elections</p><p>01:03:13&nbsp; &nbsp; - Dhanya\u2019\u2019s Recommendation</p><p>01:09:49&nbsp; - Letters</p><p>01:24:30&nbsp; - Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><em>Produced by Amit Pandey with production assistance from Priyali Dhingra and Abhay Kumar. Sound by Anil Kumar</em></p><p><br></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69d0a94c3a785fb94b40f16e.mp3",
+      "duration": 5454.024,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1775281449816-a917e2ec-f8cc-4794-af21-9814e3e1ae47.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2026/04/04/hafta-583-bjps-assam-lock-vijays-big-splash-and-a-tight-race-in-kerala",
     "https://www.newslaundry.com/2026/03/28/hafta-582-old-ghosts-new-af-pak-war-and-indias-strategy",
     "https://www.newslaundry.com/2026/03/21/hafta-581-bollywoods-metoo-disincentive-and-the-trans-bill-2026-protests",
     "https://www.newslaundry.com/2026/03/14/hafta-580-nitish-kumars-decline-religion-in-sports-and-the-ethics-of-euthanasia",
@@ -1717,5 +1761,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2026-03-28T11:52:47.839014"
+  "last_updated": "2026-04-04T11:53:20.807657"
 }

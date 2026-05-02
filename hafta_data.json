@@ -1846,9 +1846,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69ec5a04ae8bc4f377dab521.mp3",
       "duration": 7077.02,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1777096964109-4dd4b208-b38a-431a-88d9-2f93bf0f8419.jpeg"
+    },
+    "587": {
+      "episode_id": "69f58ffd8466468ab084edf4",
+      "raw_data": {
+        "shows": {
+          "_id": "69f58ffd8466468ab084edf4",
+          "title": "Hafta 587: Why are flights expensive? Were the Bengal polls fair?",
+          "alias": "hafta-587-why-are-flights-expensive-were-the-bengal-polls-fa",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2026-05-02T05:47:41.769Z",
+          "lastEditedDate": "2026-05-02T05:47:55.196Z",
+          "publishDate": "2026-05-02T05:47:41.480Z",
+          "subtitle": "The podcast where we discuss the week's news. ",
+          "summary": "<p>This week on Hafta, Abhinandan Sekhri and Manisha Pande are joined by Anupam Manur, professor of economics at the Takshashila Institute, and former Election Commissioner Ashok Lavasa.</p><p><br></p><p>The panel spotlights the aviation fuel (ATF) crisis crippling Indian airlines and critiques the Election Commission's (ECI) handling of the Bengal polls.</p><p>Anupam Manur explains that Indian carriers face unique woes: fuel now comprises 55\u201360 percent of costs (up from 30\u201340 percent), exacerbated by closed airspaces over Pakistan and West Asia forcing longer routes.</p><p><br></p><p>Abhinandan asks Anupam about the UAE's decision to exit OPEC and what it could mean for India amid rising global fuel prices. Anupam says that for a country like India, which imports most of its crude oil, any weakening of an oil cartel is generally positive news.</p><p><br></p><p>The discussion then shifts to the Election Commission's role during the West Bengal polls.</p><p><br></p><p>Ashok Lavasa states, \u201cAfter all, the Election Commission has three commissioners, 600 to 800 people who are permanent employees, but 15 million people who work in the field. So how can you guarantee everyone's conduct or performance? The structure itself is such that only 600 employees are of the EC, and the rest are the same.\u201d</p><p><br></p><p>Speaking on the media's role, Manisha remarks that the narrative around the election was troubling, with some journalists and organisations highlighting an Election Commission-appointed observer from Uttar Pradesh as an \u201cencounter cop\u201d, which she says created a negative atmosphere and sent the wrong message to voters.</p><p><br></p><p>Adding to this, Ashok Lavasa states, \u201cThe Election Commission, to the best of my understanding and belief, takes extra care not to appoint officers who are either controversial, or facing inquiry, or who have any kind of charge attached against them, even if it is not proven. Because they avoid putting officers who are controversial so that the chances of a new controversy\u2026\u201d</p><p>All this and more.</p><p><br></p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><em>Produced by Amit Pandey with production assistance from Sourav. Sound by Anil Kumar</em></p><p><br></p><p><br></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69f58ffd8466468ab084edf4.mp3",
+          "duration": 5274.648,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1777700617878-33cabaac-638b-49e2-83c4-77eb51bb7d52.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "69f58ffd8466468ab084edf5"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "69f58ffd8466468ab084edf6"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69f58ffd8466468ab084edf4.mp3"
+        }
+      },
+      "title": "Hafta 587: Why are flights expensive? Were the Bengal polls fair?",
+      "publish_date": "2026-05-02T05:47:41.480Z",
+      "summary": "<p>This week on Hafta, Abhinandan Sekhri and Manisha Pande are joined by Anupam Manur, professor of economics at the Takshashila Institute, and former Election Commissioner Ashok Lavasa.</p><p><br></p><p>The panel spotlights the aviation fuel (ATF) crisis crippling Indian airlines and critiques the Election Commission's (ECI) handling of the Bengal polls.</p><p>Anupam Manur explains that Indian carriers face unique woes: fuel now comprises 55\u201360 percent of costs (up from 30\u201340 percent), exacerbated by closed airspaces over Pakistan and West Asia forcing longer routes.</p><p><br></p><p>Abhinandan asks Anupam about the UAE's decision to exit OPEC and what it could mean for India amid rising global fuel prices. Anupam says that for a country like India, which imports most of its crude oil, any weakening of an oil cartel is generally positive news.</p><p><br></p><p>The discussion then shifts to the Election Commission's role during the West Bengal polls.</p><p><br></p><p>Ashok Lavasa states, \u201cAfter all, the Election Commission has three commissioners, 600 to 800 people who are permanent employees, but 15 million people who work in the field. So how can you guarantee everyone's conduct or performance? The structure itself is such that only 600 employees are of the EC, and the rest are the same.\u201d</p><p><br></p><p>Speaking on the media's role, Manisha remarks that the narrative around the election was troubling, with some journalists and organisations highlighting an Election Commission-appointed observer from Uttar Pradesh as an \u201cencounter cop\u201d, which she says created a negative atmosphere and sent the wrong message to voters.</p><p><br></p><p>Adding to this, Ashok Lavasa states, \u201cThe Election Commission, to the best of my understanding and belief, takes extra care not to appoint officers who are either controversial, or facing inquiry, or who have any kind of charge attached against them, even if it is not proven. Because they avoid putting officers who are controversial so that the chances of a new controversy\u2026\u201d</p><p>All this and more.</p><p><br></p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><em>Produced by Amit Pandey with production assistance from Sourav. Sound by Anil Kumar</em></p><p><br></p><p><br></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/69f58ffd8466468ab084edf4.mp3",
+      "duration": 5274.648,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1777700617878-33cabaac-638b-49e2-83c4-77eb51bb7d52.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2026/05/02/hafta-587-why-are-flights-expensive-were-the-bengal-polls-fair",
     "https://www.newslaundry.com/2026/04/25/hafta-586-vijay-factor-in-tn-bengal-elections-and-the-delimitation-debate",
     "https://www.newslaundry.com/2026/04/18/hafta-585-noida-labour-protests-and-kejriwals-recusal-row",
     "https://www.newslaundry.com/2026/04/11/hafta-584-trumps-iran-war-mess-and-the-myth-of-normalcy-in-manipur",
@@ -1893,5 +1937,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2026-04-25T12:03:21.108710"
+  "last_updated": "2026-05-02T12:09:46.799015"
 }

@@ -2018,9 +2018,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a1146c29feea1b67e9e21c5.mp3",
       "duration": 5549.568,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1779514773678-bd211953-9fcb-4a75-ad6d-ae1a3bc2133b.jpeg"
+    },
+    "591": {
+      "episode_id": "6a1a7b2ead55909da6fe25ce",
+      "raw_data": {
+        "shows": {
+          "_id": "6a1a7b2ead55909da6fe25ce",
+          "title": "Hafta 591: Banaras redevelopment, Delhi Gymkhana takeover and CBSE\u2019s OSM fiasco",
+          "alias": "hafta-591-banaras-redevelopment-delhi-gymkhana-takeover-and",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2026-05-30T05:52:46.878Z",
+          "lastEditedDate": "2026-05-30T05:52:58.261Z",
+          "publishDate": "2026-05-30T05:52:46.500Z",
+          "subtitle": "The podcast where we discuss the week\u2019s news. ",
+          "summary": "<p>This week on Hafta, Abhinandan Sekhri, Manisha Pande and Shardool Katyayan are joined by senior journalist Alpana Kishore and educationist Anita Rampal to discuss heritage, development, ideology, public spaces, and the current challenges facing India\u2019s education system.&nbsp;</p><p>Alpana argues that the changes unfolding in Banaras are not simply about modernisation. Drawing parallels with her decades of reporting in Kashmir, she says the driving force behind such interventions is ideology.&nbsp;</p><p>\u201cThere\u2019s only one reason that any government would mess with anything \u2013 ecology, heritage, community, social \u2013 and that is ideology.\u201d&nbsp;</p><p>She describes ideology as something that \u201ctrumps faith, trumps tradition, trumps heritage, trumps cultural tradition, trumps everything.\u201d&nbsp;</p><p>Manisha widens the discussion by examining how governments use architecture and public spaces to create political legacies. \"I've always been fascinated by how this government is reshaping public spaces and what it says about this government,\" she says.&nbsp;</p><p>Referring to projects ranging from Central Vista to the Kashi Vishwanath corridor, she argues that PM Modi sees monuments and public spaces as a way of leaving a permanent mark on history. \u201cModi does see himself as an emperor in that sense, and he wants to reshape India as his legacy.\u201d&nbsp;</p><p>Abhinandan approaches the debate from the perspective of public benefit. While acknowledging that redevelopment is sometimes necessary, he questions what citizens receive in return. \u201cDestroy what you want... but give me a forest over there. Don't give me uglier structures,\u201d he remarks.&nbsp;</p><p>The discussion then moves to CBSE's on-screen marking (OSM) fiasco and the broader problems within India\u2019s examination framework. Educationist Anita Rampal strongly rejects the idea that better technology automatically produces better assessment.&nbsp;</p><p>\u201cI don't think we should have gone into this scanning process at all for assessment. That is not how we do assessment,\u201d she says.&nbsp;</p><p>Describing the work of teachers evaluating answer sheets, she stresses that assessment requires judgment, context, and professional expertise. \u201cDon't make us into machines.\u201d&nbsp;</p><p>Rampal recounts reports from teachers who were monitored while checking answer sheets. \u201cOne teacher told me that someone who took a little longer got a phone call asking, \u2018Why is this person taking long?\u2019\u201d&nbsp;</p><p>She describes a system obsessed with speed rather than accuracy, concluding: \u201cWe are being watched. We cannot assess this way.\u201d&nbsp;</p><p>Shardool, meanwhile, challenges the assumption that digital systems are inherently superior. \u201cDigital is not some separate intelligence. It is trained by humans, managed by humans and requires constant updating.\u201d&nbsp;</p><p>All this and more.</p><p>00:00:00 - Introductions and announcements</p><p>00:03:52 - Headlines</p><p>00:09:07 - Banaras urbanisation and Gymkhana club row</p><p>00:56:37 -&nbsp; Alpana\u2019s recommendation</p><p>01:01:24 - CBSE row&nbsp;</p><p>01:27:14 - Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.Produced by Amit Pandey with production assistance from Sourav . Sound by Anil Kumar.</em></p><p><br></p><p><br></p><p><br></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a1a7b2ead55909da6fe25ce.mp3",
+          "duration": 5561.232,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1780120242284-2a057aa0-f4af-4990-83c0-1c23d521207c.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "6a1a7b2ead55909da6fe25cf"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "6a1a7b2ead55909da6fe25d0"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a1a7b2ead55909da6fe25ce.mp3"
+        }
+      },
+      "title": "Hafta 591: Banaras redevelopment, Delhi Gymkhana takeover and CBSE\u2019s OSM fiasco",
+      "publish_date": "2026-05-30T05:52:46.500Z",
+      "summary": "<p>This week on Hafta, Abhinandan Sekhri, Manisha Pande and Shardool Katyayan are joined by senior journalist Alpana Kishore and educationist Anita Rampal to discuss heritage, development, ideology, public spaces, and the current challenges facing India\u2019s education system.&nbsp;</p><p>Alpana argues that the changes unfolding in Banaras are not simply about modernisation. Drawing parallels with her decades of reporting in Kashmir, she says the driving force behind such interventions is ideology.&nbsp;</p><p>\u201cThere\u2019s only one reason that any government would mess with anything \u2013 ecology, heritage, community, social \u2013 and that is ideology.\u201d&nbsp;</p><p>She describes ideology as something that \u201ctrumps faith, trumps tradition, trumps heritage, trumps cultural tradition, trumps everything.\u201d&nbsp;</p><p>Manisha widens the discussion by examining how governments use architecture and public spaces to create political legacies. \"I've always been fascinated by how this government is reshaping public spaces and what it says about this government,\" she says.&nbsp;</p><p>Referring to projects ranging from Central Vista to the Kashi Vishwanath corridor, she argues that PM Modi sees monuments and public spaces as a way of leaving a permanent mark on history. \u201cModi does see himself as an emperor in that sense, and he wants to reshape India as his legacy.\u201d&nbsp;</p><p>Abhinandan approaches the debate from the perspective of public benefit. While acknowledging that redevelopment is sometimes necessary, he questions what citizens receive in return. \u201cDestroy what you want... but give me a forest over there. Don't give me uglier structures,\u201d he remarks.&nbsp;</p><p>The discussion then moves to CBSE's on-screen marking (OSM) fiasco and the broader problems within India\u2019s examination framework. Educationist Anita Rampal strongly rejects the idea that better technology automatically produces better assessment.&nbsp;</p><p>\u201cI don't think we should have gone into this scanning process at all for assessment. That is not how we do assessment,\u201d she says.&nbsp;</p><p>Describing the work of teachers evaluating answer sheets, she stresses that assessment requires judgment, context, and professional expertise. \u201cDon't make us into machines.\u201d&nbsp;</p><p>Rampal recounts reports from teachers who were monitored while checking answer sheets. \u201cOne teacher told me that someone who took a little longer got a phone call asking, \u2018Why is this person taking long?\u2019\u201d&nbsp;</p><p>She describes a system obsessed with speed rather than accuracy, concluding: \u201cWe are being watched. We cannot assess this way.\u201d&nbsp;</p><p>Shardool, meanwhile, challenges the assumption that digital systems are inherently superior. \u201cDigital is not some separate intelligence. It is trained by humans, managed by humans and requires constant updating.\u201d&nbsp;</p><p>All this and more.</p><p>00:00:00 - Introductions and announcements</p><p>00:03:52 - Headlines</p><p>00:09:07 - Banaras urbanisation and Gymkhana club row</p><p>00:56:37 -&nbsp; Alpana\u2019s recommendation</p><p>01:01:24 - CBSE row&nbsp;</p><p>01:27:14 - Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.Produced by Amit Pandey with production assistance from Sourav . Sound by Anil Kumar.</em></p><p><br></p><p><br></p><p><br></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a1a7b2ead55909da6fe25ce.mp3",
+      "duration": 5561.232,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1780120242284-2a057aa0-f4af-4990-83c0-1c23d521207c.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2026/05/30/hafta-591-banaras-redevelopment-delhi-gymkhana-takeover-and-cbses-osm-fiasco",
     "https://www.newslaundry.com/2026/05/23/hafta-590-the-norway-question-that-shook-modis-tour-and-press-freedom",
     "https://www.newslaundry.com/2026/05/16/hafta-589-modis-austerity-push-and-what-the-trump-xi-meet-means-for-india",
     "https://www.newslaundry.com/2026/05/09/hafta-588-bengals-realignment-party-society-and-future-of-indian-politics",
@@ -2069,5 +2113,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2026-05-23T12:36:57.282022"
+  "last_updated": "2026-05-30T12:47:16.547765"
 }

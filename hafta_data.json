@@ -2061,9 +2061,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a1a7b2ead55909da6fe25ce.mp3",
       "duration": 5561.232,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1780120242284-2a057aa0-f4af-4990-83c0-1c23d521207c.jpeg"
+    },
+    "592": {
+      "episode_id": "6a23b1666263fbced61281e8",
+      "raw_data": {
+        "shows": {
+          "_id": "6a23b1666263fbced61281e8",
+          "title": "Hafta 592 : Hafta 592: Opposition in crisis? Can the CJP protest succeed?",
+          "alias": "hafta-592-opposition-in-crisis-protests-in-decline-whats-hap",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2026-06-06T05:34:30.738Z",
+          "lastEditedDate": "2026-06-06T07:44:11.170Z",
+          "publishDate": "2026-06-06T05:34:30.464Z",
+          "subtitle": "The podcast where we discuss the week\u2019s news. ",
+          "summary": "<p><br></p><p>This week on Hafta, Abhinandan Sekhri, Manisha Pande, Anand Vardhan and Rinchen Norbu are joined by veteran journalist Neerja Chowdhury.&nbsp;</p><p>In this Hafta, the discussion moves from the political turmoil within the Trinamool Congress (TMC) and the state of the opposition to the changing nature of protests.</p><p>Discussing the crisis unfolding in West Bengal, Neerja Chowdhury argues that the rapid fragmentation of a recently defeated party is a relatively new phenomenon in Indian politics.</p><p>\u201cIt is very unusual what happened in West Bengal. Normally, you sit in the opposition, wait for your turn and fight back. This unraveling of a defeated party is a new phenomenon that we are seeing,\u201d she says.</p><p>The panel also debates whether the BJP's dominance is primarily the result of opposition failures or deeper structural advantages. Defending Rahul Gandhi's role in national politics, Neerja remarks, \u201cRahul Gandhi is probably the most courageous man in India today in terms of how he takes on the Prime Minister. The problem, as somebody told me, is a communication disconnect \u2013 the way he expresses his ideas doesn\u2019t always resonate with people.\u201d</p><p>Anand Vardhan, however, disagrees with viewing opposition politics through the lens of courage. He argues that political leaders operate within structures of incentives and responsibilities rather than purely moral acts of bravery.</p><p>\u201cI would not say that is courage. That is his role. Anything that has incentives attached to it is not courageous for me. Courage is something very different,\u201d he says, while also pointing to the structural vulnerabilities of regional parties that often depend heavily on power and personality-driven leadership.</p><p>Manisha Pande highlights what she sees as a shift in public sentiment towards the Modi government. While Narendra Modi\u2019s appeal in 2014 was rooted in the perception that he was an independent and decisive leader, there is now a growing feeling that citizens are not being heard.</p><p>\u201cI think the big sentiment today is that people want someone to listen to them. This government does not listen is something you hear repeatedly. There is a growing frustration with centralisation and communication that only goes one way,\u201d she says.</p><p>The conversation then turns to the role of protest in a democracy, particularly in the context of planned demonstrations by online political satirists and student groups. Reflecting on the importance of dissent, Neerja says, \u201cThe soul of a nation dies if you cannot speak out. If you cannot express to your ruler that you are hurting, then something fundamental is lost.\u201d</p><p>The panel examines whether the growing frustration among young Indians is translating into meaningful political mobilisation. Anand Vardhan cautions against romanticising Gen Z-led protests, arguing that many contemporary movements are heavily shaped by digital ecosystems and often lack the organisational depth of traditional grassroots campaigns.</p><p>\u201cThese are movements that are heavily online and tailored for digital users. We should be careful about assuming that they automatically translate into grassroots mobilisation,\u201d he says.</p><p><br></p><p>Adding to the discussion, Rinchen Norbu points out that many digital-first protests lack experienced organisers and institutional support systems. As a result, he says, such movements are often vulnerable to disruption, manipulation and even \"false flag\" operations that can derail their objectives.</p><p>All this and more.</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and announcements</p><p>00:03:07 - Headlines</p><p>00:10:46 - Indian Opposition &amp; Its problems&nbsp;</p><p>00:45:25 -&nbsp;Protests in India&nbsp;</p><p>01:03:11&nbsp;- Neerja\u2019s recommendations</p><p>01:12:22&nbsp;- Letters&nbsp;</p><p>01:22:48 - Recommendations</p><p><br></p><p><br></p><p><strong>&nbsp;</strong></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><em>Produced by Amit Pandey with production assistance from Sourav . Sound by Anil Kumar. Research Intern:  Manya Garg.&nbsp;&nbsp;</em></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a23b1666263fbced61281e8.mp3",
+          "duration": 5564.352,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1780723830077-4aba2ebc-9f75-49e2-97a8-763e7a6f3e54.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "6a23b1666263fbced61281e9"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "6a23b1666263fbced61281ea"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a23b1666263fbced61281e8.mp3"
+        }
+      },
+      "title": "Hafta 592 : Hafta 592: Opposition in crisis? Can the CJP protest succeed?",
+      "publish_date": "2026-06-06T05:34:30.464Z",
+      "summary": "<p><br></p><p>This week on Hafta, Abhinandan Sekhri, Manisha Pande, Anand Vardhan and Rinchen Norbu are joined by veteran journalist Neerja Chowdhury.&nbsp;</p><p>In this Hafta, the discussion moves from the political turmoil within the Trinamool Congress (TMC) and the state of the opposition to the changing nature of protests.</p><p>Discussing the crisis unfolding in West Bengal, Neerja Chowdhury argues that the rapid fragmentation of a recently defeated party is a relatively new phenomenon in Indian politics.</p><p>\u201cIt is very unusual what happened in West Bengal. Normally, you sit in the opposition, wait for your turn and fight back. This unraveling of a defeated party is a new phenomenon that we are seeing,\u201d she says.</p><p>The panel also debates whether the BJP's dominance is primarily the result of opposition failures or deeper structural advantages. Defending Rahul Gandhi's role in national politics, Neerja remarks, \u201cRahul Gandhi is probably the most courageous man in India today in terms of how he takes on the Prime Minister. The problem, as somebody told me, is a communication disconnect \u2013 the way he expresses his ideas doesn\u2019t always resonate with people.\u201d</p><p>Anand Vardhan, however, disagrees with viewing opposition politics through the lens of courage. He argues that political leaders operate within structures of incentives and responsibilities rather than purely moral acts of bravery.</p><p>\u201cI would not say that is courage. That is his role. Anything that has incentives attached to it is not courageous for me. Courage is something very different,\u201d he says, while also pointing to the structural vulnerabilities of regional parties that often depend heavily on power and personality-driven leadership.</p><p>Manisha Pande highlights what she sees as a shift in public sentiment towards the Modi government. While Narendra Modi\u2019s appeal in 2014 was rooted in the perception that he was an independent and decisive leader, there is now a growing feeling that citizens are not being heard.</p><p>\u201cI think the big sentiment today is that people want someone to listen to them. This government does not listen is something you hear repeatedly. There is a growing frustration with centralisation and communication that only goes one way,\u201d she says.</p><p>The conversation then turns to the role of protest in a democracy, particularly in the context of planned demonstrations by online political satirists and student groups. Reflecting on the importance of dissent, Neerja says, \u201cThe soul of a nation dies if you cannot speak out. If you cannot express to your ruler that you are hurting, then something fundamental is lost.\u201d</p><p>The panel examines whether the growing frustration among young Indians is translating into meaningful political mobilisation. Anand Vardhan cautions against romanticising Gen Z-led protests, arguing that many contemporary movements are heavily shaped by digital ecosystems and often lack the organisational depth of traditional grassroots campaigns.</p><p>\u201cThese are movements that are heavily online and tailored for digital users. We should be careful about assuming that they automatically translate into grassroots mobilisation,\u201d he says.</p><p><br></p><p>Adding to the discussion, Rinchen Norbu points out that many digital-first protests lack experienced organisers and institutional support systems. As a result, he says, such movements are often vulnerable to disruption, manipulation and even \"false flag\" operations that can derail their objectives.</p><p>All this and more.</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and announcements</p><p>00:03:07 - Headlines</p><p>00:10:46 - Indian Opposition &amp; Its problems&nbsp;</p><p>00:45:25 -&nbsp;Protests in India&nbsp;</p><p>01:03:11&nbsp;- Neerja\u2019s recommendations</p><p>01:12:22&nbsp;- Letters&nbsp;</p><p>01:22:48 - Recommendations</p><p><br></p><p><br></p><p><strong>&nbsp;</strong></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><em>Produced by Amit Pandey with production assistance from Sourav . Sound by Anil Kumar. Research Intern:  Manya Garg.&nbsp;&nbsp;</em></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a23b1666263fbced61281e8.mp3",
+      "duration": 5564.352,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1780723830077-4aba2ebc-9f75-49e2-97a8-763e7a6f3e54.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2026/06/06/hafta-592-opposition-in-crisis-can-the-cjp-protest-succeed",
     "https://www.newslaundry.com/2026/05/30/hafta-591-banaras-redevelopment-delhi-gymkhana-takeover-and-cbses-osm-fiasco",
     "https://www.newslaundry.com/2026/05/23/hafta-590-the-norway-question-that-shook-modis-tour-and-press-freedom",
     "https://www.newslaundry.com/2026/05/16/hafta-589-modis-austerity-push-and-what-the-trump-xi-meet-means-for-india",
@@ -2113,5 +2157,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2026-05-30T12:47:16.547765"
+  "last_updated": "2026-06-06T12:52:15.090290"
 }

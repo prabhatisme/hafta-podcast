@@ -2276,9 +2276,52 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a48a4d004fac73b24046402.mp3",
       "duration": 6453.432,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1783145529368-daad1394-4d86-457d-8f33-7773483f8f46.jpeg"
+    },
+    "597": {
+      "episode_id": "6a51def173fcc6a8a7a15be9",
+      "raw_data": {
+        "shows": {
+          "_id": "6a51def173fcc6a8a7a15be9",
+          "title": "Hafta 597: On Satluj and the FIFA controversy",
+          "alias": "hafta-597-on-satluj-and-the-fifa-controversy",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2026-07-11T06:13:05.004Z",
+          "lastEditedDate": "2026-07-11T06:19:32.084Z",
+          "publishDate": "2026-07-11T06:13:04.361Z",
+          "subtitle": "The podcast where we discuss the week\u2019s news. ",
+          "summary": "<p>This week on Hafta, Abhinandan Sekhri, Manisha Pande, and Shardool Katyayan are joined by Hartosh Singh Bal, Executive Editor of <em>The Caravan</em>, and sports broadcaster Arjun Pandit.</p><p><br></p><p>The discussion begins with Hartosh\u2019s critique of the film <em>Satluj</em> (previously known as <em>Punjab 95</em>), which he labels as propaganda carrying partial truths. Hartosh, who has reported on Punjab for years, is also the nephew of KPS Gill \u2013 the highly controversial officer who helmed the state police at the height of militancy. This was the very force that Jaswant Singh Khalra, the central figure of the film, was investigating, and whose actions ultimately led to Khalra\u2019s killing in custody.</p><p><br></p><p>While Hartosh doesn\u2019t dispute that Khalra was killed in police custody \u2013 calling it a settled fact \u2013 he challenges the film\u2019s claim of 25,000 disappearances. Using crematoria data and police-action timelines, Hartosh puts the real figure closer to 7,000, remarking, \u201cThis film is propaganda to the service of a political cause and in that sense, it has a danger.\u201d</p><p><br></p><p>Responding to Hartosh\u2019s claim, Abhinandan disagrees that the distortion was intentional. Instead, he argues it\u2019s simply a familiar Bollywood pattern of filmmakers falling for a great story without doing the underlying political homework, noting, \u201c<em>Punjab 95</em> or <em>Satluj</em> is a very well-made film, but it does not, in my view, give the entire story of who this gentleman was, Khalra.\u201d</p><p><br></p><p>Shardool takes a different approach, arguing that no film about a real person is ever fully accurate, and that the state\u2019s refusal to admit fault \u2013 not the film itself \u2013 is what keeps these conversations from ever reaching real reconciliation. Manisha adds that for most audiences, the exact numbers matter less than the deep, uncontested memory of police brutality the film taps into.</p><p><br></p><p>Switching gears, the panel is joined by Arjun Pandit to dissect the FIFA World Cup. A red card reversal for a star player of the American team, reportedly following a call from US President Donald Trump to FIFA President Gianni Infantino, sets the tone. Shardool isn\u2019t surprised by these developments, arguing that FIFA\u2019s corruption has never really been in question, but this World Cup has simply made it harder to look away from.</p><p><br></p><p>The conversation then drifts into VAR and how technology has changed the game, with heavier scrutiny somehow making referees more exposed rather than more trusted. This tension boils over around the Egypt-Argentina match, sparking accusations of a fix. However, Abhinandan, who watched the game closely, isn\u2019t convinced it\u2019s rigged.&nbsp;</p><p>On a more sombre note, Manisha steers the conversation toward an Israeli airstrike that killed a man organising a football match for children in Gaza.</p><p><br></p><p>All this and more.</p><p><br></p><p><em>If you want to write to Hafta, </em><a href=\"https://www.newslaundry.com/podcast-letters\" rel=\"noopener noreferrer\" target=\"_blank\"><em>click here</em></a><em>. Click </em><a href=\"http://newslaundry.com/sena\" rel=\"noopener noreferrer\" target=\"_blank\"><em>here</em></a><em> to contribute to our Sena project. Check out the</em><a href=\"https://www.newslaundry.com/store?routeName=NlStore\" rel=\"noopener noreferrer\" target=\"_blank\"><em> Newslaundry store</em></a><em> and flaunt your love for independent media. Download the</em><a href=\"http://www.newslaundry.com/download-app\" rel=\"noopener noreferrer\" target=\"_blank\"><em> Newslaundry app</em></a><em>.&nbsp;</em></p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and announcements</p><p>00:04:44: Headlines</p><p>0:09:23: Cockroach Janata Party Protest</p><p>0:19:48: Satluj Movie&nbsp;</p><p>0:56:50: Fifa Controversy&nbsp;</p><p>1:17:18: Impact of Pop Culture</p><p>1:37:30: Letters</p><p>1:55:09: Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>. </em></p><p><em>Produced by Ashish Aannd with production assistance from Sourav.Sound by Anil Kumar.</em></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a51def173fcc6a8a7a15be9.mp3",
+          "duration": 7437.93,
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "6a51def173fcc6a8a7a15bea"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "6a51def173fcc6a8a7a15beb"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a51def173fcc6a8a7a15be9.mp3"
+        }
+      },
+      "title": "Hafta 597: On Satluj and the FIFA controversy",
+      "publish_date": "2026-07-11T06:13:04.361Z",
+      "summary": "<p>This week on Hafta, Abhinandan Sekhri, Manisha Pande, and Shardool Katyayan are joined by Hartosh Singh Bal, Executive Editor of <em>The Caravan</em>, and sports broadcaster Arjun Pandit.</p><p><br></p><p>The discussion begins with Hartosh\u2019s critique of the film <em>Satluj</em> (previously known as <em>Punjab 95</em>), which he labels as propaganda carrying partial truths. Hartosh, who has reported on Punjab for years, is also the nephew of KPS Gill \u2013 the highly controversial officer who helmed the state police at the height of militancy. This was the very force that Jaswant Singh Khalra, the central figure of the film, was investigating, and whose actions ultimately led to Khalra\u2019s killing in custody.</p><p><br></p><p>While Hartosh doesn\u2019t dispute that Khalra was killed in police custody \u2013 calling it a settled fact \u2013 he challenges the film\u2019s claim of 25,000 disappearances. Using crematoria data and police-action timelines, Hartosh puts the real figure closer to 7,000, remarking, \u201cThis film is propaganda to the service of a political cause and in that sense, it has a danger.\u201d</p><p><br></p><p>Responding to Hartosh\u2019s claim, Abhinandan disagrees that the distortion was intentional. Instead, he argues it\u2019s simply a familiar Bollywood pattern of filmmakers falling for a great story without doing the underlying political homework, noting, \u201c<em>Punjab 95</em> or <em>Satluj</em> is a very well-made film, but it does not, in my view, give the entire story of who this gentleman was, Khalra.\u201d</p><p><br></p><p>Shardool takes a different approach, arguing that no film about a real person is ever fully accurate, and that the state\u2019s refusal to admit fault \u2013 not the film itself \u2013 is what keeps these conversations from ever reaching real reconciliation. Manisha adds that for most audiences, the exact numbers matter less than the deep, uncontested memory of police brutality the film taps into.</p><p><br></p><p>Switching gears, the panel is joined by Arjun Pandit to dissect the FIFA World Cup. A red card reversal for a star player of the American team, reportedly following a call from US President Donald Trump to FIFA President Gianni Infantino, sets the tone. Shardool isn\u2019t surprised by these developments, arguing that FIFA\u2019s corruption has never really been in question, but this World Cup has simply made it harder to look away from.</p><p><br></p><p>The conversation then drifts into VAR and how technology has changed the game, with heavier scrutiny somehow making referees more exposed rather than more trusted. This tension boils over around the Egypt-Argentina match, sparking accusations of a fix. However, Abhinandan, who watched the game closely, isn\u2019t convinced it\u2019s rigged.&nbsp;</p><p>On a more sombre note, Manisha steers the conversation toward an Israeli airstrike that killed a man organising a football match for children in Gaza.</p><p><br></p><p>All this and more.</p><p><br></p><p><em>If you want to write to Hafta, </em><a href=\"https://www.newslaundry.com/podcast-letters\" rel=\"noopener noreferrer\" target=\"_blank\"><em>click here</em></a><em>. Click </em><a href=\"http://newslaundry.com/sena\" rel=\"noopener noreferrer\" target=\"_blank\"><em>here</em></a><em> to contribute to our Sena project. Check out the</em><a href=\"https://www.newslaundry.com/store?routeName=NlStore\" rel=\"noopener noreferrer\" target=\"_blank\"><em> Newslaundry store</em></a><em> and flaunt your love for independent media. Download the</em><a href=\"http://www.newslaundry.com/download-app\" rel=\"noopener noreferrer\" target=\"_blank\"><em> Newslaundry app</em></a><em>.&nbsp;</em></p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and announcements</p><p>00:04:44: Headlines</p><p>0:09:23: Cockroach Janata Party Protest</p><p>0:19:48: Satluj Movie&nbsp;</p><p>0:56:50: Fifa Controversy&nbsp;</p><p>1:17:18: Impact of Pop Culture</p><p>1:37:30: Letters</p><p>1:55:09: Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>. </em></p><p><em>Produced by Ashish Aannd with production assistance from Sourav.Sound by Anil Kumar.</em></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a51def173fcc6a8a7a15be9.mp3",
+      "duration": 7437.93,
+      "cover": ""
     }
   },
   "links": [
+    "https://www.newslaundry.com/2026/07/11/hafta-597-on-satluj-and-the-fifa-controversy",
     "https://www.newslaundry.com/2026/07/04/hafta-596-on-umar-khalid-uapa-and-judicial-accountability",
     "https://www.newslaundry.com/2026/06/27/hafta-595-ram-mandir-donation-scandal-and-why-corruption-no-longer-shapes-public-opinion",
     "https://www.newslaundry.com/2026/06/20/hafta-594-trump-modi-and-the-g7-summit-what-did-india-gain",
@@ -2333,5 +2376,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2026-07-04T12:45:37.492628"
+  "last_updated": "2026-07-11T12:30:59.836622"
 }

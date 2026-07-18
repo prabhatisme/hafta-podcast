@@ -2318,9 +2318,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a51def173fcc6a8a7a15be9.mp3",
       "duration": 7437.93,
       "cover": ""
+    },
+    "598": {
+      "episode_id": "6a5b192462e50b14bde06ee8",
+      "raw_data": {
+        "shows": {
+          "_id": "6a5b192462e50b14bde06ee8",
+          "title": "Hafta 598: From Anna to Sonam Wangchuk, can a protest survive without an ideology?",
+          "alias": "hafta-598-from-anna-to-sonam-wangchuk-can-a-protest-survive",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2026-07-18T06:11:48.457Z",
+          "lastEditedDate": "2026-07-18T06:54:32.207Z",
+          "publishDate": "2026-07-18T06:11:48.112Z",
+          "subtitle": "The podcast where we discuss the week\u2019s news. ",
+          "summary": "<p>This week on Hafta, Abhinandan Sekhri, Rinchen Norbu, and Anand Vardhan are joined by author Samrat Choudhury (Samrat X) and Poornima Joshi, resident editor of <em>The Hindu BusinessLine</em>.</p><p><br></p><p>The discussion opens on an issue that has quietly become one of the most unsettling debates in recent weeks: citizenship. The conversation was triggered by Samrat\u2019s own <a href=\"https://www.newslaundry.com/2026/07/13/india-is-nowhere-near-ready-for-a-nationwide-sir-a-passport-scare-showed-me-why\" rel=\"noopener noreferrer\" target=\"_blank\">experience</a> of receiving a notice questioning his citizenship, despite holding a valid passport for years. He describes how a passport renewed without issue in 2022 suddenly became the subject of an \u201cadverse police report\u201d four years later, citing a chilling reason: \u201ccitizenship not established\u201d.</p><p><br></p><p>Anand notes that Indian citizenship has never rested on a single document. He argues that the legal framework has always been layered and discretionary, with the Passport Act even providing for travel documents in exceptional circumstances. Samrat, however, maintains that a blue Indian passport is fundamentally distinct from travel documents issued to non-citizens.</p><p><br></p><p>The conversation then shifts to Manipur, where renewed violence, attacks on security camps, and continuing ethnic tensions have largely disappeared from national headlines. Samrat cautions against simple narratives. \u201cIt\u2019s not simply a hill-versus-valley conflict, or a tribal-versus-non-tribal conflict. It\u2019s much more complicated than that.\u201d</p><p><br></p><p>Rinchen argues that regardless of its complexity, the crisis reflects a profound governance failure by the Modi administration. \u201cManipur has been in a state of perpetual civil war for nearly three years. This is a complete failure of political mediation and internal security.\u201d&nbsp;</p><p><br></p><p>Samrat also takes stock of the human cost and draws one of the episode\u2019s heaviest comparisons. \u201cPeople are not getting medicines; they\u2019re not getting food or fuel. It\u2019s a situation we\u2019ve heard about in places like Gaza \u2013 and it\u2019s happening so close to home.\u201d</p><p><br></p><p>Finally, the panel broadens the lens to ask what makes a protest movement successful. Drawing parallels between the Anna Hazare movement, the farmers\u2019 protests, and Sonam Wangchuk\u2019s agitation, they debate whether protests need strong ideological foundations.</p><p><br></p><p>Poornima Joshi argues that successful movements require organisational backing and ideological depth, pointing to the RSS\u2019s behind-the-scenes role during the Jan Lokpal movement. This prompts Abhinandan to challenge the panel: if the RSS \u2013 one of the most effective political entities of our time \u2013 is actually fluid in its ideology, is that fluidity a strength or a weakness for a movement?</p><p><br></p><p>Rinchen notes that ideology is important, but argues that enduring movements are defined by demands for systemic change rather than immediate political concessions. As he puts it: \u201cMy concern is that their (CJP) demands are not structural. They\u2019re not systemic. It\u2019s resignation, compensation... but then what?\u201d</p><p><br></p><p>All this and more.</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and announcements</p><p>00:03:00: Headlines</p><p>00:20:24 : Citizenship, Passports and the State's Discretion</p><p>00:34:01: Manipur unrest</p><p>00:51:56 : Do Protest Movements Need Ideological Moorings?</p><p>01:12:13:: Samrat\u2019s recommendations</p><p>01:13:10: Anna to wangchuk protest</p><p>01:37:55: Letters</p><p>01:54:42: Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>. Produced by Amit Pandey with production assistance from Hassan .Sound by Naresh.</em></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a5b192462e50b14bde06ee8.mp3",
+          "duration": 7403.68,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1784355018019-31246d08-43c7-4158-b445-8fc846aafa09.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "6a5b192462e50b14bde06ee9"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "6a5b192462e50b14bde06eea"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a5b192462e50b14bde06ee8.mp3"
+        }
+      },
+      "title": "Hafta 598: From Anna to Sonam Wangchuk, can a protest survive without an ideology?",
+      "publish_date": "2026-07-18T06:11:48.112Z",
+      "summary": "<p>This week on Hafta, Abhinandan Sekhri, Rinchen Norbu, and Anand Vardhan are joined by author Samrat Choudhury (Samrat X) and Poornima Joshi, resident editor of <em>The Hindu BusinessLine</em>.</p><p><br></p><p>The discussion opens on an issue that has quietly become one of the most unsettling debates in recent weeks: citizenship. The conversation was triggered by Samrat\u2019s own <a href=\"https://www.newslaundry.com/2026/07/13/india-is-nowhere-near-ready-for-a-nationwide-sir-a-passport-scare-showed-me-why\" rel=\"noopener noreferrer\" target=\"_blank\">experience</a> of receiving a notice questioning his citizenship, despite holding a valid passport for years. He describes how a passport renewed without issue in 2022 suddenly became the subject of an \u201cadverse police report\u201d four years later, citing a chilling reason: \u201ccitizenship not established\u201d.</p><p><br></p><p>Anand notes that Indian citizenship has never rested on a single document. He argues that the legal framework has always been layered and discretionary, with the Passport Act even providing for travel documents in exceptional circumstances. Samrat, however, maintains that a blue Indian passport is fundamentally distinct from travel documents issued to non-citizens.</p><p><br></p><p>The conversation then shifts to Manipur, where renewed violence, attacks on security camps, and continuing ethnic tensions have largely disappeared from national headlines. Samrat cautions against simple narratives. \u201cIt\u2019s not simply a hill-versus-valley conflict, or a tribal-versus-non-tribal conflict. It\u2019s much more complicated than that.\u201d</p><p><br></p><p>Rinchen argues that regardless of its complexity, the crisis reflects a profound governance failure by the Modi administration. \u201cManipur has been in a state of perpetual civil war for nearly three years. This is a complete failure of political mediation and internal security.\u201d&nbsp;</p><p><br></p><p>Samrat also takes stock of the human cost and draws one of the episode\u2019s heaviest comparisons. \u201cPeople are not getting medicines; they\u2019re not getting food or fuel. It\u2019s a situation we\u2019ve heard about in places like Gaza \u2013 and it\u2019s happening so close to home.\u201d</p><p><br></p><p>Finally, the panel broadens the lens to ask what makes a protest movement successful. Drawing parallels between the Anna Hazare movement, the farmers\u2019 protests, and Sonam Wangchuk\u2019s agitation, they debate whether protests need strong ideological foundations.</p><p><br></p><p>Poornima Joshi argues that successful movements require organisational backing and ideological depth, pointing to the RSS\u2019s behind-the-scenes role during the Jan Lokpal movement. This prompts Abhinandan to challenge the panel: if the RSS \u2013 one of the most effective political entities of our time \u2013 is actually fluid in its ideology, is that fluidity a strength or a weakness for a movement?</p><p><br></p><p>Rinchen notes that ideology is important, but argues that enduring movements are defined by demands for systemic change rather than immediate political concessions. As he puts it: \u201cMy concern is that their (CJP) demands are not structural. They\u2019re not systemic. It\u2019s resignation, compensation... but then what?\u201d</p><p><br></p><p>All this and more.</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introductions and announcements</p><p>00:03:00: Headlines</p><p>00:20:24 : Citizenship, Passports and the State's Discretion</p><p>00:34:01: Manipur unrest</p><p>00:51:56 : Do Protest Movements Need Ideological Moorings?</p><p>01:12:13:: Samrat\u2019s recommendations</p><p>01:13:10: Anna to wangchuk protest</p><p>01:37:55: Letters</p><p>01:54:42: Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>. Produced by Amit Pandey with production assistance from Hassan .Sound by Naresh.</em></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a5b192462e50b14bde06ee8.mp3",
+      "duration": 7403.68,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1784355018019-31246d08-43c7-4158-b445-8fc846aafa09.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2026/07/18/hafta-598-from-anna-to-sonam-wangchuk-can-a-protest-survive-without-an-ideology",
     "https://www.newslaundry.com/2026/07/11/hafta-597-on-satluj-and-the-fifa-controversy",
     "https://www.newslaundry.com/2026/07/04/hafta-596-on-umar-khalid-uapa-and-judicial-accountability",
     "https://www.newslaundry.com/2026/06/27/hafta-595-ram-mandir-donation-scandal-and-why-corruption-no-longer-shapes-public-opinion",
@@ -2376,5 +2420,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2026-07-11T12:30:59.836622"
+  "last_updated": "2026-07-18T12:29:29.291271"
 }

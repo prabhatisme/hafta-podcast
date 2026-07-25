@@ -2361,9 +2361,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a5b192462e50b14bde06ee8.mp3",
       "duration": 7403.68,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1784355018019-31246d08-43c7-4158-b445-8fc846aafa09.jpeg"
+    },
+    "599": {
+      "episode_id": "6a6455bca7fbf9da1479cf5b",
+      "raw_data": {
+        "shows": {
+          "_id": "6a6455bca7fbf9da1479cf5b",
+          "title": "Hafta 599: CJP Protest, Gen Z Fury, Social Media and the Crisis of TV News",
+          "alias": "hafta-599-cjp-protest-gen-z-fury-social-media-and-the-crisis",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2026-07-25T06:20:44.529Z",
+          "lastEditedDate": "2026-07-25T06:25:32.206Z",
+          "publishDate": "2026-07-25T06:20:44.363Z",
+          "subtitle": "The podcast where we discuss the week\u2019s news. ",
+          "summary": "<p><br></p><p>This week on Hafta, Abhinandan Sekhri, Manisha Pande and Shardool Katyayan are joined by author Chetan Bhagat, <em>Peektv </em>co-founder Priyanshi Sharma and Dhanya Rajendran, editor-in-chief of <em>The News Minute</em>.&nbsp;</p><p><br></p><p>The discussion begins with a focus on the student protests that have spread across multiple cities, with the panel examining how paper leaks, unemployment anxiety, and frustration with the education system have created a much larger political moment.</p><p><br></p><p>Abhinandan opens with a confession. \u201cI owe an apology to Gen Z. I was wrong.\u201d</p><p>Chetan Bhagat believes that frustration has been brewing for much longer than the headlines suggest. He remarks, \u201cStreet protests are seldom about just one issue. They\u2019re an agglomeration of emotions that have been built up over time.\u201d</p><p>The paper leaks, he argues, merely became the trigger. Years of unemployment, shrinking opportunities, repeated recruitment failures and a growing loss of faith in institutions had already created the conditions.</p><p>He further adds, \u201cFixing the paper leaks is not going to solve things. We\u2019ve missed the boat on jobs.\u201d</p><p>Speaking on how social media played a vital role in the protest, Bhagat says, \u201cThe government gifted the protesters content gold. You cannot get more emotionally engaging content than a riot policeman chasing a 16-year-old girl with a lathi. You wake up and see those videos, you\u2019re bound to share them. A small protest in Delhi suddenly became viral across the country. The government completely underestimated how Gen Z works. They still think they can change the narrative with announcements. You cannot battle an exponential curve with announcements. The genie is out of the bottle.<em> Raita phail chuka hai</em>.\u201d</p><p>The discussion then moves to how protesters treated the mainstream media at Jantar Mantar. Priyanshi remarks, \u201cTheir mindset isn\u2019t determined by how <em>Republic </em>or <em>India Today</em> covers the protest today. It\u2019s determined by what these channels have done over the last ten years. Even if tomorrow Republic starts saying this is a genuine student protest, it won\u2019t change people's behaviour because they\u2019re not watching <em>Republic </em>anymore. They will need years of undoing what they have done. This distrust has become inevitable.\u201d</p><p>Adding to this, Dhanya says, \u201cI\u2019ve worked in television since 2003. Not every reporter is guilty, and many continue to do honest journalism. But we also can\u2019t pretend reporters are completely innocent bystanders. They\u2019re part of the same ecosystem. The actions of a few have damaged the credibility of many. Reporters too have become cogs in that wheel, and people now respond to the institution before they respond to the individual.\u201d</p><p>Drawing the contrast with small independent media and mainstream media, Priyanshi adds, \u201cThey judge the mic. It doesn\u2019t matter whether it says <em>Peek TV</em> or <em>Republic TV</em>. If it looks like a television mic, they assume you\u2019re from the mainstream media. Someone with a Bluetooth mic immediately appears friendlier, more approachable. That\u2019s the unfortunate reality.\u201d&nbsp;</p><p>All this and more.</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 Introduction</p><p>00:09:00 Headlines</p><p>00:12:16 Why Gen Z Took to the Streets</p><p>00:52:22 Chetan Bhagat Recommends</p><p>00:53:49 Why Protesters Don't Trust Mainstream Media</p><p>01:55:17 Recommendations</p><p>02:04:10 Subscriber Letters</p><p><br></p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>. Produced by Amit Pandey with production assistance from Hassan .Sound by Naresh.</em></p><p><br></p><p><br></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a6455bca7fbf9da1479cf5b.mp3",
+          "duration": 7713.21,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1784960361155-b07e7e49-0d57-4c2e-9a58-dcac88158b1f.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "6a6455bca7fbf9da1479cf5c"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "6a6455bca7fbf9da1479cf5d"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a6455bca7fbf9da1479cf5b.mp3"
+        }
+      },
+      "title": "Hafta 599: CJP Protest, Gen Z Fury, Social Media and the Crisis of TV News",
+      "publish_date": "2026-07-25T06:20:44.363Z",
+      "summary": "<p><br></p><p>This week on Hafta, Abhinandan Sekhri, Manisha Pande and Shardool Katyayan are joined by author Chetan Bhagat, <em>Peektv </em>co-founder Priyanshi Sharma and Dhanya Rajendran, editor-in-chief of <em>The News Minute</em>.&nbsp;</p><p><br></p><p>The discussion begins with a focus on the student protests that have spread across multiple cities, with the panel examining how paper leaks, unemployment anxiety, and frustration with the education system have created a much larger political moment.</p><p><br></p><p>Abhinandan opens with a confession. \u201cI owe an apology to Gen Z. I was wrong.\u201d</p><p>Chetan Bhagat believes that frustration has been brewing for much longer than the headlines suggest. He remarks, \u201cStreet protests are seldom about just one issue. They\u2019re an agglomeration of emotions that have been built up over time.\u201d</p><p>The paper leaks, he argues, merely became the trigger. Years of unemployment, shrinking opportunities, repeated recruitment failures and a growing loss of faith in institutions had already created the conditions.</p><p>He further adds, \u201cFixing the paper leaks is not going to solve things. We\u2019ve missed the boat on jobs.\u201d</p><p>Speaking on how social media played a vital role in the protest, Bhagat says, \u201cThe government gifted the protesters content gold. You cannot get more emotionally engaging content than a riot policeman chasing a 16-year-old girl with a lathi. You wake up and see those videos, you\u2019re bound to share them. A small protest in Delhi suddenly became viral across the country. The government completely underestimated how Gen Z works. They still think they can change the narrative with announcements. You cannot battle an exponential curve with announcements. The genie is out of the bottle.<em> Raita phail chuka hai</em>.\u201d</p><p>The discussion then moves to how protesters treated the mainstream media at Jantar Mantar. Priyanshi remarks, \u201cTheir mindset isn\u2019t determined by how <em>Republic </em>or <em>India Today</em> covers the protest today. It\u2019s determined by what these channels have done over the last ten years. Even if tomorrow Republic starts saying this is a genuine student protest, it won\u2019t change people's behaviour because they\u2019re not watching <em>Republic </em>anymore. They will need years of undoing what they have done. This distrust has become inevitable.\u201d</p><p>Adding to this, Dhanya says, \u201cI\u2019ve worked in television since 2003. Not every reporter is guilty, and many continue to do honest journalism. But we also can\u2019t pretend reporters are completely innocent bystanders. They\u2019re part of the same ecosystem. The actions of a few have damaged the credibility of many. Reporters too have become cogs in that wheel, and people now respond to the institution before they respond to the individual.\u201d</p><p>Drawing the contrast with small independent media and mainstream media, Priyanshi adds, \u201cThey judge the mic. It doesn\u2019t matter whether it says <em>Peek TV</em> or <em>Republic TV</em>. If it looks like a television mic, they assume you\u2019re from the mainstream media. Someone with a Bluetooth mic immediately appears friendlier, more approachable. That\u2019s the unfortunate reality.\u201d&nbsp;</p><p>All this and more.</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 Introduction</p><p>00:09:00 Headlines</p><p>00:12:16 Why Gen Z Took to the Streets</p><p>00:52:22 Chetan Bhagat Recommends</p><p>00:53:49 Why Protesters Don't Trust Mainstream Media</p><p>01:55:17 Recommendations</p><p>02:04:10 Subscriber Letters</p><p><br></p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>. Produced by Amit Pandey with production assistance from Hassan .Sound by Naresh.</em></p><p><br></p><p><br></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a6455bca7fbf9da1479cf5b.mp3",
+      "duration": 7713.21,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1784960361155-b07e7e49-0d57-4c2e-9a58-dcac88158b1f.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2026/07/25/hafta-599-cjp-protest-gen-z-fury-social-media-and-the-crisis-of-tv-news",
     "https://www.newslaundry.com/2026/07/18/hafta-598-from-anna-to-sonam-wangchuk-can-a-protest-survive-without-an-ideology",
     "https://www.newslaundry.com/2026/07/11/hafta-597-on-satluj-and-the-fifa-controversy",
     "https://www.newslaundry.com/2026/07/04/hafta-596-on-umar-khalid-uapa-and-judicial-accountability",
@@ -2420,5 +2464,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2026-07-18T12:29:29.291271"
+  "last_updated": "2026-07-25T12:31:57.697660"
 }

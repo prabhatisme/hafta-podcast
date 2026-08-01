@@ -2404,9 +2404,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a6455bca7fbf9da1479cf5b.mp3",
       "duration": 7713.21,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1784960361155-b07e7e49-0d57-4c2e-9a58-dcac88158b1f.jpeg"
+    },
+    "600": {
+      "episode_id": "6a6d889ef7c2060a1f3443e0",
+      "raw_data": {
+        "shows": {
+          "_id": "6a6d889ef7c2060a1f3443e0",
+          "title": "Hafta 600 : Nationalism, Travel & Bureaucracy \u2014 Our Most Unpopular Opinions",
+          "alias": "hafta-600-nationalism-travel-bureaucracy-our-most-unpopular",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2026-08-01T05:48:14.271Z",
+          "lastEditedDate": "2026-08-01T05:51:32.315Z",
+          "publishDate": "2026-08-01T05:48:14.110Z",
+          "subtitle": "The podcast where we discuss the week\u2019s news. ",
+          "summary": "<p>Celebrating 600 uninterrupted episodes of NL Hafta, Abhinadan Sekhri and Anand Vardhan are joined by former Hafta panelists Jayashree Arunachalam and Mehraj Lone for a special episode built around one simple idea: <strong>our most unpopular opinions</strong>.</p><p><br></p><p>The discussion opens with Mehraj D Lone's opinion that the idea of nationalism itself \u2013 not merely Hindu nationalism \u2013 is one of the root causes of India\u2019s social, political and administrative problems.</p><p>He argues that nationalism inevitably centralises power, erodes local autonomy and struggles to accommodate a civilisation as diverse as India.</p><p>Mehraj argues that the modern nation-state inevitably concentrates power, saying, \u201cWhen you implement it in a country as big and as diverse as India, it entails a few things. One is necessarily centralisation.\u201d&nbsp;</p><p>Anand turns to governance and bureaucracy, revealing that he has fundamentally changed his own position on<strong> lateral entry into the civil services.</strong></p><p>He added, \u201cI had said that some degree of lateral entry could be allowed, limited only in the higher civil service. Now I think I was wrong.\u201d&nbsp;</p><p>Emphasising on his opinion, He added, \u201cMy concern is that we see hiring in think tanks, international organisations like the UN, consultancy organisations, or even media organisations at the top level. If you allow a window of lateral entry into government service, then this \u2018people like us\u2019 syndrome comes into play. With my experience at the top in a lot of these organisations, people \u2013 whatever their pretensions are \u2013 are very classist. They hire people who talk like them, who are like them, who they identify with. That barrier comes in.\u201d&nbsp;</p><p>Jayashree's unpopular opinion moves away from politics altogether and into lifestyle. She argues that <strong>modern travel has been romanticised far beyond what it deserves. </strong>\u201cTravel is a hedonistic and consumeristic activity that has acquired this aura of being something greater and more noble.\u201d</p><p>For her, travel isn't inherently transformative. \u201cTravel doesn\u2019t make you a better version of yourself. It is as good or as bad as buying clothes or handbags.\u201d</p><p>Speaking of his opinion, Abhinandan said, \u201cMy unpopular opinion is an extension of that. I say unpopular opinion to a grouping which, since I identify as liberal, is the liberal grouping. Because of course, to the right, everything is an unpopular opinion because I can\u2019t stand the right... So among liberals...\"</p><p>His central argument is blunt, \u201cI think their description of \u2018snowflake\u2019 is very accurate. I think they have the inability to have conversations with positions they can\u2019t agree with or people they can't agree with.\"</p><p>All this and more.</p><p><br></p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 Introduction</p><p>00:04:37 Headlines</p><p>00:12:35: Our Most Unpopular opinions&nbsp;</p><p>01:27:03 : Letters</p><p>01:32:24 : Recommendations</p><p><br></p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>. Produced by Amit Pandey with production assistance from Sourav .Sound by Anil Kumar .</em></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a6d889ef7c2060a1f3443e0.mp3",
+          "duration": 6268.63,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1785563275052-ba044744-d1e2-43cc-8d08-425ddeccd564.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "6a6d889ef7c2060a1f3443e1"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "6a6d889ef7c2060a1f3443e2"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a6d889ef7c2060a1f3443e0.mp3"
+        }
+      },
+      "title": "Hafta 600 : Nationalism, Travel & Bureaucracy \u2014 Our Most Unpopular Opinions",
+      "publish_date": "2026-08-01T05:48:14.110Z",
+      "summary": "<p>Celebrating 600 uninterrupted episodes of NL Hafta, Abhinadan Sekhri and Anand Vardhan are joined by former Hafta panelists Jayashree Arunachalam and Mehraj Lone for a special episode built around one simple idea: <strong>our most unpopular opinions</strong>.</p><p><br></p><p>The discussion opens with Mehraj D Lone's opinion that the idea of nationalism itself \u2013 not merely Hindu nationalism \u2013 is one of the root causes of India\u2019s social, political and administrative problems.</p><p>He argues that nationalism inevitably centralises power, erodes local autonomy and struggles to accommodate a civilisation as diverse as India.</p><p>Mehraj argues that the modern nation-state inevitably concentrates power, saying, \u201cWhen you implement it in a country as big and as diverse as India, it entails a few things. One is necessarily centralisation.\u201d&nbsp;</p><p>Anand turns to governance and bureaucracy, revealing that he has fundamentally changed his own position on<strong> lateral entry into the civil services.</strong></p><p>He added, \u201cI had said that some degree of lateral entry could be allowed, limited only in the higher civil service. Now I think I was wrong.\u201d&nbsp;</p><p>Emphasising on his opinion, He added, \u201cMy concern is that we see hiring in think tanks, international organisations like the UN, consultancy organisations, or even media organisations at the top level. If you allow a window of lateral entry into government service, then this \u2018people like us\u2019 syndrome comes into play. With my experience at the top in a lot of these organisations, people \u2013 whatever their pretensions are \u2013 are very classist. They hire people who talk like them, who are like them, who they identify with. That barrier comes in.\u201d&nbsp;</p><p>Jayashree's unpopular opinion moves away from politics altogether and into lifestyle. She argues that <strong>modern travel has been romanticised far beyond what it deserves. </strong>\u201cTravel is a hedonistic and consumeristic activity that has acquired this aura of being something greater and more noble.\u201d</p><p>For her, travel isn't inherently transformative. \u201cTravel doesn\u2019t make you a better version of yourself. It is as good or as bad as buying clothes or handbags.\u201d</p><p>Speaking of his opinion, Abhinandan said, \u201cMy unpopular opinion is an extension of that. I say unpopular opinion to a grouping which, since I identify as liberal, is the liberal grouping. Because of course, to the right, everything is an unpopular opinion because I can\u2019t stand the right... So among liberals...\"</p><p>His central argument is blunt, \u201cI think their description of \u2018snowflake\u2019 is very accurate. I think they have the inability to have conversations with positions they can\u2019t agree with or people they can't agree with.\"</p><p>All this and more.</p><p><br></p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 Introduction</p><p>00:04:37 Headlines</p><p>00:12:35: Our Most Unpopular opinions&nbsp;</p><p>01:27:03 : Letters</p><p>01:32:24 : Recommendations</p><p><br></p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>. Produced by Amit Pandey with production assistance from Sourav .Sound by Anil Kumar .</em></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a6d889ef7c2060a1f3443e0.mp3",
+      "duration": 6268.63,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1785563275052-ba044744-d1e2-43cc-8d08-425ddeccd564.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2026/08/01/hafta-600-nationalism-travel-and-bureaucracy-our-most-unpopular-opinions",
     "https://www.newslaundry.com/2026/07/25/hafta-599-cjp-protest-gen-z-fury-social-media-and-the-crisis-of-tv-news",
     "https://www.newslaundry.com/2026/07/18/hafta-598-from-anna-to-sonam-wangchuk-can-a-protest-survive-without-an-ideology",
     "https://www.newslaundry.com/2026/07/11/hafta-597-on-satluj-and-the-fifa-controversy",
@@ -2464,5 +2508,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2026-07-25T12:31:57.697660"
+  "last_updated": "2026-08-01T12:34:27.399648"
 }

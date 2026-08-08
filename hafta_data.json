@@ -2447,9 +2447,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a6d889ef7c2060a1f3443e0.mp3",
       "duration": 6268.63,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1785563275052-ba044744-d1e2-43cc-8d08-425ddeccd564.jpeg"
+    },
+    "601": {
+      "episode_id": "6a76c2ae237988582ed1cf9b",
+      "raw_data": {
+        "shows": {
+          "_id": "6a76c2ae237988582ed1cf9b",
+          "title": "Hafta 601: Meta, Modi and the Battle for India\u2019s Internet",
+          "alias": "hafta-601-meta-modi-and-the-battle-for-indias-internet",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2026-08-08T05:46:22.006Z",
+          "lastEditedDate": "2026-08-08T05:48:32.485Z",
+          "publishDate": "2026-08-08T05:46:21.869Z",
+          "subtitle": "The podcast where we discuss the week\u2019s news.",
+          "summary": "<p>This week on Hafta, Abhinandan Sekhri, Manisha Pande and Shardool Katyayan are joined by the independent tech journalist Abhishek Baxi.&nbsp;</p><p><br></p><p>The discussion began with the recent controversy between Meta and the Central government, triggered by the brief takedown of PM Modi\u2019s video on Instagram and Meta\u2019s wider clampdown on social media content.</p><p>Speaking on the issue, Abhishek said, \u201cIt's quite a Wild West. There is a censorship apparatus that has been set up. Given the number of takedown requests the Indian government and its agencies send, Meta has had to automate moderation. In most democracies, takedowns are manual because there\u2019s a clear legal process. In India, takedown requests have been doubling every year. The numbers are so high that manual intervention is simply not tenable anymore, and that\u2019s exactly why these automated moderation errors happen.\u201d&nbsp;</p><p>Adding to Baxi\u2019s point, Manisha said, \u201cWe\u2019ve seen interviews disappear, we\u2019ve seen our own posts get restricted, and there is never any explanation. I don\u2019t think these platforms are going to fight the freedom of speech battle for us. They see India as a huge market and they want to continue doing business here.\u201d&nbsp;</p><p>Speaking on the government\u2019s stance on the whole row, Shardool remarked, \u201cIt\u2019s a sad fact that a government governing 1.4 billion people doesn\u2019t understand Instagram. It takes one conversation with creators to understand how the platform works, but instead every viral trend is seen as a conspiracy.\u201d&nbsp;</p><p>The discussion then moved to the recent violence reported during the annual Kanwar Yatra. Looking at the big picture, Abhinandan asked, \u201cIs the state accommodating religion, or is it pandering to religion?\u201d</p><p>All this and more.</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00- Introduction</p><p>00:04:00- Headlines</p><p>00:16:04 - Meta and centre row over PM\u2019s video&nbsp;</p><p>00:43:15\u2013 Is the state accommodating religion, or is it pandering to religion?&nbsp;&nbsp;</p><p>01:03:16 \u2013 Abhishek\u2019s recommendation&nbsp;</p><p>01:05:45 : Letters</p><p>01:23:00 : Recommendations</p><p><br></p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>. Produced by Amit Pandey with production assistance from Sourav .Sound by Anil Kumar .</em></p><p><br></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a76c2ae237988582ed1cf9b.mp3",
+          "duration": 5257.84,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1786167914378-68988684-dfc9-4438-ba7e-43d3d7b66d23.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "6a76c2ae237988582ed1cf9c"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "6a76c2ae237988582ed1cf9d"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a76c2ae237988582ed1cf9b.mp3"
+        }
+      },
+      "title": "Hafta 601: Meta, Modi and the Battle for India\u2019s Internet",
+      "publish_date": "2026-08-08T05:46:21.869Z",
+      "summary": "<p>This week on Hafta, Abhinandan Sekhri, Manisha Pande and Shardool Katyayan are joined by the independent tech journalist Abhishek Baxi.&nbsp;</p><p><br></p><p>The discussion began with the recent controversy between Meta and the Central government, triggered by the brief takedown of PM Modi\u2019s video on Instagram and Meta\u2019s wider clampdown on social media content.</p><p>Speaking on the issue, Abhishek said, \u201cIt's quite a Wild West. There is a censorship apparatus that has been set up. Given the number of takedown requests the Indian government and its agencies send, Meta has had to automate moderation. In most democracies, takedowns are manual because there\u2019s a clear legal process. In India, takedown requests have been doubling every year. The numbers are so high that manual intervention is simply not tenable anymore, and that\u2019s exactly why these automated moderation errors happen.\u201d&nbsp;</p><p>Adding to Baxi\u2019s point, Manisha said, \u201cWe\u2019ve seen interviews disappear, we\u2019ve seen our own posts get restricted, and there is never any explanation. I don\u2019t think these platforms are going to fight the freedom of speech battle for us. They see India as a huge market and they want to continue doing business here.\u201d&nbsp;</p><p>Speaking on the government\u2019s stance on the whole row, Shardool remarked, \u201cIt\u2019s a sad fact that a government governing 1.4 billion people doesn\u2019t understand Instagram. It takes one conversation with creators to understand how the platform works, but instead every viral trend is seen as a conspiracy.\u201d&nbsp;</p><p>The discussion then moved to the recent violence reported during the annual Kanwar Yatra. Looking at the big picture, Abhinandan asked, \u201cIs the state accommodating religion, or is it pandering to religion?\u201d</p><p>All this and more.</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00- Introduction</p><p>00:04:00- Headlines</p><p>00:16:04 - Meta and centre row over PM\u2019s video&nbsp;</p><p>00:43:15\u2013 Is the state accommodating religion, or is it pandering to religion?&nbsp;&nbsp;</p><p>01:03:16 \u2013 Abhishek\u2019s recommendation&nbsp;</p><p>01:05:45 : Letters</p><p>01:23:00 : Recommendations</p><p><br></p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>. Produced by Amit Pandey with production assistance from Sourav .Sound by Anil Kumar .</em></p><p><br></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a76c2ae237988582ed1cf9b.mp3",
+      "duration": 5257.84,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1786167914378-68988684-dfc9-4438-ba7e-43d3d7b66d23.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2026/08/08/hafta-601-meta-modi-and-the-battle-for-indias-internet",
     "https://www.newslaundry.com/2026/08/01/hafta-600-nationalism-travel-and-bureaucracy-our-most-unpopular-opinions",
     "https://www.newslaundry.com/2026/07/25/hafta-599-cjp-protest-gen-z-fury-social-media-and-the-crisis-of-tv-news",
     "https://www.newslaundry.com/2026/07/18/hafta-598-from-anna-to-sonam-wangchuk-can-a-protest-survive-without-an-ideology",
@@ -2508,5 +2552,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2026-08-01T12:34:27.399648"
+  "last_updated": "2026-08-08T11:55:39.895489"
 }

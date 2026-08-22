@@ -2533,9 +2533,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a8006ab6e5b5bfda6c351db.mp3",
       "duration": 3604.96,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1786775169058-a2ba617e-7eda-41bf-960d-228c34b3e3db.jpeg"
+    },
+    "603": {
+      "episode_id": "6a893a80a89d26398e2e4182",
+      "raw_data": {
+        "shows": {
+          "_id": "6a893a80a89d26398e2e4182",
+          "title": "Hafta 603: BJP\u2019s Instagram Problem, \u2018Dimaagi Naxal\u2019, and Maoism in India",
+          "alias": "hafta-603-bjps-instagram-problem-dimaagi-naxal-and-maoism-in",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2026-08-22T05:58:24.577Z",
+          "lastEditedDate": "2026-08-22T07:08:36.022Z",
+          "publishDate": "2026-08-22T05:58:24.321Z",
+          "subtitle": "The podcast where we discuss the week\u2019s news. ",
+          "summary": "<p>This week on Hafta, Abhinandan Sekhri, Manisha Pande and Rinchen Norbu are joined by author, cultural commentator and podcaster Anurag Minus Verma and Biyon Sony Joseph, a lecturer in political science and former Network for Advanced Study of China (NASC) Fellow at the Takshashila Institution.</p><p><br></p><p>The panel first discussed how the BJP has been trying to expand its digital presence beyond its traditional social-media ecosystem, particularly on Instagram.&nbsp;</p><p>According to Anurag, right-wing Instagram content has often relied on a limited set of formats \u2013 targeting individuals, threatening opponents, punching down through humour and exposing alleged hypocrisy. But he argued that this has a limited shelf life on Instagram.</p><p>\u201cThese things have a shelf life because these things are not cool. These things can appeal to you for a short period of time\u2026 But Instagram especially operates on a post-irony aesthetic, so you have to have a certain kind of ideological looseness as well. You can\u2019t be very stiff, which is also a criteria for humour,\u201d he added.&nbsp;</p><p>Manisha contrasted the BJP\u2019s \u201cdimaagi Naxal\u201d messaging with the issues raised by young protesters, pointing to a schoolchild highlighting poor infrastructure.&nbsp;</p><p>\u201cOn one side you have school kids somewhere in Rajasthan showing the pitiful state of their schools\u2026 And on the other side you have the BJP saying, \u2018dimaagi Naxal hain\u2019. It\u2019s bound to not win\u2026 because what is \u2018dimaagi Naxal\u2019 in response to? Basically young people who want a better education.\u201d</p><p>Anurag said the BJP\u2019s understanding of X (formerly Twitter) does not necessarily translate to Instagram because the two platforms operate differently.</p><p>He added, \u201cThese people don\u2019t understand irony and meta, and meta as in the meta irony\u2026 which makes it very difficult for them to do something on this medium.\u201d</p><p>The panel also discussed what made the Gen Z protests particularly effective online. Rinchen identified three qualities that stood out: authenticity, originality and irreverence.</p><p>Following this, the panel moved on to examine Maoism, its evolution in China and its influence on the Indian Maoist movement. Biyon explained how Mao\u2019s strategy of protracted people\u2019s war became an important ideological model for sections of the Indian radical left.</p><p>\u201cWhat Mao did in China was, in theoretical terms, it's called a protracted people\u2019s war. They start from the countryside, then they go on the offensive. Basically, guerrilla warfare. They try to engulf the rural sides in the beginning, and then they go to the urban sides, and then they capture power,\u201d said Biyon.</p><p>He also discussed how the CPI(M)\u2019s ideological position evolved as it confronted the realities of operating within India. \u201cThe CPI(M) was also diluted from its initial stance\u2026 trying to go forward with a socialist government within a very capitalist, neoliberal environment that India is in right now, it\u2019s very difficult for the party to go forward without making policy shifts,\u201d he added.&nbsp;</p><p>All this and more.</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introduction</p><p>00:03:46 - Headlines</p><p>00:10:50 - The BJP\u2019s Gen Z problem</p><p>00:43:39 -From Mao\u2019s China to Naxalism in India</p><p>01:16:32 \u2013 Binoy &amp; Anurag\u2019s recommendations</p><p>01:20:14&nbsp;- Letters</p><p>01:35:05&nbsp;- Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>. </em></p><p><em>Produced by Amit Pandey with production assistance from Sourav .Sound by Anil Kumar .</em></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a893a80a89d26398e2e4182.mp3",
+          "duration": 6101.23,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1787378220439-95743746-736d-439c-b18f-7843b54145b2.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "6a893a80a89d26398e2e4183"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "6a893a80a89d26398e2e4184"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a893a80a89d26398e2e4182.mp3"
+        }
+      },
+      "title": "Hafta 603: BJP\u2019s Instagram Problem, \u2018Dimaagi Naxal\u2019, and Maoism in India",
+      "publish_date": "2026-08-22T05:58:24.321Z",
+      "summary": "<p>This week on Hafta, Abhinandan Sekhri, Manisha Pande and Rinchen Norbu are joined by author, cultural commentator and podcaster Anurag Minus Verma and Biyon Sony Joseph, a lecturer in political science and former Network for Advanced Study of China (NASC) Fellow at the Takshashila Institution.</p><p><br></p><p>The panel first discussed how the BJP has been trying to expand its digital presence beyond its traditional social-media ecosystem, particularly on Instagram.&nbsp;</p><p>According to Anurag, right-wing Instagram content has often relied on a limited set of formats \u2013 targeting individuals, threatening opponents, punching down through humour and exposing alleged hypocrisy. But he argued that this has a limited shelf life on Instagram.</p><p>\u201cThese things have a shelf life because these things are not cool. These things can appeal to you for a short period of time\u2026 But Instagram especially operates on a post-irony aesthetic, so you have to have a certain kind of ideological looseness as well. You can\u2019t be very stiff, which is also a criteria for humour,\u201d he added.&nbsp;</p><p>Manisha contrasted the BJP\u2019s \u201cdimaagi Naxal\u201d messaging with the issues raised by young protesters, pointing to a schoolchild highlighting poor infrastructure.&nbsp;</p><p>\u201cOn one side you have school kids somewhere in Rajasthan showing the pitiful state of their schools\u2026 And on the other side you have the BJP saying, \u2018dimaagi Naxal hain\u2019. It\u2019s bound to not win\u2026 because what is \u2018dimaagi Naxal\u2019 in response to? Basically young people who want a better education.\u201d</p><p>Anurag said the BJP\u2019s understanding of X (formerly Twitter) does not necessarily translate to Instagram because the two platforms operate differently.</p><p>He added, \u201cThese people don\u2019t understand irony and meta, and meta as in the meta irony\u2026 which makes it very difficult for them to do something on this medium.\u201d</p><p>The panel also discussed what made the Gen Z protests particularly effective online. Rinchen identified three qualities that stood out: authenticity, originality and irreverence.</p><p>Following this, the panel moved on to examine Maoism, its evolution in China and its influence on the Indian Maoist movement. Biyon explained how Mao\u2019s strategy of protracted people\u2019s war became an important ideological model for sections of the Indian radical left.</p><p>\u201cWhat Mao did in China was, in theoretical terms, it's called a protracted people\u2019s war. They start from the countryside, then they go on the offensive. Basically, guerrilla warfare. They try to engulf the rural sides in the beginning, and then they go to the urban sides, and then they capture power,\u201d said Biyon.</p><p>He also discussed how the CPI(M)\u2019s ideological position evolved as it confronted the realities of operating within India. \u201cThe CPI(M) was also diluted from its initial stance\u2026 trying to go forward with a socialist government within a very capitalist, neoliberal environment that India is in right now, it\u2019s very difficult for the party to go forward without making policy shifts,\u201d he added.&nbsp;</p><p>All this and more.</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introduction</p><p>00:03:46 - Headlines</p><p>00:10:50 - The BJP\u2019s Gen Z problem</p><p>00:43:39 -From Mao\u2019s China to Naxalism in India</p><p>01:16:32 \u2013 Binoy &amp; Anurag\u2019s recommendations</p><p>01:20:14&nbsp;- Letters</p><p>01:35:05&nbsp;- Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>. </em></p><p><em>Produced by Amit Pandey with production assistance from Sourav .Sound by Anil Kumar .</em></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a893a80a89d26398e2e4182.mp3",
+      "duration": 6101.23,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1787378220439-95743746-736d-439c-b18f-7843b54145b2.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2026/08/22/hafta-603-bjps-instagram-problem-dimaagi-naxal-and-maoism-in-india",
     "https://www.newslaundry.com/2026/08/15/hafta-602-the-india-that-was-the-india-that-couldve-been",
     "https://www.newslaundry.com/2026/08/08/hafta-601-meta-modi-and-the-battle-for-indias-internet",
     "https://www.newslaundry.com/2026/08/01/hafta-600-nationalism-travel-and-bureaucracy-our-most-unpopular-opinions",
@@ -2596,5 +2640,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2026-08-15T11:47:43.095969"
+  "last_updated": "2026-08-22T11:48:22.590529"
 }

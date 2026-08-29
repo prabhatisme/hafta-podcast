@@ -2576,9 +2576,52 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a893a80a89d26398e2e4182.mp3",
       "duration": 6101.23,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1787378220439-95743746-736d-439c-b18f-7843b54145b2.jpeg"
+    },
+    "604": {
+      "episode_id": "6a926f35cbb53913977cd64b",
+      "raw_data": {
+        "shows": {
+          "_id": "6a926f35cbb53913977cd64b",
+          "title": "Hafta 604: Reservation, \u2018Merit\u2019 and the Unbearable Pressure on India\u2019s Students",
+          "alias": "hafta-604-reservation-merit-and-the-unbearable-pressure-on-i",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2026-08-29T05:33:41.291Z",
+          "lastEditedDate": "2026-08-29T05:37:32.696Z",
+          "publishDate": null,
+          "subtitle": "The podcast where we discuss the week\u2019s news. ",
+          "summary": "<p>This week on Hafta, Abhinandan Sekhri, Manisha Pande and Anand Vardhan are joined by Dr Aqsa Shaikh, one of India\u2019s first transgender doctors and a member of the Supreme Court-appointed National Task Force on Student Suicide Prevention in Higher Education, and Sameena Dalwai, a law professor, writer and researcher whose work focuses on caste, gender and identity.</p><p><br></p><p>The discussion begins with the recent anti-reservation protests and a larger question that has once again entered India\u2019s political conversation: has reservation worked, and what does merit really mean in a deeply unequal society?</p><p><br></p><p>Drawing from her own experience as a Muslim, transgender and a person from the general category, Aqsa explains how her views on reservation changed after she encountered the lives of Dalit and Adivasi students during her medical education. She argues that the debate cannot be reduced to a simple binary.</p><p>\u201cIndia is a very complex country, and I think complexity is good, diversity is good. It\u2019s only fascists who often reduce conversations to a very simple binary, yes and no.\u201d</p><p>The panel then turns to the idea of merit and the unequal starting points from which students enter the race. Anand argues that meritocracy itself can be distorted when wealth and social connections determine access to better schools, coaching and credentials.</p><p><br></p><p>As Abhinandan recalls one student\u2019s response to the merit debate: \u201cYou talk about merit, come and study in the school I went to and then compete with me, and I'll show you merit.\u201d</p><p><br></p><p>Manisha, however, points out that while reserved-category students endure serious bullying and enormous pressure, economic hardship among many general-category students is also real. In an economy with limited government jobs and intense competition for educational opportunities, she argues, reservation can become a convenient target for frustrations rooted in a much larger shortage of opportunities.</p><p><br></p><p>The discussion then moves to yet another IIT student who died by suicide and the wider crisis of student mental health. Aqsa, drawing on her work with the national task force, argues that no single explanation accounts for why students face extreme distress.</p><p><br></p><p>\u201cStudent suicide prevention has a lot of factors contributing to it. Unless we look at these root causes and the policy decisions that are affecting them, we cannot solve this problem,\u201d she says.</p><p><br></p><p>The panel examines the pressures created by hypercompetitive institutions, coaching culture, academic expectations and the constant race for jobs and placements. Aqsa argues that students are increasingly taught to compete rather than collaborate, while Sameena questions a culture that constantly measures young people through achievement and economic success.</p><p><br></p><p>Anand cautions against treating students or Gen Z as a single, homogeneous group, arguing that different students face very different pressures and circumstances.</p><p>Manisha ultimately identifies the common thread running through both discussions: opportunity. From reservation and access to education to the pressures inside institutions such as the IITs, she argues that the shrinking sense of opportunity is shaping many of the anxieties young Indians are expressing today.</p><p><br></p><p>All this and more.</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introduction</p><p>00:03:26 - Headlines</p><p>00:10:40 - Anti-reservation protests&nbsp;</p><p>00:54:15 - Suicides in IIT and pressure on India\u2019s students&nbsp;</p><p>01:19:12 \u2013 Guest Recommendations</p><p>01:41:26&nbsp; - Letters</p><p>01:46:12&nbsp; - Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><em>Produced by Ashish Anand and Amit Pandey with production assistance from Hassan. Sound by Anil Kumar.</em></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a926f35cbb53913977cd64b.mp3",
+          "duration": 6854.68,
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "6a926f35cbb53913977cd64c"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "6a926f35cbb53913977cd64d"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a926f35cbb53913977cd64b.mp3"
+        }
+      },
+      "title": "Hafta 604: Reservation, \u2018Merit\u2019 and the Unbearable Pressure on India\u2019s Students",
+      "publish_date": null,
+      "summary": "<p>This week on Hafta, Abhinandan Sekhri, Manisha Pande and Anand Vardhan are joined by Dr Aqsa Shaikh, one of India\u2019s first transgender doctors and a member of the Supreme Court-appointed National Task Force on Student Suicide Prevention in Higher Education, and Sameena Dalwai, a law professor, writer and researcher whose work focuses on caste, gender and identity.</p><p><br></p><p>The discussion begins with the recent anti-reservation protests and a larger question that has once again entered India\u2019s political conversation: has reservation worked, and what does merit really mean in a deeply unequal society?</p><p><br></p><p>Drawing from her own experience as a Muslim, transgender and a person from the general category, Aqsa explains how her views on reservation changed after she encountered the lives of Dalit and Adivasi students during her medical education. She argues that the debate cannot be reduced to a simple binary.</p><p>\u201cIndia is a very complex country, and I think complexity is good, diversity is good. It\u2019s only fascists who often reduce conversations to a very simple binary, yes and no.\u201d</p><p>The panel then turns to the idea of merit and the unequal starting points from which students enter the race. Anand argues that meritocracy itself can be distorted when wealth and social connections determine access to better schools, coaching and credentials.</p><p><br></p><p>As Abhinandan recalls one student\u2019s response to the merit debate: \u201cYou talk about merit, come and study in the school I went to and then compete with me, and I'll show you merit.\u201d</p><p><br></p><p>Manisha, however, points out that while reserved-category students endure serious bullying and enormous pressure, economic hardship among many general-category students is also real. In an economy with limited government jobs and intense competition for educational opportunities, she argues, reservation can become a convenient target for frustrations rooted in a much larger shortage of opportunities.</p><p><br></p><p>The discussion then moves to yet another IIT student who died by suicide and the wider crisis of student mental health. Aqsa, drawing on her work with the national task force, argues that no single explanation accounts for why students face extreme distress.</p><p><br></p><p>\u201cStudent suicide prevention has a lot of factors contributing to it. Unless we look at these root causes and the policy decisions that are affecting them, we cannot solve this problem,\u201d she says.</p><p><br></p><p>The panel examines the pressures created by hypercompetitive institutions, coaching culture, academic expectations and the constant race for jobs and placements. Aqsa argues that students are increasingly taught to compete rather than collaborate, while Sameena questions a culture that constantly measures young people through achievement and economic success.</p><p><br></p><p>Anand cautions against treating students or Gen Z as a single, homogeneous group, arguing that different students face very different pressures and circumstances.</p><p>Manisha ultimately identifies the common thread running through both discussions: opportunity. From reservation and access to education to the pressures inside institutions such as the IITs, she argues that the shrinking sense of opportunity is shaping many of the anxieties young Indians are expressing today.</p><p><br></p><p>All this and more.</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 - Introduction</p><p>00:03:26 - Headlines</p><p>00:10:40 - Anti-reservation protests&nbsp;</p><p>00:54:15 - Suicides in IIT and pressure on India\u2019s students&nbsp;</p><p>01:19:12 \u2013 Guest Recommendations</p><p>01:41:26&nbsp; - Letters</p><p>01:46:12&nbsp; - Recommendations</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><em>Produced by Ashish Anand and Amit Pandey with production assistance from Hassan. Sound by Anil Kumar.</em></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a926f35cbb53913977cd64b.mp3",
+      "duration": 6854.68,
+      "cover": ""
     }
   },
   "links": [
+    "https://www.newslaundry.com/2026/08/29/hafta-604-reservation-merit-and-the-unbearable-pressure-on-indias-students",
     "https://www.newslaundry.com/2026/08/22/hafta-603-bjps-instagram-problem-dimaagi-naxal-and-maoism-in-india",
     "https://www.newslaundry.com/2026/08/15/hafta-602-the-india-that-was-the-india-that-couldve-been",
     "https://www.newslaundry.com/2026/08/08/hafta-601-meta-modi-and-the-battle-for-indias-internet",
@@ -2640,5 +2683,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2026-08-22T11:48:22.590529"
+  "last_updated": "2026-08-29T15:44:28.450694"
 }

@@ -2618,9 +2618,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a926f35cbb53913977cd64b.mp3",
       "duration": 6854.68,
       "cover": ""
+    },
+    "605": {
+      "episode_id": "6a9bae420c727006159892fc",
+      "raw_data": {
+        "shows": {
+          "_id": "6a9bae420c727006159892fc",
+          "title": "Hafta 605: India\u2019s GDP Debate, and Nepal\u2019s fight for Climate Justice",
+          "alias": "hafta-605-indias-gdp-debate-and-nepals-fight-for-climate-jus",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2026-09-05T05:53:06.006Z",
+          "lastEditedDate": "2026-09-05T05:55:32.569Z",
+          "publishDate": "2026-09-05T05:53:05.759Z",
+          "subtitle": "The podcast where we discuss the week\u2019s news. ",
+          "summary": "<p>This week on Hafta, Abhinandan Sekhri and Rinchen Norbu are joined by Vivek Kaul, a Mumbai-based author and columnist, Puja Mehra, a senior economic journalist and author, and veteran environment journalist Hridayesh Joshi.&nbsp;</p><p>The discussion opens with India\u2019s recently released 7.8% GDP growth rate for the April\u2013June quarter. Vivek argues that the number cannot be read in isolation. The change in the GDP methodology and base year has substantially altered earlier estimates, including a major downward revision in private consumption.&nbsp;</p><p>\u201cWhile the headline GDP number may be suggesting what it is\u2026 there are other real numbers which are available out there.\u201d Kaul remarks. He points to household consumption, employment, debt and other indicators to argue that the state of the economy cannot be understood from one headline GDP number alone.&nbsp;</p><p>Puja Mehra adds an important caveat: GDP is not like weighing one kilogram of fruit and expecting the scale to always give the same answer. \u201cGDP, you get to define what GDP is and then measure it in the way you have defined it.\u201d</p><p>Speaking on ex-finance secretary Subhash Chandra Garg\u2019s claim that the quarterly GDP growth rate figures are less than 2.5%, Vivek says, \u201cSubhash Chandra Garg did what the BJP has been doing to us for all these years\u2026 He made a quick point, he made a simplistic point, which was wrong. But by the time the corrections stepped in, by the time the fact checkers came in, the thing had already gone viral.\u201d</p><p>The discussion then transitions to the devastating flash floods that originated along the Nepal-Tibet border and the larger question of climate justice.&nbsp;&nbsp;</p><p>Discussing Nepal\u2019s demand that major emitters compensate it for climate-related damage, Hridayesh makes a distinction between pollution today and historic emissions. Nepal\u2019s argument, he says, is rooted in the idea of climate \u201closs and damage\u201d and the disproportionate vulnerability of the Hindu Kush Himalaya region. But he also warns that India cannot simply point fingers outward. \u201cNepal\u2019s demand is justified, but we should also look within, including India.\u201d</p><p>Referring to German philosopher Georg Wilhelm Friedrich Hegel, Hridayesh says, \u201cThe only thing that we learn from history is that we learn nothing from history.\u201d</p><p>All this and more.</p><p><br></p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p><strong>00:00:00</strong> \u2013 Introduction</p><p><strong>00:03:54</strong> \u2013 Headlines</p><p><strong>00:13:23</strong> \u2013 7.8% GDP Growth</p><p><strong>00:56:52</strong> \u2013 Puja &amp; Vivek\u2019s Recommendations</p><p><strong>01:05:30</strong> \u2013 Nepal Disaster &amp; Climate Justice</p><p><strong>01:34:56</strong> \u2013 Recommendations</p><p><strong>01:35:25</strong> \u2013 Hridayesh\u2019s Recommendation</p><p><strong>01:36:28</strong> \u2013 Letters</p><p><br></p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><em>Produced by Amit Pandey with production assistance from Hassan. Sound by Anil Kumar.</em></p><p><br></p><p><br></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a9bae420c727006159892fc.mp3",
+          "duration": 7070.42,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1788587356521-e0ce0fd5-c88f-483c-99de-677dd4a1ccd2.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "6a9bae420c727006159892fd"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "6a9bae420c727006159892fe"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a9bae420c727006159892fc.mp3"
+        }
+      },
+      "title": "Hafta 605: India\u2019s GDP Debate, and Nepal\u2019s fight for Climate Justice",
+      "publish_date": "2026-09-05T05:53:05.759Z",
+      "summary": "<p>This week on Hafta, Abhinandan Sekhri and Rinchen Norbu are joined by Vivek Kaul, a Mumbai-based author and columnist, Puja Mehra, a senior economic journalist and author, and veteran environment journalist Hridayesh Joshi.&nbsp;</p><p>The discussion opens with India\u2019s recently released 7.8% GDP growth rate for the April\u2013June quarter. Vivek argues that the number cannot be read in isolation. The change in the GDP methodology and base year has substantially altered earlier estimates, including a major downward revision in private consumption.&nbsp;</p><p>\u201cWhile the headline GDP number may be suggesting what it is\u2026 there are other real numbers which are available out there.\u201d Kaul remarks. He points to household consumption, employment, debt and other indicators to argue that the state of the economy cannot be understood from one headline GDP number alone.&nbsp;</p><p>Puja Mehra adds an important caveat: GDP is not like weighing one kilogram of fruit and expecting the scale to always give the same answer. \u201cGDP, you get to define what GDP is and then measure it in the way you have defined it.\u201d</p><p>Speaking on ex-finance secretary Subhash Chandra Garg\u2019s claim that the quarterly GDP growth rate figures are less than 2.5%, Vivek says, \u201cSubhash Chandra Garg did what the BJP has been doing to us for all these years\u2026 He made a quick point, he made a simplistic point, which was wrong. But by the time the corrections stepped in, by the time the fact checkers came in, the thing had already gone viral.\u201d</p><p>The discussion then transitions to the devastating flash floods that originated along the Nepal-Tibet border and the larger question of climate justice.&nbsp;&nbsp;</p><p>Discussing Nepal\u2019s demand that major emitters compensate it for climate-related damage, Hridayesh makes a distinction between pollution today and historic emissions. Nepal\u2019s argument, he says, is rooted in the idea of climate \u201closs and damage\u201d and the disproportionate vulnerability of the Hindu Kush Himalaya region. But he also warns that India cannot simply point fingers outward. \u201cNepal\u2019s demand is justified, but we should also look within, including India.\u201d</p><p>Referring to German philosopher Georg Wilhelm Friedrich Hegel, Hridayesh says, \u201cThe only thing that we learn from history is that we learn nothing from history.\u201d</p><p>All this and more.</p><p><br></p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p><strong>00:00:00</strong> \u2013 Introduction</p><p><strong>00:03:54</strong> \u2013 Headlines</p><p><strong>00:13:23</strong> \u2013 7.8% GDP Growth</p><p><strong>00:56:52</strong> \u2013 Puja &amp; Vivek\u2019s Recommendations</p><p><strong>01:05:30</strong> \u2013 Nepal Disaster &amp; Climate Justice</p><p><strong>01:34:56</strong> \u2013 Recommendations</p><p><strong>01:35:25</strong> \u2013 Hridayesh\u2019s Recommendation</p><p><strong>01:36:28</strong> \u2013 Letters</p><p><br></p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><em>Produced by Amit Pandey with production assistance from Hassan. Sound by Anil Kumar.</em></p><p><br></p><p><br></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a9bae420c727006159892fc.mp3",
+      "duration": 7070.42,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1788587356521-e0ce0fd5-c88f-483c-99de-677dd4a1ccd2.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2026/09/05/hafta-605-indias-gdp-debate-and-nepals-fight-for-climate-justice",
     "https://www.newslaundry.com/2026/08/29/hafta-604-reservation-merit-and-the-unbearable-pressure-on-indias-students",
     "https://www.newslaundry.com/2026/08/22/hafta-603-bjps-instagram-problem-dimaagi-naxal-and-maoism-in-india",
     "https://www.newslaundry.com/2026/08/15/hafta-602-the-india-that-was-the-india-that-couldve-been",
@@ -2683,5 +2727,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2026-08-29T15:44:28.450694"
+  "last_updated": "2026-09-05T13:58:53.879701"
 }

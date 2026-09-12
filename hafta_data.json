@@ -2661,9 +2661,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6a9bae420c727006159892fc.mp3",
       "duration": 7070.42,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1788587356521-e0ce0fd5-c88f-483c-99de-677dd4a1ccd2.jpeg"
+    },
+    "606": {
+      "episode_id": "6aa4e9dcc939da2795e2bdd3",
+      "raw_data": {
+        "shows": {
+          "_id": "6aa4e9dcc939da2795e2bdd3",
+          "title": "Hafta 606: Delhi\u2019s Housing Crisis, BRICS and Europe\u2019s Right-Wing Surge",
+          "alias": "hafta-606-delhis-housing-crisis-brics-and-europes-right-wing",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2026-09-12T05:57:48.880Z",
+          "lastEditedDate": "2026-09-12T06:03:32.913Z",
+          "publishDate": "2026-09-12T05:57:48.627Z",
+          "subtitle": "The podcast where we discuss the week\u2019s news. ",
+          "summary": "<p>This week on Hafta, Abhinandan Sekhri, Raman Kirpal and Anand Vardhan are joined by Urban geographer and researcher Rashee Mehra and Gulshan Sachdeva, Professor and Jean Monnet Chair at JNU\u2019s Centre for European Studies.</p><p>The discussion opens with Delhi\u2019s continuing housing crisis and the problem of unauthorised construction.</p><p>Talking about areas such as Satya Niketan, Rashee Mehra explains how a neighbourhood can be legally regularised while the construction within it remains in violation of planning and building norms.&nbsp;</p><p>She remarks, \u201cIt is actually a very confusing governance structure that we have created in the city. And that leads to questions of whose responsibility it is\u2026 Is it the MCD which did not do these regular checks and shut down these buildings if they were unsafe?\u201d</p><p>Rashee argues that Delhi\u2019s housing problem cannot be understood simply as a question of illegal construction. \u201cWhen we talk about housing, housing has to be adequate, affordable, viable, sustainable. Over here, where housing is affordable, it\u2019s not adequate, and where housing is adequate, it\u2019s not affordable. And that\u2019s your catch-22 situation.\u201d</p><p>Anand adds another dimension to the discussion, pointing out that Delhi\u2019s housing problem is much larger than the university students who have recently come into focus.&nbsp;</p><p>\u201cThere are two kinds of landlords. One has invested in these houses, and the other lives on rent only. So in these Lal Dora areas, the urban villages, the only thing from which they earn is that house. So they have less incentive to invest because all the rent that they get, they spend somewhere.\u201d</p><p>In her concluding remarks, Rashee brings the discussion back to the larger question: \u201cAre cities for people or are cities for profit?\u201d</p><p>The panel then proceeds to the growing importance of the BRICS grouping and the changing balance of the global economy.&nbsp;</p><p>Gulshan points out that while global growth over the past two decades has averaged around 3%, BRICS economies have grown at more than 6% on average, making the Global South an increasingly important force in the world economy.</p><p>From BRICS, the discussion moves to the rise of right-wing politics in Europe. Gulshan notes that far-right parties have shifted from the political fringe into the mainstream, emerging as a significant force across Western Europe. He attributes this rise to a mix of factors: concerns over immigration, economic anxieties, demographic pressures, and Europe\u2019s broader geopolitical vulnerabilities.&nbsp;</p><p>He also argues that mainstream conservative parties have contributed to this normalisation by echoing far-right rhetoric, particularly on immigration.</p><p>All this and more.</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 \u2013 Introduction</p><p>00:01:12&nbsp; \u2013 Headlines</p><p>00:10:56&nbsp; \u2013 Delhi\u2019s Infrastructure crisis</p><p>00:55:46 \u2013 Rashee\u2019s Recommendations</p><p>\u200b\u200b00:57:23 \u2013 Appeal&nbsp;</p><p>00:59:23 \u2013 BRICS &amp; Europe\u2019s Right-Wing Surge</p><p>01:39:46 \u2013 Gulshan\u2019s Recommendations</p><p>01:42:06 \u2013 Generalisation of Thar car owner&nbsp;</p><p>01:50:07 \u2013 Letters</p><p>02:02:18 \u2013 Recommendations </p><p><br></p><p><em>Produced by Amit Pandey with production assistance from Saurav Kr. Ranjan &amp; Sound by Anil Kumar</em></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6aa4e9dcc939da2795e2bdd3.mp3",
+          "duration": 7911.98,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1789192570173-b7615974-e91a-4bb5-93e7-6429ff6c878a.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "6aa4e9dcc939da2795e2bdd4"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "6aa4e9dcc939da2795e2bdd5"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6aa4e9dcc939da2795e2bdd3.mp3"
+        }
+      },
+      "title": "Hafta 606: Delhi\u2019s Housing Crisis, BRICS and Europe\u2019s Right-Wing Surge",
+      "publish_date": "2026-09-12T05:57:48.627Z",
+      "summary": "<p>This week on Hafta, Abhinandan Sekhri, Raman Kirpal and Anand Vardhan are joined by Urban geographer and researcher Rashee Mehra and Gulshan Sachdeva, Professor and Jean Monnet Chair at JNU\u2019s Centre for European Studies.</p><p>The discussion opens with Delhi\u2019s continuing housing crisis and the problem of unauthorised construction.</p><p>Talking about areas such as Satya Niketan, Rashee Mehra explains how a neighbourhood can be legally regularised while the construction within it remains in violation of planning and building norms.&nbsp;</p><p>She remarks, \u201cIt is actually a very confusing governance structure that we have created in the city. And that leads to questions of whose responsibility it is\u2026 Is it the MCD which did not do these regular checks and shut down these buildings if they were unsafe?\u201d</p><p>Rashee argues that Delhi\u2019s housing problem cannot be understood simply as a question of illegal construction. \u201cWhen we talk about housing, housing has to be adequate, affordable, viable, sustainable. Over here, where housing is affordable, it\u2019s not adequate, and where housing is adequate, it\u2019s not affordable. And that\u2019s your catch-22 situation.\u201d</p><p>Anand adds another dimension to the discussion, pointing out that Delhi\u2019s housing problem is much larger than the university students who have recently come into focus.&nbsp;</p><p>\u201cThere are two kinds of landlords. One has invested in these houses, and the other lives on rent only. So in these Lal Dora areas, the urban villages, the only thing from which they earn is that house. So they have less incentive to invest because all the rent that they get, they spend somewhere.\u201d</p><p>In her concluding remarks, Rashee brings the discussion back to the larger question: \u201cAre cities for people or are cities for profit?\u201d</p><p>The panel then proceeds to the growing importance of the BRICS grouping and the changing balance of the global economy.&nbsp;</p><p>Gulshan points out that while global growth over the past two decades has averaged around 3%, BRICS economies have grown at more than 6% on average, making the Global South an increasingly important force in the world economy.</p><p>From BRICS, the discussion moves to the rise of right-wing politics in Europe. Gulshan notes that far-right parties have shifted from the political fringe into the mainstream, emerging as a significant force across Western Europe. He attributes this rise to a mix of factors: concerns over immigration, economic anxieties, demographic pressures, and Europe\u2019s broader geopolitical vulnerabilities.&nbsp;</p><p>He also argues that mainstream conservative parties have contributed to this normalisation by echoing far-right rhetoric, particularly on immigration.</p><p>All this and more.</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 \u2013 Introduction</p><p>00:01:12&nbsp; \u2013 Headlines</p><p>00:10:56&nbsp; \u2013 Delhi\u2019s Infrastructure crisis</p><p>00:55:46 \u2013 Rashee\u2019s Recommendations</p><p>\u200b\u200b00:57:23 \u2013 Appeal&nbsp;</p><p>00:59:23 \u2013 BRICS &amp; Europe\u2019s Right-Wing Surge</p><p>01:39:46 \u2013 Gulshan\u2019s Recommendations</p><p>01:42:06 \u2013 Generalisation of Thar car owner&nbsp;</p><p>01:50:07 \u2013 Letters</p><p>02:02:18 \u2013 Recommendations </p><p><br></p><p><em>Produced by Amit Pandey with production assistance from Saurav Kr. Ranjan &amp; Sound by Anil Kumar</em></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6aa4e9dcc939da2795e2bdd3.mp3",
+      "duration": 7911.98,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1789192570173-b7615974-e91a-4bb5-93e7-6429ff6c878a.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2026/09/12/hafta-606-delhis-housing-crisis-brics-and-europes-far-right-surge",
     "https://www.newslaundry.com/2026/09/05/hafta-605-indias-gdp-debate-and-nepals-fight-for-climate-justice",
     "https://www.newslaundry.com/2026/08/29/hafta-604-reservation-merit-and-the-unbearable-pressure-on-indias-students",
     "https://www.newslaundry.com/2026/08/22/hafta-603-bjps-instagram-problem-dimaagi-naxal-and-maoism-in-india",
@@ -2727,5 +2771,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2026-09-05T13:58:53.879701"
+  "last_updated": "2026-09-12T14:19:40.702890"
 }

@@ -2704,9 +2704,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6aa4e9dcc939da2795e2bdd3.mp3",
       "duration": 7911.98,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1789192570173-b7615974-e91a-4bb5-93e7-6429ff6c878a.jpeg"
+    },
+    "607": {
+      "episode_id": "6aae375a7aa361c612daec04",
+      "raw_data": {
+        "shows": {
+          "_id": "6aae375a7aa361c612daec04",
+          "title": "Hafta 607: Who Pays For UPI? Is The UCC Even \u2018Uniform\u2019?",
+          "alias": "hafta-607-who-pays-for-upi-is-the-ucc-even-uniform",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2026-09-19T07:18:50.289Z",
+          "lastEditedDate": "2026-09-19T07:24:32.892Z",
+          "publishDate": "2026-09-19T07:18:50.074Z",
+          "subtitle": "The podcast where we discuss the week\u2019s news. ",
+          "summary": "<p><br></p><p>This week on Hafta, Abhinandan Sekhri, Manisha Pande and Rinchen Norbu are joined by Anupam Manur, Professor of Economics at the Takshashila Institution, and Mihira Sood, Supreme Court lawyer specialising in women\u2019s rights.</p><p>The panel opens the discussion by examining the government\u2019s decision to introduce a 0.4% fee on UPI merchant transactions above Rs 2,000, asking what the move means for a payment system that has become central to everyday transactions in India.</p><p>Anupam Manur acknowledges that UPI generates wider economic benefits, but argues that the current model also creates a problem: who ultimately bears the cost of running the system? He explains that the cost of operating UPI is substantial, while the government subsidises only a portion of it.</p><p>Manur says, \u201cWhen UPI came about, India was miles ahead of the world in some sense. It was truly revolutionary.\u201d But he argues that the costs leave new entrants with insufficient incentive, which has affected private-sector innovation. \u201cPrivate players are just not incentivized to innovate.\u201d</p><p>The discussion then moves from the economics of UPI to the politics of its messaging. Abhinandan argues that the government has often reduced complicated policy questions to easily marketable slogans: \u201cI think the problem is, like many things that Mr. Modi does ever since he\u2019s come, let\u2019s count his slogans. He\u2019s a fantastic ad man.\u201d</p><p>The panel then turns to the BJP\u2019s push for a Uniform Civil Code (UCC).</p><p>Mihira offers a qualified position. She makes clear that she supports the idea of a UCC in principle, particularly as a route towards greater equality.</p><p>But she distinguishes that principle from the particular version being discussed. She says, \u201cWhat I have a problem with is this particular type of Uniform Civil Code because it is not based in secularism and it is not based in feminism.\u201d</p><p>Rinchen questions whether we should even call this a \u2018uniform civil code\u2019, given the carve-outs that exist for Scheduled Tribes in states like Uttarakhand, where the BJP has implemented its version of it.</p><p>He also argues that the focus on polygamy in the UCC debate distracts from the larger issue of inheritance rights for women. \u201cThis whole bigamy, this whole polygamy thing is a red herring, it\u2019s overstated,\u201d he adds, while Mihira breaks down the real legal questions surrounding inheritance if the BJP actually cared about women\u2019s rights.</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 \u2013 Introduction</p><p>00:07:03&nbsp;\u2013 Headlines</p><p>00:12:01 \u2013 MDR on UPI&nbsp;</p><p>00:44:03&nbsp;\u2013 Anupam\u2019s Recommendations</p><p>00:48:32 \u2013 Manisha on Brazil politics&nbsp;</p><p>00:55:32&nbsp;\u2013 UCC&nbsp;</p><p>01:25:52&nbsp;\u2013 Mihira\u2019s Recommendations</p><p>01:28:32 \u2013 Letters</p><p>01:46:08 \u2013 Recommendations&nbsp;</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><em>Produced by Amit Pandey with production assistance from Saurav Kr. Ranjan &amp; Sound by Anil Kumar.</em></p><p><br></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6aae375a7aa361c612daec04.mp3",
+          "duration": 6813.84,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1789802254736-de734f57-6cce-4dfc-b11a-b2216e1a0dda.jpeg",
+          "status": "published",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "6aae375a7aa361c612daec05"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "6aae375a7aa361c612daec06"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6aae375a7aa361c612daec04.mp3"
+        }
+      },
+      "title": "Hafta 607: Who Pays For UPI? Is The UCC Even \u2018Uniform\u2019?",
+      "publish_date": "2026-09-19T07:18:50.074Z",
+      "summary": "<p><br></p><p>This week on Hafta, Abhinandan Sekhri, Manisha Pande and Rinchen Norbu are joined by Anupam Manur, Professor of Economics at the Takshashila Institution, and Mihira Sood, Supreme Court lawyer specialising in women\u2019s rights.</p><p>The panel opens the discussion by examining the government\u2019s decision to introduce a 0.4% fee on UPI merchant transactions above Rs 2,000, asking what the move means for a payment system that has become central to everyday transactions in India.</p><p>Anupam Manur acknowledges that UPI generates wider economic benefits, but argues that the current model also creates a problem: who ultimately bears the cost of running the system? He explains that the cost of operating UPI is substantial, while the government subsidises only a portion of it.</p><p>Manur says, \u201cWhen UPI came about, India was miles ahead of the world in some sense. It was truly revolutionary.\u201d But he argues that the costs leave new entrants with insufficient incentive, which has affected private-sector innovation. \u201cPrivate players are just not incentivized to innovate.\u201d</p><p>The discussion then moves from the economics of UPI to the politics of its messaging. Abhinandan argues that the government has often reduced complicated policy questions to easily marketable slogans: \u201cI think the problem is, like many things that Mr. Modi does ever since he\u2019s come, let\u2019s count his slogans. He\u2019s a fantastic ad man.\u201d</p><p>The panel then turns to the BJP\u2019s push for a Uniform Civil Code (UCC).</p><p>Mihira offers a qualified position. She makes clear that she supports the idea of a UCC in principle, particularly as a route towards greater equality.</p><p>But she distinguishes that principle from the particular version being discussed. She says, \u201cWhat I have a problem with is this particular type of Uniform Civil Code because it is not based in secularism and it is not based in feminism.\u201d</p><p>Rinchen questions whether we should even call this a \u2018uniform civil code\u2019, given the carve-outs that exist for Scheduled Tribes in states like Uttarakhand, where the BJP has implemented its version of it.</p><p>He also argues that the focus on polygamy in the UCC debate distracts from the larger issue of inheritance rights for women. \u201cThis whole bigamy, this whole polygamy thing is a red herring, it\u2019s overstated,\u201d he adds, while Mihira breaks down the real legal questions surrounding inheritance if the BJP actually cared about women\u2019s rights.</p><p><br></p><p><strong>Timecodes</strong></p><p><br></p><p>00:00:00 \u2013 Introduction</p><p>00:07:03&nbsp;\u2013 Headlines</p><p>00:12:01 \u2013 MDR on UPI&nbsp;</p><p>00:44:03&nbsp;\u2013 Anupam\u2019s Recommendations</p><p>00:48:32 \u2013 Manisha on Brazil politics&nbsp;</p><p>00:55:32&nbsp;\u2013 UCC&nbsp;</p><p>01:25:52&nbsp;\u2013 Mihira\u2019s Recommendations</p><p>01:28:32 \u2013 Letters</p><p>01:46:08 \u2013 Recommendations&nbsp;</p><p><br></p><p><em>Check out </em><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\"><em>previous Hafta recommendations, references, songs and letters</em></a><em>.</em></p><p><br></p><p><em>Produced by Amit Pandey with production assistance from Saurav Kr. Ranjan &amp; Sound by Anil Kumar.</em></p><p><br></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6aae375a7aa361c612daec04.mp3",
+      "duration": 6813.84,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1789802254736-de734f57-6cce-4dfc-b11a-b2216e1a0dda.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2026/09/19/hafta-607-who-pays-for-upi-is-the-ucc-even-uniform",
     "https://www.newslaundry.com/2026/09/12/hafta-606-delhis-housing-crisis-brics-and-europes-far-right-surge",
     "https://www.newslaundry.com/2026/09/05/hafta-605-indias-gdp-debate-and-nepals-fight-for-climate-justice",
     "https://www.newslaundry.com/2026/08/29/hafta-604-reservation-merit-and-the-unbearable-pressure-on-indias-students",
@@ -2771,5 +2815,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2026-09-12T14:19:40.702890"
+  "last_updated": "2026-09-19T14:42:30.675998"
 }

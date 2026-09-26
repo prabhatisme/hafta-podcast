@@ -2747,9 +2747,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6aae375a7aa361c612daec04.mp3",
       "duration": 6813.84,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1789802254736-de734f57-6cce-4dfc-b11a-b2216e1a0dda.jpeg"
+    },
+    "608": {
+      "episode_id": "6ab75e0dcf7654f56aeab681",
+      "raw_data": {
+        "shows": {
+          "_id": "6ab75e0dcf7654f56aeab681",
+          "title": "Hafta 608: Ashok Lavasa on the SIR Row & Adani\u2019s Insolvency Playbook",
+          "alias": "hafta-609-ashok-lavasa-on-the-sir-row-adanis-insolvency-play",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2026-09-26T05:54:21.076Z",
+          "lastEditedDate": "2026-09-26T10:56:38.391Z",
+          "publishDate": "2026-09-26T05:54:20.765Z",
+          "subtitle": "The podcast where we discuss the week\u2019s news. ",
+          "summary": "<p>This week on Hafta, Abhinandan Sekhri, Manisha Pande and Anand Vardhan are joined by former Election Commissioner of India Ashok Lavasa. Later, Newslaundry\u2019s Astha Savyasachi joins the panel to discuss her big story this week on the Adani Group. </p><p>The discussion begins with the <em>Indian Express</em> investigation into reported differences among the Election Commission\u2019s top leadership, and the debate over whether this amounts to \u201cdissent\u201d. Lavasa cautions against getting consumed by the characterisation, arguing that the focus should instead remain on the substantive issues raised by the Special Intensive Revision (SIR) and their implications for voters.</p><p>\u201cPlease don\u2019t get waylaid by this debate on dissent. We must focus on the real issues affecting the SIR which have impacted the right to vote. And so even if the dissent was there or not there, the point is that all the issues raised are in connection with the Special Intensive Revision, which has been objected to by the people verbally, in writing, in courts, on the streets.\u201d</p><p>The conversation then moves to the Election Commission\u2019s centralised electoral-roll system and the concerns around how technological systems interact with the legal responsibilities of election officials. Lavasa draws a distinction between centralising data for efficiency and centralising operational control in a way that could interfere with legally empowered officers:</p><p>&quot;Any centralised system devised by the Election Commission which comes in the way of discharge of legal duties is a problem. And just one more point about the centralisation \u2014 I don\u2019t think anybody can object to data centralisation as such, because we all know that data management can be efficiently managed if it is centralised. So what I was saying is that to have a centralised data system for data management is one thing; to have operational control of that system to the disadvantage of the legally empowered [officer]\u2026\u201d</p><p>Manisha brings the discussion back to the experience of ordinary voters. Beyond the institutional disagreements within the Commission, she questions what the process means for citizens trying to exercise their right to vote. \u201cWhy are you putting the people of this country through this exercise, which is cruel? And why are you making voting such a contested, secret privilege?\u201d</p><p>Abhinandan similarly argues that the larger issue goes beyond the internal workings of the Commission and concerns the fundamental principles at stake. \u201cI think the fundamental principle of democracy is being challenged here, and that is what needs to be discussed rather than all this.\u201d</p><p>The panel also discusses Astha\u2019s <u><a href=\"https://www.newslaundry.com/2026/09/25/adanis-insolvency-edge-3-in-every-5-bids-won-rs-97700-cr-in-haircuts-and-some-unexpected-turns\" rel=\"noopener noreferrer\" target=\"_blank\">investigation</a></u> into the Adani Group\u2019s acquisitions of companies through the insolvency process, examining the patterns and anomalies that emerged from the cases studied.</p><p><br></p><p><strong><u>Timecodes</u></strong></p><p>00:00:00 \u2013 Introduction</p><p>00:05:56 \u2013 Headlines</p><p>00:11:51\u2013 Election Commission Row </p><p>00:48:43 \u2013 Ashok\u2019s Recommendations</p><p>01:02:29 \u2013 Astha\u2019s Investigation </p><p>01:09:54 \u2013 Jamui case </p><p>01:18:58 \u2013 Letters</p><p>01:39:27 \u2013 Recommendations </p><p><br></p><p><em>Check out <u><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\">previous Hafta recommendations, references, songs and letters</a>.</u></em></p><p><em>Produced by Amit Pandey with production assistance from Hassan Bilal &amp; Sound by Anil Kumar.</em></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6ab75e0dcf7654f56aeab681.mp3",
+          "duration": 6602.23,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1790401991093-cf2f873a-ec94-4e89-937f-18ae34dc39d5.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "6ab75e0dcf7654f56aeab682"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "6ab75e0dcf7654f56aeab683"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6ab75e0dcf7654f56aeab681.mp3"
+        }
+      },
+      "title": "Hafta 608: Ashok Lavasa on the SIR Row & Adani\u2019s Insolvency Playbook",
+      "publish_date": "2026-09-26T05:54:20.765Z",
+      "summary": "<p>This week on Hafta, Abhinandan Sekhri, Manisha Pande and Anand Vardhan are joined by former Election Commissioner of India Ashok Lavasa. Later, Newslaundry\u2019s Astha Savyasachi joins the panel to discuss her big story this week on the Adani Group. </p><p>The discussion begins with the <em>Indian Express</em> investigation into reported differences among the Election Commission\u2019s top leadership, and the debate over whether this amounts to \u201cdissent\u201d. Lavasa cautions against getting consumed by the characterisation, arguing that the focus should instead remain on the substantive issues raised by the Special Intensive Revision (SIR) and their implications for voters.</p><p>\u201cPlease don\u2019t get waylaid by this debate on dissent. We must focus on the real issues affecting the SIR which have impacted the right to vote. And so even if the dissent was there or not there, the point is that all the issues raised are in connection with the Special Intensive Revision, which has been objected to by the people verbally, in writing, in courts, on the streets.\u201d</p><p>The conversation then moves to the Election Commission\u2019s centralised electoral-roll system and the concerns around how technological systems interact with the legal responsibilities of election officials. Lavasa draws a distinction between centralising data for efficiency and centralising operational control in a way that could interfere with legally empowered officers:</p><p>&quot;Any centralised system devised by the Election Commission which comes in the way of discharge of legal duties is a problem. And just one more point about the centralisation \u2014 I don\u2019t think anybody can object to data centralisation as such, because we all know that data management can be efficiently managed if it is centralised. So what I was saying is that to have a centralised data system for data management is one thing; to have operational control of that system to the disadvantage of the legally empowered [officer]\u2026\u201d</p><p>Manisha brings the discussion back to the experience of ordinary voters. Beyond the institutional disagreements within the Commission, she questions what the process means for citizens trying to exercise their right to vote. \u201cWhy are you putting the people of this country through this exercise, which is cruel? And why are you making voting such a contested, secret privilege?\u201d</p><p>Abhinandan similarly argues that the larger issue goes beyond the internal workings of the Commission and concerns the fundamental principles at stake. \u201cI think the fundamental principle of democracy is being challenged here, and that is what needs to be discussed rather than all this.\u201d</p><p>The panel also discusses Astha\u2019s <u><a href=\"https://www.newslaundry.com/2026/09/25/adanis-insolvency-edge-3-in-every-5-bids-won-rs-97700-cr-in-haircuts-and-some-unexpected-turns\" rel=\"noopener noreferrer\" target=\"_blank\">investigation</a></u> into the Adani Group\u2019s acquisitions of companies through the insolvency process, examining the patterns and anomalies that emerged from the cases studied.</p><p><br></p><p><strong><u>Timecodes</u></strong></p><p>00:00:00 \u2013 Introduction</p><p>00:05:56 \u2013 Headlines</p><p>00:11:51\u2013 Election Commission Row </p><p>00:48:43 \u2013 Ashok\u2019s Recommendations</p><p>01:02:29 \u2013 Astha\u2019s Investigation </p><p>01:09:54 \u2013 Jamui case </p><p>01:18:58 \u2013 Letters</p><p>01:39:27 \u2013 Recommendations </p><p><br></p><p><em>Check out <u><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\">previous Hafta recommendations, references, songs and letters</a>.</u></em></p><p><em>Produced by Amit Pandey with production assistance from Hassan Bilal &amp; Sound by Anil Kumar.</em></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6ab75e0dcf7654f56aeab681.mp3",
+      "duration": 6602.23,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1790401991093-cf2f873a-ec94-4e89-937f-18ae34dc39d5.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2026/09/26/hafta-608-ashok-lavasa-on-the-sir-row-and-adanis-insolvency-playbook",
     "https://www.newslaundry.com/2026/09/19/hafta-607-who-pays-for-upi-is-the-ucc-even-uniform",
     "https://www.newslaundry.com/2026/09/12/hafta-606-delhis-housing-crisis-brics-and-europes-far-right-surge",
     "https://www.newslaundry.com/2026/09/05/hafta-605-indias-gdp-debate-and-nepals-fight-for-climate-justice",
@@ -2815,5 +2859,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2026-09-19T14:42:30.675998"
+  "last_updated": "2026-09-26T15:04:58.352628"
 }

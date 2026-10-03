@@ -2790,9 +2790,52 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6ab75e0dcf7654f56aeab681.mp3",
       "duration": 6602.23,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1790401991093-cf2f873a-ec94-4e89-937f-18ae34dc39d5.jpeg"
+    },
+    "609": {
+      "episode_id": "6abfe21b0d8a484144d611f4",
+      "raw_data": {
+        "shows": {
+          "_id": "6abfe21b0d8a484144d611f4",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2026-10-02T16:55:55.924Z",
+          "lastEditedDate": "2026-10-03T05:39:10.497Z",
+          "publishDate": null,
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6abfe21b0d8a484144d611f4.mp3",
+          "duration": 7188.02,
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "6abfe21b0d8a484144d611f5"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "6abfe21b0d8a484144d611f6"
+            }
+          ],
+          "publishSequence": [],
+          "alias": "hafta-609-is-indias-judiciary-failing-democracy-could-gen-z",
+          "subtitle": "The podcast where we discuss the week\u2019s news. ",
+          "summary": "<p>This week on Hafta, Abhinandan Sekhri and Rinchen Norbu are joined by Supreme Court lawyers Neha Rathi and Shahrukh Alam, along with <em>The News Minute</em>\u2019s executive editor Sudipto Mondal, to discuss the Supreme Court\u2019s handling of the special intensive revision (SIR) of the voter roll and what it says about the state of India\u2019s judiciary.</p><p><br></p><p>The discussion begins with the Supreme Court declining to advance the hearing of a plea involving more than 18,000 appeals against the deletion of names from West Bengal\u2019s voter rolls ahead of by-elections in Nandigram and Rejinagar. According to <em><u><a href=\"https://www.barandbench.com/news/these-are-only-by-elections-supreme-court-refuses-to-advance-hearing-of-sir-case-ahead-of-nandigram-rejinagar-by-polls\" rel=\"noopener noreferrer\" target=\"_blank\">Bar and Bench</a></u></em>, the Chief Justice of India said, \u201cThese are only by-elections, that\u2019s all.\u201d </p><p><br></p><p>The panel discusses whether the apex court has become the destination for matters that should ordinarily be handled by lower courts, and whether the judiciary is taking the right to vote seriously enough.</p><p>Neha, who was one of the petitioners challenging discrepancies in the SIR, explains why the matter reached the Supreme Court and argues that the scale of pending cases has made the situation particularly difficult. Shahrukh questions the latitude courts continue to extend to the state, arguing that \u201cthe state is given far more leeway\u201d than citizens. The conversation also turns to the larger question of institutional faith, with Rinchen citing recent CSDS-Lokniti survey data showing a decline in public trust in the Election Commission.</p><p><br></p><p>The panel then debates whether the judiciary\u2019s problems are merely about individual benches or reflect deeper structural issues. Sudipto argues that the composition and social background of the judiciary need greater scrutiny.</p><p><br></p><p>The discussion then shifts to student politics and whether Indian universities are becoming increasingly insulated from political activity. For this segment, Abha Dev Habib, professor at Delhi University\u2019s Miranda House and Joint Secretary of the Democratic Teachers\u2019 Front, joins the conversation.</p><p><br></p><p>Abha argues that politics is an integral part of education, while distinguishing it from violence on campuses. She also points to recent student protests as evidence that younger generations are not as politically indifferent as they were assumed to be.</p><p><br></p><p>The conversation also includes Delhi University Students\u2019 Union (DUSU) politics, the role of student unions and the ways governments and university administrations have attempted to discourage student mobilisation. </p><p><br></p><p>As the discussion continues, the panel examines whether recent Gen-Z protests could revive student politics and raise broader questions about the state of public education. </p><p><br></p><p><strong><u>Timecodes</u></strong></p><p>00:00:00 \u2013 Introduction</p><p>00:02:33 \u2013 Headlines</p><p>00:14:11 \u2013 Judiciary&#39;s overburdened nature or disappointing nature.</p><p>01:01:00 \u2013 Neha and Shahrukh\u2019s Recommendations</p><p>01:06:44 \u2013 Are Indian universities becoming politically insulated?</p><p>01:43:58 \u2013 Sudipto and Abha\u2019s Recommendations</p><p>01:48:14 \u2013 Letters</p><p>01:51:35 \u2013 Recommendations </p><p><br></p><p><em>Check out <u><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\">previous Hafta recommendations, references, songs and letters</a>.</u></em></p><p><br></p><p><em>Produced by Ashish Anand with production assistance from Saurav Kumar &amp; Sound by Anil Kumar.</em></p>",
+          "title": "Hafta 609: Is India\u2019s Judiciary Failing Democracy? Could Gen Z Revive Student Politics?",
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6abfe21b0d8a484144d611f4.mp3"
+        }
+      },
+      "title": "Hafta 609: Is India\u2019s Judiciary Failing Democracy? Could Gen Z Revive Student Politics?",
+      "publish_date": null,
+      "summary": "<p>This week on Hafta, Abhinandan Sekhri and Rinchen Norbu are joined by Supreme Court lawyers Neha Rathi and Shahrukh Alam, along with <em>The News Minute</em>\u2019s executive editor Sudipto Mondal, to discuss the Supreme Court\u2019s handling of the special intensive revision (SIR) of the voter roll and what it says about the state of India\u2019s judiciary.</p><p><br></p><p>The discussion begins with the Supreme Court declining to advance the hearing of a plea involving more than 18,000 appeals against the deletion of names from West Bengal\u2019s voter rolls ahead of by-elections in Nandigram and Rejinagar. According to <em><u><a href=\"https://www.barandbench.com/news/these-are-only-by-elections-supreme-court-refuses-to-advance-hearing-of-sir-case-ahead-of-nandigram-rejinagar-by-polls\" rel=\"noopener noreferrer\" target=\"_blank\">Bar and Bench</a></u></em>, the Chief Justice of India said, \u201cThese are only by-elections, that\u2019s all.\u201d </p><p><br></p><p>The panel discusses whether the apex court has become the destination for matters that should ordinarily be handled by lower courts, and whether the judiciary is taking the right to vote seriously enough.</p><p>Neha, who was one of the petitioners challenging discrepancies in the SIR, explains why the matter reached the Supreme Court and argues that the scale of pending cases has made the situation particularly difficult. Shahrukh questions the latitude courts continue to extend to the state, arguing that \u201cthe state is given far more leeway\u201d than citizens. The conversation also turns to the larger question of institutional faith, with Rinchen citing recent CSDS-Lokniti survey data showing a decline in public trust in the Election Commission.</p><p><br></p><p>The panel then debates whether the judiciary\u2019s problems are merely about individual benches or reflect deeper structural issues. Sudipto argues that the composition and social background of the judiciary need greater scrutiny.</p><p><br></p><p>The discussion then shifts to student politics and whether Indian universities are becoming increasingly insulated from political activity. For this segment, Abha Dev Habib, professor at Delhi University\u2019s Miranda House and Joint Secretary of the Democratic Teachers\u2019 Front, joins the conversation.</p><p><br></p><p>Abha argues that politics is an integral part of education, while distinguishing it from violence on campuses. She also points to recent student protests as evidence that younger generations are not as politically indifferent as they were assumed to be.</p><p><br></p><p>The conversation also includes Delhi University Students\u2019 Union (DUSU) politics, the role of student unions and the ways governments and university administrations have attempted to discourage student mobilisation. </p><p><br></p><p>As the discussion continues, the panel examines whether recent Gen-Z protests could revive student politics and raise broader questions about the state of public education. </p><p><br></p><p><strong><u>Timecodes</u></strong></p><p>00:00:00 \u2013 Introduction</p><p>00:02:33 \u2013 Headlines</p><p>00:14:11 \u2013 Judiciary&#39;s overburdened nature or disappointing nature.</p><p>01:01:00 \u2013 Neha and Shahrukh\u2019s Recommendations</p><p>01:06:44 \u2013 Are Indian universities becoming politically insulated?</p><p>01:43:58 \u2013 Sudipto and Abha\u2019s Recommendations</p><p>01:48:14 \u2013 Letters</p><p>01:51:35 \u2013 Recommendations </p><p><br></p><p><em>Check out <u><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\">previous Hafta recommendations, references, songs and letters</a>.</u></em></p><p><br></p><p><em>Produced by Ashish Anand with production assistance from Saurav Kumar &amp; Sound by Anil Kumar.</em></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6abfe21b0d8a484144d611f4.mp3",
+      "duration": 7188.02,
+      "cover": ""
     }
   },
   "links": [
+    "https://www.newslaundry.com/2026/10/03/hafta-609-is-indias-judiciary-failing-democracy-could-gen-z-revive-student-politics",
     "https://www.newslaundry.com/2026/09/26/hafta-608-ashok-lavasa-on-the-sir-row-and-adanis-insolvency-playbook",
     "https://www.newslaundry.com/2026/09/19/hafta-607-who-pays-for-upi-is-the-ucc-even-uniform",
     "https://www.newslaundry.com/2026/09/12/hafta-606-delhis-housing-crisis-brics-and-europes-far-right-surge",
@@ -2859,5 +2902,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2026-09-26T15:04:58.352628"
+  "last_updated": "2026-10-03T15:12:48.565258"
 }

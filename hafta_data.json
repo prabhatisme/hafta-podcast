@@ -2832,9 +2832,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6abfe21b0d8a484144d611f4.mp3",
       "duration": 7188.02,
       "cover": ""
+    },
+    "610": {
+      "episode_id": "6ac9d619d3bfab176e3a6298",
+      "raw_data": {
+        "shows": {
+          "_id": "6ac9d619d3bfab176e3a6298",
+          "title": "Hafta 610: Has Indian Politics Lost its Sense of Humour?",
+          "alias": "hafta-610-has-indian-politics-lost-its-sense-of-humour",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2026-10-10T06:07:21.746Z",
+          "lastEditedDate": "2026-10-10T06:07:33.050Z",
+          "publishDate": "2026-10-10T06:07:21.471Z",
+          "subtitle": "Hafta 610: Has Indian Politics Lost its Sense of Humour?",
+          "summary": "<p>This week on NL Hafta, Abhinandan Sekhri, Manisha Pandey and Anand Vardhan are joined by political cartoonist Manjul, creator of <em>Sanitary Panels</em> Rachita Taneja, and satirist and comedian Sanjay Rajoura to discuss the place of satire in a democracy, the growing pressure on artists and comedians, and why those in power are increasingly uncomfortable with being mocked.</p><p>The discussion begins with the takedown of political cartoons and the restrictions imposed on content critical of the government. Abhinandan argues that satire has always played an important role in democracies, allowing people to draw attention to things that conventional political commentary often cannot. \u201cEvery autocrat, every dictator fears being mocked more than anything else,\u201d he says.</p><p>Manjul, who has spent decades as a political cartoonist, discusses the changing environment for political satire. He recalls how a cartoon he made about the Election Commission was restricted on Instagram in India after the government sought its removal. He also points to the growing pressure on cartoonists, from online trolling to government-mandated takedowns. Manjul argues that the current climate reflects not simply sensitivity to criticism but an unwillingness to confront it.</p><p><br></p><p>\u201cThey know that they are misgoverning. They are not doing a good job. And if somebody is pointing it out, then they feel hurt,\u201d he says.</p><p>Rachita explains that content removal on social media has become a worrying precedent, particularly when platforms face tight deadlines to comply with government requests. She argues that satire threatens the carefully constructed image of political leaders as figures above ordinary people. \u201cWhen you laugh at them, it diminishes them; it brings them down to Earth with the rest of us mortals,\u201d she says.</p><p>The conversation also turns to the role of social media in building communities around humour and political dissent. Rachita points to the recent student protests in Bengaluru, where laughter and irreverence became part of the collective experience. She argues that young people are increasingly willing to challenge authority through memes, jokes and satire, even as the government attempts to exercise greater control over online spaces.</p><p>Sanjay Rajoura, drawing on his experience as a comedian and satirist, argues that difficult political circumstances can also push the art form to become sharper. Recalling a journalist\u2019s cheeky headline during General Zia-ul-Haq\u2019s rule in Pakistan, he shows how humour can convey criticism while avoiding the directness that might invite censorship. </p><p>For Sanjay, satire is not merely about making people laugh. \u201cGood satire makes me angry, actually,\u201d he says, explaining that its real power lies in making people confront the absurdities and injustices around them.</p><p>Anand offers a more nuanced view of the relationship between satire, activism and political power. He argues that satire relies on caricature and exaggeration, bringing complex situations into sharper focus. This proximity to activism, he suggests, can make it particularly uncomfortable for governments.</p><p>The panel also examines how the political and media environment has changed over the years. Manjul recalls an earlier period when editors were more willing to defend cartoonists against political pressure. Rachita argues that such institutional support has weakened, leaving artists increasingly vulnerable to harassment and censorship.</p><p>The conversation extends beyond politics to everyday social behaviour, with Sanjay arguing that the satirist\u2019s craft also lies in observing ordinary life and finding the absurdity in familiar habits.</p><p>All this and more.</p><p><br></p><p><strong><u>Timecodes</u></strong></p><p>00:00:00 \u2013 Introduction</p><p>00:05:30 \u2013 Headlines</p><p>00:13:32 \u2013 Political Satire, Censorship and the Fear of Being Mocked</p><p>01:21:40 \u2013 Manjul, Rachita, Anand and Sanjay\u2019s Recommendations</p><p>01:29:40 \u2013 CJP Protest </p><p>01:37:31 \u2013 Letters</p><p>01:43:30 \u2013 Manisha and Abhinandan\u2019s Recommendations</p><p><br></p><p><em>Produced by Amit Pandey &amp; Sound by Anil Kumar.</em></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6ac9d619d3bfab176e3a6298.mp3",
+          "duration": 6446.136,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1791612350695-efaead2b-d196-4dbd-9c32-e9946788c78a.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "6ac9d619d3bfab176e3a6299"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "6ac9d619d3bfab176e3a629a"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6ac9d619d3bfab176e3a6298.mp3"
+        }
+      },
+      "title": "Hafta 610: Has Indian Politics Lost its Sense of Humour?",
+      "publish_date": "2026-10-10T06:07:21.471Z",
+      "summary": "<p>This week on NL Hafta, Abhinandan Sekhri, Manisha Pandey and Anand Vardhan are joined by political cartoonist Manjul, creator of <em>Sanitary Panels</em> Rachita Taneja, and satirist and comedian Sanjay Rajoura to discuss the place of satire in a democracy, the growing pressure on artists and comedians, and why those in power are increasingly uncomfortable with being mocked.</p><p>The discussion begins with the takedown of political cartoons and the restrictions imposed on content critical of the government. Abhinandan argues that satire has always played an important role in democracies, allowing people to draw attention to things that conventional political commentary often cannot. \u201cEvery autocrat, every dictator fears being mocked more than anything else,\u201d he says.</p><p>Manjul, who has spent decades as a political cartoonist, discusses the changing environment for political satire. He recalls how a cartoon he made about the Election Commission was restricted on Instagram in India after the government sought its removal. He also points to the growing pressure on cartoonists, from online trolling to government-mandated takedowns. Manjul argues that the current climate reflects not simply sensitivity to criticism but an unwillingness to confront it.</p><p><br></p><p>\u201cThey know that they are misgoverning. They are not doing a good job. And if somebody is pointing it out, then they feel hurt,\u201d he says.</p><p>Rachita explains that content removal on social media has become a worrying precedent, particularly when platforms face tight deadlines to comply with government requests. She argues that satire threatens the carefully constructed image of political leaders as figures above ordinary people. \u201cWhen you laugh at them, it diminishes them; it brings them down to Earth with the rest of us mortals,\u201d she says.</p><p>The conversation also turns to the role of social media in building communities around humour and political dissent. Rachita points to the recent student protests in Bengaluru, where laughter and irreverence became part of the collective experience. She argues that young people are increasingly willing to challenge authority through memes, jokes and satire, even as the government attempts to exercise greater control over online spaces.</p><p>Sanjay Rajoura, drawing on his experience as a comedian and satirist, argues that difficult political circumstances can also push the art form to become sharper. Recalling a journalist\u2019s cheeky headline during General Zia-ul-Haq\u2019s rule in Pakistan, he shows how humour can convey criticism while avoiding the directness that might invite censorship. </p><p>For Sanjay, satire is not merely about making people laugh. \u201cGood satire makes me angry, actually,\u201d he says, explaining that its real power lies in making people confront the absurdities and injustices around them.</p><p>Anand offers a more nuanced view of the relationship between satire, activism and political power. He argues that satire relies on caricature and exaggeration, bringing complex situations into sharper focus. This proximity to activism, he suggests, can make it particularly uncomfortable for governments.</p><p>The panel also examines how the political and media environment has changed over the years. Manjul recalls an earlier period when editors were more willing to defend cartoonists against political pressure. Rachita argues that such institutional support has weakened, leaving artists increasingly vulnerable to harassment and censorship.</p><p>The conversation extends beyond politics to everyday social behaviour, with Sanjay arguing that the satirist\u2019s craft also lies in observing ordinary life and finding the absurdity in familiar habits.</p><p>All this and more.</p><p><br></p><p><strong><u>Timecodes</u></strong></p><p>00:00:00 \u2013 Introduction</p><p>00:05:30 \u2013 Headlines</p><p>00:13:32 \u2013 Political Satire, Censorship and the Fear of Being Mocked</p><p>01:21:40 \u2013 Manjul, Rachita, Anand and Sanjay\u2019s Recommendations</p><p>01:29:40 \u2013 CJP Protest </p><p>01:37:31 \u2013 Letters</p><p>01:43:30 \u2013 Manisha and Abhinandan\u2019s Recommendations</p><p><br></p><p><em>Produced by Amit Pandey &amp; Sound by Anil Kumar.</em></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6ac9d619d3bfab176e3a6298.mp3",
+      "duration": 6446.136,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1791612350695-efaead2b-d196-4dbd-9c32-e9946788c78a.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2026/10/10/hafta-610-has-indian-politics-lost-its-sense-of-humour",
     "https://www.newslaundry.com/2026/10/03/hafta-609-is-indias-judiciary-failing-democracy-could-gen-z-revive-student-politics",
     "https://www.newslaundry.com/2026/09/26/hafta-608-ashok-lavasa-on-the-sir-row-and-adanis-insolvency-playbook",
     "https://www.newslaundry.com/2026/09/19/hafta-607-who-pays-for-upi-is-the-ucc-even-uniform",
@@ -2902,5 +2946,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2026-10-03T15:12:48.565258"
+  "last_updated": "2026-10-10T16:20:34.642395"
 }

@@ -2875,9 +2875,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6ac9d619d3bfab176e3a6298.mp3",
       "duration": 6446.136,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1791612350695-efaead2b-d196-4dbd-9c32-e9946788c78a.jpeg"
+    },
+    "611": {
+      "episode_id": "6ad30e2265f99a36ebcca927",
+      "raw_data": {
+        "shows": {
+          "_id": "6ad30e2265f99a36ebcca927",
+          "title": "Hafta 611: Delhi Police Crackdown, Press Freedom and the Right to Protest",
+          "alias": "hafta-611-delhi-police-crackdown-press-freedom-and-the-right",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2026-10-17T05:56:50.066Z",
+          "lastEditedDate": "2026-10-17T05:57:34.928Z",
+          "publishDate": "2026-10-17T05:56:49.812Z",
+          "subtitle": "The podcast where we discuss the week\u2019s news. ",
+          "summary": "<p>This week on NL Hafta, Abhinandan Sekhri and Rinchen Norbu are joined by <em>Newslaundry </em>reporters Samarth Grover, Astha Savyasachi and Khushi Mehrotra to discuss the police crackdown on protests against CEC Gyanesh Kumar over alleged irregularities in electoral roll revisions.</p><p>Drawing on their experiences reporting from the ground, the panel examines the detention and alleged manhandling of journalists, restrictions on public protests, and the legal battle over the right to dissent. </p><p>The discussion begins with the events of October 10, when thousands of protesters were detained in Delhi. Journalists covering the demonstrations faced restrictions, with barricades blocking routes and police repeatedly redirecting reporters. Samarth describes the experience as an \u201cexercise in exhaustion\u201d, with journalists repeatedly questioned, their credibility challenged, and their access to the protest restricted.</p><p><br></p><p>The conversation then turns to Astha\u2019s experience of being detained. She describes being sexually harassed by a man on the bus where she was held, someone who did not look like a journalist or a protester. After she confronted him, he was nowhere to be seen. Her account raises serious questions about the risks journalists, particularly women, face while covering protests, amid allegations of police misconduct and the use of force against reporters.</p><p>The panel also discusses the growing tension between journalists, police personnel and the public. Samarth acknowledges that some independent content creators confront the police in ways designed to generate online attention, but argues that the problem extends beyond individual officers. </p><p>\u201cI wouldn\u2019t see police as, you know, good cop, bad cop,\u201d he says. \u201cI think it\u2019s a system, and it was very like, they had directions on how to deal with the media this time.\u201d</p><p>The discussion shifts to the treatment of journalists by their own profession. Khushi expresses disappointment over the lack of solidarity from sections of the mainstream media when reporters were detained or allegedly assaulted. </p><p>\u201cI felt that there was a lack of solidarity from the entire journalist community when our people were getting detained,\u201d she says. </p><p>Rinchen Norbu draws a distinction between young journalists working on the ground and senior editors or television anchors who help shape the media agenda. </p><p>\u201cAs a matter of principle, you should not heckle reporters on the ground, especially young reporters,\u201d he says. But when it comes to \u201cdecision-makers, senior editors, anchors, people who actually set the agenda,\u201d he argues, criticism is fair game.</p><p>The episode then turns to the legal challenges arising from the crackdown. Senior Supreme Court advocate Arundhati Katju and Swapnil Tripathi, who leads Charkha, the Centre for Constitutional Law at Vidhi, join the discussion on petitions concerning mass detentions, alleged custodial violence, restrictions on movement, metro station shutdowns, internet restrictions and the detention of journalists and opposition leaders.</p><p>Katju explains that the legal challenges have expanded as new incidents have unfolded. The petitions concern different questions, including alleged violations of court orders on metro shutdowns, the detention of MPs, alleged police violence and the case of a woman journalist who said a police officer groped her. The panel also examines the decision to remove Jantar Mantar from Delhi\u2019s list of designated protest sites.</p><p>All this and more.</p><p><br></p><p><strong><u>Timecodes</u></strong></p><p>00:00:00 \u2013 Introduction</p><p>00:04:38 \u2013 Headlines</p><p>00:12:52 \u2013 Police Crackdown on Journalists</p><p>01:02:48 \u2013 Astha, Samarth &amp; Khushi\u2019s recommendations</p><p>01:06:01 \u2013 Legal Limits on Protest</p><p>01:41:59 \u2013 Swapnil &amp; Arundhati\u2019s recommendation </p><p>01:47:01 \u2013 Rinchen and Abhinandan\u2019s Recommendations</p><p><br></p><p><em>Check out <u><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\">previous Hafta recommendations, references, songs and letters</a>.</u></em></p><p><em>Produced by Amit Pandey with production assistance from Anshu Anand &amp; Sound by Anil Kumar.</em></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6ad30e2265f99a36ebcca927.mp3",
+          "duration": 6758.01,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1792216235867-490b1294-ec57-47db-a13d-dfa581931544.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "6ad30e2265f99a36ebcca928"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "6ad30e2265f99a36ebcca929"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6ad30e2265f99a36ebcca927.mp3"
+        }
+      },
+      "title": "Hafta 611: Delhi Police Crackdown, Press Freedom and the Right to Protest",
+      "publish_date": "2026-10-17T05:56:49.812Z",
+      "summary": "<p>This week on NL Hafta, Abhinandan Sekhri and Rinchen Norbu are joined by <em>Newslaundry </em>reporters Samarth Grover, Astha Savyasachi and Khushi Mehrotra to discuss the police crackdown on protests against CEC Gyanesh Kumar over alleged irregularities in electoral roll revisions.</p><p>Drawing on their experiences reporting from the ground, the panel examines the detention and alleged manhandling of journalists, restrictions on public protests, and the legal battle over the right to dissent. </p><p>The discussion begins with the events of October 10, when thousands of protesters were detained in Delhi. Journalists covering the demonstrations faced restrictions, with barricades blocking routes and police repeatedly redirecting reporters. Samarth describes the experience as an \u201cexercise in exhaustion\u201d, with journalists repeatedly questioned, their credibility challenged, and their access to the protest restricted.</p><p><br></p><p>The conversation then turns to Astha\u2019s experience of being detained. She describes being sexually harassed by a man on the bus where she was held, someone who did not look like a journalist or a protester. After she confronted him, he was nowhere to be seen. Her account raises serious questions about the risks journalists, particularly women, face while covering protests, amid allegations of police misconduct and the use of force against reporters.</p><p>The panel also discusses the growing tension between journalists, police personnel and the public. Samarth acknowledges that some independent content creators confront the police in ways designed to generate online attention, but argues that the problem extends beyond individual officers. </p><p>\u201cI wouldn\u2019t see police as, you know, good cop, bad cop,\u201d he says. \u201cI think it\u2019s a system, and it was very like, they had directions on how to deal with the media this time.\u201d</p><p>The discussion shifts to the treatment of journalists by their own profession. Khushi expresses disappointment over the lack of solidarity from sections of the mainstream media when reporters were detained or allegedly assaulted. </p><p>\u201cI felt that there was a lack of solidarity from the entire journalist community when our people were getting detained,\u201d she says. </p><p>Rinchen Norbu draws a distinction between young journalists working on the ground and senior editors or television anchors who help shape the media agenda. </p><p>\u201cAs a matter of principle, you should not heckle reporters on the ground, especially young reporters,\u201d he says. But when it comes to \u201cdecision-makers, senior editors, anchors, people who actually set the agenda,\u201d he argues, criticism is fair game.</p><p>The episode then turns to the legal challenges arising from the crackdown. Senior Supreme Court advocate Arundhati Katju and Swapnil Tripathi, who leads Charkha, the Centre for Constitutional Law at Vidhi, join the discussion on petitions concerning mass detentions, alleged custodial violence, restrictions on movement, metro station shutdowns, internet restrictions and the detention of journalists and opposition leaders.</p><p>Katju explains that the legal challenges have expanded as new incidents have unfolded. The petitions concern different questions, including alleged violations of court orders on metro shutdowns, the detention of MPs, alleged police violence and the case of a woman journalist who said a police officer groped her. The panel also examines the decision to remove Jantar Mantar from Delhi\u2019s list of designated protest sites.</p><p>All this and more.</p><p><br></p><p><strong><u>Timecodes</u></strong></p><p>00:00:00 \u2013 Introduction</p><p>00:04:38 \u2013 Headlines</p><p>00:12:52 \u2013 Police Crackdown on Journalists</p><p>01:02:48 \u2013 Astha, Samarth &amp; Khushi\u2019s recommendations</p><p>01:06:01 \u2013 Legal Limits on Protest</p><p>01:41:59 \u2013 Swapnil &amp; Arundhati\u2019s recommendation </p><p>01:47:01 \u2013 Rinchen and Abhinandan\u2019s Recommendations</p><p><br></p><p><em>Check out <u><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\">previous Hafta recommendations, references, songs and letters</a>.</u></em></p><p><em>Produced by Amit Pandey with production assistance from Anshu Anand &amp; Sound by Anil Kumar.</em></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6ad30e2265f99a36ebcca927.mp3",
+      "duration": 6758.01,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1792216235867-490b1294-ec57-47db-a13d-dfa581931544.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2026/10/17/hafta-611-delhi-police-crackdown-press-freedom-and-the-right-to-protest",
     "https://www.newslaundry.com/2026/10/10/hafta-610-has-indian-politics-lost-its-sense-of-humour",
     "https://www.newslaundry.com/2026/10/03/hafta-609-is-indias-judiciary-failing-democracy-could-gen-z-revive-student-politics",
     "https://www.newslaundry.com/2026/09/26/hafta-608-ashok-lavasa-on-the-sir-row-and-adanis-insolvency-playbook",
@@ -2946,5 +2990,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2026-10-10T16:20:34.642395"
+  "last_updated": "2026-10-17T14:20:43.255672"
 }

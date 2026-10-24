@@ -2918,9 +2918,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6ad30e2265f99a36ebcca927.mp3",
       "duration": 6758.01,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1792216235867-490b1294-ec57-47db-a13d-dfa581931544.jpeg"
+    },
+    "612": {
+      "episode_id": "6adc49d48b1eeffaa2be91a6",
+      "raw_data": {
+        "shows": {
+          "_id": "6adc49d48b1eeffaa2be91a6",
+          "title": "Hafta 612: Protests in France, a \u2018Desperate Generation\u2019 and Rubio\u2019s Jamnagar Visit",
+          "alias": "hafta-612-protests-in-france-a-desperate-generation-and-rubi",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2026-10-24T06:01:56.801Z",
+          "lastEditedDate": "2026-10-24T06:06:34.253Z",
+          "publishDate": "2026-10-24T06:01:56.603Z",
+          "subtitle": "The podcast where we discuss the week\u2019s news. ",
+          "summary": "<p>This week on Hafta, Manisha Pande, Anand Vardhan and Rinchen Norbu are joined by Rohan Venkat, non-resident managing editor at the University of Pennsylvania\u2019s Center for the Advanced Study of India, and Sidharth Raimedhi, a fellow at the Council for Strategic and Defence Research. </p><p>The discussion begins with the protests that turned violent in several French cities. What began in September as student-led demonstrations against the state of the public education system soon grew into a wider expression of public discontent, driven by the rising cost of living, increasing fuel prices and political paralysis.</p><p>Venkat explains that the violent images circulating on social media did not capture the scale or nature of the wider movement, and cautions against reducing the protests to these incidents.</p><p>\u201cThe bulk of the protests were not the violent images that you saw,\u201d he says, pointing out that hundreds of thousands of people have taken to the streets across France. The violence, he argues, should not obscure the real grievances that brought people out to protest.</p><p>France\u2019s history of popular mobilisation, from the student protests of 1968 to the Yellow Vest movement against fuel-tax increases, also forms an important part of the discussion. But Venkat draws a distinction between the aspirations of earlier generations and the anxieties confronting young people today.</p><p>Manisha Pande highlights a line from a young French protester that captured this desperation: \u201cPeople call us the most daring generation, but we\u2019re actually the most desperate generation.\u201d</p><p>The panel then examines how the French unrest was being portrayed in India, particularly the attempts to draw parallels between the violence in France and the Cockroach Janata Party\u2019s protests in Delhi.</p><p>Manisha questions the narrative that Delhi had been saved from a French-style breakdown through a forceful police response. The CJP protests, she notes, had continued for nearly a month, without arson, looting or widespread damage to public property.</p><p>One of the most striking images from the Delhi demonstrations, she recalls, was \u201cjust streets full of shoes and chappals\u201d left behind when protesters fled during police action.</p><p>Rinchen questions the conspiracy narratives circulating on social media, particularly the suggestion that protests across countries were part of a coordinated effort to destabilise governments. He argues that Indian young people have ample reasons of their own to be frustrated by the state of education and employment prospects at home.</p><p>The conversation then shifts to Rubio\u2019s visit to India, including his meetings in Mumbai and his visit to Reliance Industries\u2019 Jamnagar refinery to discuss the refining of Venezuelan crude oil.</p><p>Sidharth Raimedhi argues that the visit was unusual because it appeared to be driven less by traditional government-to-government diplomacy and more by immediate American commercial and energy requirements. The US, he says, is looking to address domestic energy concerns and strengthen Venezuelan oil production, exports and refining capacity, with Reliance\u2019s Jamnagar refinery playing a potentially important role.</p><p>He suggests that India could use this moment to negotiate better terms in the long-running trade talks with the US, but remains sceptical of the optimism surrounding an imminent agreement.</p><p>All this and more.</p><p><br></p><p><strong><u>Timecodes</u></strong></p><p>00:00:00 \u2013 Introduction</p><p>00:03:03 \u2013 Headlines</p><p>00:12:52 \u2013 France protest</p><p>00:51:49 \u2013 Rubio visit to India </p><p>01:15:58 \u2013Siddharth\u2019s recommendation </p><p>01:19:49 \u2013 Rohan\u2019s recommendation </p><p>01:23:49 \u2013 Letters</p><p>01:55:46 \u2013 Recommendations</p><p><br></p><p><em>Check out <u><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\">previous Hafta recommendations, references, songs and letters</a>.</u></em></p><p><em>Produced by Amit Pandey with production assistance from Anshu Anand &amp; Sound by Anil Kumar.</em></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6adc49d48b1eeffaa2be91a6.mp3",
+          "duration": 7614.21,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1792821548851-9a945835-296d-40b1-9ff8-adc707155d2f.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "6adc49d48b1eeffaa2be91a7"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "6adc49d48b1eeffaa2be91a8"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6adc49d48b1eeffaa2be91a6.mp3"
+        }
+      },
+      "title": "Hafta 612: Protests in France, a \u2018Desperate Generation\u2019 and Rubio\u2019s Jamnagar Visit",
+      "publish_date": "2026-10-24T06:01:56.603Z",
+      "summary": "<p>This week on Hafta, Manisha Pande, Anand Vardhan and Rinchen Norbu are joined by Rohan Venkat, non-resident managing editor at the University of Pennsylvania\u2019s Center for the Advanced Study of India, and Sidharth Raimedhi, a fellow at the Council for Strategic and Defence Research. </p><p>The discussion begins with the protests that turned violent in several French cities. What began in September as student-led demonstrations against the state of the public education system soon grew into a wider expression of public discontent, driven by the rising cost of living, increasing fuel prices and political paralysis.</p><p>Venkat explains that the violent images circulating on social media did not capture the scale or nature of the wider movement, and cautions against reducing the protests to these incidents.</p><p>\u201cThe bulk of the protests were not the violent images that you saw,\u201d he says, pointing out that hundreds of thousands of people have taken to the streets across France. The violence, he argues, should not obscure the real grievances that brought people out to protest.</p><p>France\u2019s history of popular mobilisation, from the student protests of 1968 to the Yellow Vest movement against fuel-tax increases, also forms an important part of the discussion. But Venkat draws a distinction between the aspirations of earlier generations and the anxieties confronting young people today.</p><p>Manisha Pande highlights a line from a young French protester that captured this desperation: \u201cPeople call us the most daring generation, but we\u2019re actually the most desperate generation.\u201d</p><p>The panel then examines how the French unrest was being portrayed in India, particularly the attempts to draw parallels between the violence in France and the Cockroach Janata Party\u2019s protests in Delhi.</p><p>Manisha questions the narrative that Delhi had been saved from a French-style breakdown through a forceful police response. The CJP protests, she notes, had continued for nearly a month, without arson, looting or widespread damage to public property.</p><p>One of the most striking images from the Delhi demonstrations, she recalls, was \u201cjust streets full of shoes and chappals\u201d left behind when protesters fled during police action.</p><p>Rinchen questions the conspiracy narratives circulating on social media, particularly the suggestion that protests across countries were part of a coordinated effort to destabilise governments. He argues that Indian young people have ample reasons of their own to be frustrated by the state of education and employment prospects at home.</p><p>The conversation then shifts to Rubio\u2019s visit to India, including his meetings in Mumbai and his visit to Reliance Industries\u2019 Jamnagar refinery to discuss the refining of Venezuelan crude oil.</p><p>Sidharth Raimedhi argues that the visit was unusual because it appeared to be driven less by traditional government-to-government diplomacy and more by immediate American commercial and energy requirements. The US, he says, is looking to address domestic energy concerns and strengthen Venezuelan oil production, exports and refining capacity, with Reliance\u2019s Jamnagar refinery playing a potentially important role.</p><p>He suggests that India could use this moment to negotiate better terms in the long-running trade talks with the US, but remains sceptical of the optimism surrounding an imminent agreement.</p><p>All this and more.</p><p><br></p><p><strong><u>Timecodes</u></strong></p><p>00:00:00 \u2013 Introduction</p><p>00:03:03 \u2013 Headlines</p><p>00:12:52 \u2013 France protest</p><p>00:51:49 \u2013 Rubio visit to India </p><p>01:15:58 \u2013Siddharth\u2019s recommendation </p><p>01:19:49 \u2013 Rohan\u2019s recommendation </p><p>01:23:49 \u2013 Letters</p><p>01:55:46 \u2013 Recommendations</p><p><br></p><p><em>Check out <u><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\">previous Hafta recommendations, references, songs and letters</a>.</u></em></p><p><em>Produced by Amit Pandey with production assistance from Anshu Anand &amp; Sound by Anil Kumar.</em></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6adc49d48b1eeffaa2be91a6.mp3",
+      "duration": 7614.21,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1792821548851-9a945835-296d-40b1-9ff8-adc707155d2f.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2026/10/24/hafta-612-protests-in-france-a-desperate-generation-and-rubios-jamnagar-visit",
     "https://www.newslaundry.com/2026/10/17/hafta-611-delhi-police-crackdown-press-freedom-and-the-right-to-protest",
     "https://www.newslaundry.com/2026/10/10/hafta-610-has-indian-politics-lost-its-sense-of-humour",
     "https://www.newslaundry.com/2026/10/03/hafta-609-is-indias-judiciary-failing-democracy-could-gen-z-revive-student-politics",
@@ -2990,5 +3034,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2026-10-17T14:20:43.255672"
+  "last_updated": "2026-10-24T14:46:30.289222"
 }

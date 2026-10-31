@@ -2961,9 +2961,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6adc49d48b1eeffaa2be91a6.mp3",
       "duration": 7614.21,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1792821548851-9a945835-296d-40b1-9ff8-adc707155d2f.jpeg"
+    },
+    "613": {
+      "episode_id": "6ae5869bf6b38070e2635a32",
+      "raw_data": {
+        "shows": {
+          "_id": "6ae5869bf6b38070e2635a32",
+          "title": "Hafta 613: DPDP Act, Anti-Dam Protests in Arunachal and Ladakh\u2019s Political Demands",
+          "alias": "hafta-613-dpdp-act-anti-dam-protests-in-arunachal-and-ladakh",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2026-10-31T06:11:39.947Z",
+          "lastEditedDate": "2026-10-31T06:12:10.579Z",
+          "publishDate": "2026-10-31T06:11:39.644Z",
+          "subtitle": "The podcast where we discuss the week\u2019s news. ",
+          "summary": "<p>This week on Hafta, Abhinandan Sekhri, Manisha Pande and Rinchen Norbu are joined by technology policy expert Manasa Venkataraman, Arunachal Times senior editor Tongam Rina and Kargil-based lawyer Mustafa Haji.</p><p>The panel opens with a discussion of the provisions of the Digital Personal Data Protection Act, 2023 and the Digital Personal Data Protection Rules, 2025, and their potential implications for press freedom, investigative journalism and a citizen\u2019s right to information.</p><p>Manisha points to the practical consequences for newsrooms. \u201cFor newsrooms, it&#39;ll be practically impossible to get obtained data, and then once you have it, do we have the legal wherewithal to fight it out?\u201d She adds that the burden could be particularly difficult for smaller organisations, which may end up spending \u201cmore time in court than you do reporting.\u201d</p><p>Rinchen draws attention to the language used in the petition filed by the Digital News Publishers Association, which describes certain provisions as \u201cnakedly unguided\u201d. He argues that the law needs to define public interest clearly.</p><p>Manasa, who has been part of consultations on the legislation, cautions against treating the law as a finished exercise. \u201cThe onus is on the regulation today to be relevant 10 years later,\u201d she says, adding that the DPDP Act still has \u201ca long way to go\u201d to prove that it can remain sustainable as technology evolves. She also warns against \u201clazy, ad hoc bureaucratic fixes\u201d and says the law must retain \u201cthe individual at the centre\u201d.</p><p>The discussion then moves to Arunachal Pradesh, where protests against the proposed 11,200-MW Siang Upper Multipurpose Project (SUMP) on the Siang River have intensified. Tongam Rina joins the podcast for this discussion.</p><p>Explaining the long history of resistance, Tongam says, \u201cThe indigenous protest is more than four decades [old].\u201d She questions the deployment of armed forces against communities opposing the projects. \u201cWhy do you arm and come against people who are saying, \u2018We don\u2019t want hydropower\u2019?\u201d she asks. Her position is clear: \u201cIf you want to protect your rivers and your resources, you&#39;re not a terrorist.\u201d She also points to the risks of building large dams in a seismically fragile region, saying the consequences could extend beyond Arunachal to Assam and Bangladesh.</p><p>The discussion turns to Ladakh\u2019s demand for greater political autonomy. Mustafa Haji says assurances made during discussions with the Centre have since been diluted, with the government now proposing a territorial council instead of a legislative body. \u201cUntil and unless Ladakhi people do not have the power to make laws for themselves, then all these deliberations that we have had for the last six years are meaningless,\u201d he says.</p><p>Rinchen connects the two regions through what he calls \u201ca classic centre-periphery situation\u201d. \u201cUnless shit really blows up, nobody cares,\u201d he says, pointing to the lack of sustained national attention on border regions. He also draws attention to the police response in both places, while Manisha asks why communities that play a crucial role in border security are not being met with respect and meaningful dialogue.</p><p>All this and more.</p><p><br></p><p><strong><u>Timecodes</u></strong></p><p>00:00:00 \u2013 Introduction</p><p>00:06:12 \u2013 Headlines</p><p>00:15:19 \u2013 DPDP Act </p><p>00:45:50 \u2013 Manasa Recommendations</p><p>00:54:43 \u2013Arunachal pradesh and ladakh </p><p>01:18:47 \u2013 Mustafa Recommendation </p><p>01:21:24 \u2013 Tongam\u2019s recommendation</p><p>01:27:24 \u2013 Letters</p><p>01:33:47 \u2013 Recommendations</p><p><br></p><p><em>Check out <u><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\">previous Hafta recommendations, references, songs and letters</a>.</u></em></p><p><em>Produced by Amit Pandey with production assistance from Anshu Anand &amp; Sound by Anil Kumar.</em></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6ae5869bf6b38070e2635a32.mp3",
+          "duration": 6186.552,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1793426816850-7fe2f957-e317-4f6b-97e0-f6efd2856936.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "6ae5869bf6b38070e2635a33"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "6ae5869bf6b38070e2635a34"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6ae5869bf6b38070e2635a32.mp3"
+        }
+      },
+      "title": "Hafta 613: DPDP Act, Anti-Dam Protests in Arunachal and Ladakh\u2019s Political Demands",
+      "publish_date": "2026-10-31T06:11:39.644Z",
+      "summary": "<p>This week on Hafta, Abhinandan Sekhri, Manisha Pande and Rinchen Norbu are joined by technology policy expert Manasa Venkataraman, Arunachal Times senior editor Tongam Rina and Kargil-based lawyer Mustafa Haji.</p><p>The panel opens with a discussion of the provisions of the Digital Personal Data Protection Act, 2023 and the Digital Personal Data Protection Rules, 2025, and their potential implications for press freedom, investigative journalism and a citizen\u2019s right to information.</p><p>Manisha points to the practical consequences for newsrooms. \u201cFor newsrooms, it&#39;ll be practically impossible to get obtained data, and then once you have it, do we have the legal wherewithal to fight it out?\u201d She adds that the burden could be particularly difficult for smaller organisations, which may end up spending \u201cmore time in court than you do reporting.\u201d</p><p>Rinchen draws attention to the language used in the petition filed by the Digital News Publishers Association, which describes certain provisions as \u201cnakedly unguided\u201d. He argues that the law needs to define public interest clearly.</p><p>Manasa, who has been part of consultations on the legislation, cautions against treating the law as a finished exercise. \u201cThe onus is on the regulation today to be relevant 10 years later,\u201d she says, adding that the DPDP Act still has \u201ca long way to go\u201d to prove that it can remain sustainable as technology evolves. She also warns against \u201clazy, ad hoc bureaucratic fixes\u201d and says the law must retain \u201cthe individual at the centre\u201d.</p><p>The discussion then moves to Arunachal Pradesh, where protests against the proposed 11,200-MW Siang Upper Multipurpose Project (SUMP) on the Siang River have intensified. Tongam Rina joins the podcast for this discussion.</p><p>Explaining the long history of resistance, Tongam says, \u201cThe indigenous protest is more than four decades [old].\u201d She questions the deployment of armed forces against communities opposing the projects. \u201cWhy do you arm and come against people who are saying, \u2018We don\u2019t want hydropower\u2019?\u201d she asks. Her position is clear: \u201cIf you want to protect your rivers and your resources, you&#39;re not a terrorist.\u201d She also points to the risks of building large dams in a seismically fragile region, saying the consequences could extend beyond Arunachal to Assam and Bangladesh.</p><p>The discussion turns to Ladakh\u2019s demand for greater political autonomy. Mustafa Haji says assurances made during discussions with the Centre have since been diluted, with the government now proposing a territorial council instead of a legislative body. \u201cUntil and unless Ladakhi people do not have the power to make laws for themselves, then all these deliberations that we have had for the last six years are meaningless,\u201d he says.</p><p>Rinchen connects the two regions through what he calls \u201ca classic centre-periphery situation\u201d. \u201cUnless shit really blows up, nobody cares,\u201d he says, pointing to the lack of sustained national attention on border regions. He also draws attention to the police response in both places, while Manisha asks why communities that play a crucial role in border security are not being met with respect and meaningful dialogue.</p><p>All this and more.</p><p><br></p><p><strong><u>Timecodes</u></strong></p><p>00:00:00 \u2013 Introduction</p><p>00:06:12 \u2013 Headlines</p><p>00:15:19 \u2013 DPDP Act </p><p>00:45:50 \u2013 Manasa Recommendations</p><p>00:54:43 \u2013Arunachal pradesh and ladakh </p><p>01:18:47 \u2013 Mustafa Recommendation </p><p>01:21:24 \u2013 Tongam\u2019s recommendation</p><p>01:27:24 \u2013 Letters</p><p>01:33:47 \u2013 Recommendations</p><p><br></p><p><em>Check out <u><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\">previous Hafta recommendations, references, songs and letters</a>.</u></em></p><p><em>Produced by Amit Pandey with production assistance from Anshu Anand &amp; Sound by Anil Kumar.</em></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6ae5869bf6b38070e2635a32.mp3",
+      "duration": 6186.552,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1793426816850-7fe2f957-e317-4f6b-97e0-f6efd2856936.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2026/10/31/hafta-613-dpdp-act-anti-dam-protests-in-arunachal-and-ladakhs-political-demands",
     "https://www.newslaundry.com/2026/10/24/hafta-612-protests-in-france-a-desperate-generation-and-rubios-jamnagar-visit",
     "https://www.newslaundry.com/2026/10/17/hafta-611-delhi-police-crackdown-press-freedom-and-the-right-to-protest",
     "https://www.newslaundry.com/2026/10/10/hafta-610-has-indian-politics-lost-its-sense-of-humour",
@@ -3034,5 +3078,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2026-10-24T14:46:30.289222"
+  "last_updated": "2026-10-31T16:15:40.571881"
 }

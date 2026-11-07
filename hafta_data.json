@@ -3004,9 +3004,53 @@
       "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6ae5869bf6b38070e2635a32.mp3",
       "duration": 6186.552,
       "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1793426816850-7fe2f957-e317-4f6b-97e0-f6efd2856936.jpeg"
+    },
+    "614": {
+      "episode_id": "6aeeb814a942810f4c535cbb",
+      "raw_data": {
+        "shows": {
+          "_id": "6aeeb814a942810f4c535cbb",
+          "title": "Hafta 614: India\u2019s Poverty Numbers and the US Midterm Verdict",
+          "alias": "hafta-614-indias-poverty-numbers-and-the-us-midterm-verdict",
+          "show": "5ec3d9497cef7479d2ef4798",
+          "owner": "5eb18ba680fdabc00cafb3e3",
+          "creationDate": "2026-11-07T05:33:08.282Z",
+          "lastEditedDate": "2026-11-07T05:38:33.397Z",
+          "publishDate": "2026-11-07T05:33:08.104Z",
+          "subtitle": "The podcast where we discuss the week\u2019s news. ",
+          "summary": "<p>This week on NL Hafta, Abhinandan Sekhri, Manisha Pande, Anand Vardhan and Raman Kirpal discuss India\u2019s latest poverty estimates and the US midterm elections. </p><p>They are joined by Nitin Bharti, assistant professor at the University of Western Australia and South and Southeast Asia coordinator at the World Inequality Lab, and Joyojeet Pal, professor at the University of Michigan\u2019s School of Information, whose research focuses on technology, democracy and politics.</p><p>The discussion begins with the World Bank\u2019s latest Poverty and Equity Brief, which says India&#39;s extreme poverty declined from 27.1 percent to 2.6 percent between 2011 and 2023.</p><p>Nitin explains, \u201cIf the consumption of one person per day is about, let&#39;s say, 106 rupees or so, and if you consume more than that, you are above the moderate poverty line.\u201d That works out to around Rs 3,200 a month, while the extreme poverty threshold is only around Rs 2,200.</p><p>He also points to the 233 million people who remain below the Rs 3,000-a-month threshold.</p><p>\u201cThe headline figure should have been that, yes, there has been some achievement, but you still have 233 million people who are consuming less than Rs 3,000 a month,\u201d says Nitin.</p><p>Raman Kirpal brings the conversation to the political use of poverty and welfare. Recalling an old Ministry of Finance study, he says one person had benefited from 27 different poverty-alleviation schemes and was still poor. \u201cPoverty has served as a political tool also,\u201d Raman says. \u201cPoliticians use it very often.\u201d</p><p>The second half of the episode turns to the midterm elections in the United States, where Democrats won control of both chambers of the US Congress. Joyojeet joins the panel to discuss what the result means for Donald Trump, MAGA and the wider American right.</p><p>Joyojeet sees the result as a major setback for Trump\u2019s movement, but not for conservatism itself. \u201cThis could be the end of the MAGA movement,\u201d he says. \u201cAbsolutely not the end of the conservative movement.\u201d</p><p>He points to the cost of living as one of the issues that hurt Trump with his own base, arguing that voters increasingly felt the impact of his policies in their everyday lives.</p><p>\u201cThe price of gas is clearly one that hurts his MAGA base,\u201d Joyojeet says.</p><p>The discussion also looks at the growing backlash against Big Tech, data centres and corporate influence in American politics. Joyojeet argues that voters are increasingly uncomfortable with the power technology companies exercise over their lives. \u201cPeople have realised there\u2019s ways in which tech is kind of taking over their lives,\u201d he says.</p><p>He points to Abdul El-Sayed\u2019s Senate campaign in Michigan, which made AI regulation a central political issue. Joyojeet says El-Sayed was unusual among politicians in treating AI as a defining political question rather than simply another technology story.</p><p>\u201cAI is the main issue going ahead,\u201d Joyojeet recalls him arguing, alongside a call for much stronger government regulation of the technology.</p><p>All this and more.</p><p><br></p><p><strong><u>Timecodes</u></strong></p><p>00:00:00 \u2013 Introduction</p><p>00:03:15 \u2013 Headlines</p><p>00:11:34 \u2013 Poverty &amp; Inequality in India</p><p>00:47:12 \u2013 Nitin\u2019s Recommendations</p><p>00:58:35 \u2013 US Midterm</p><p>01:35:47 \u2013 Joyojeet\u2019s Recommendation </p><p>01:37:25 \u2013 Letters</p><p>01:44:36 \u2013 Recommendations</p><p><br></p><p><em>Check out <u><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\">previous Hafta recommendations, references, songs and letters</a>.</u></em></p><p><em>Produced by Amit Pandey with production assistance from Anshu Anand &amp; Sound by Naresh.</em></p>",
+          "type": "full",
+          "explicit": false,
+          "audio": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6aeeb814a942810f4c535cbb.mp3",
+          "duration": 6939.76,
+          "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1794029518396-7b41b996-755c-452f-976c-0cbb4e67a849.jpeg",
+          "status": "draft",
+          "markers": [
+            {
+              "start": 0,
+              "placement": "preroll",
+              "_id": "6aeeb814a942810f4c535cbc"
+            },
+            {
+              "start": 9999,
+              "placement": "postroll",
+              "_id": "6aeeb814a942810f4c535cbd"
+            }
+          ],
+          "publishSequence": [],
+          "streamUrl": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6aeeb814a942810f4c535cbb.mp3"
+        }
+      },
+      "title": "Hafta 614: India\u2019s Poverty Numbers and the US Midterm Verdict",
+      "publish_date": "2026-11-07T05:33:08.104Z",
+      "summary": "<p>This week on NL Hafta, Abhinandan Sekhri, Manisha Pande, Anand Vardhan and Raman Kirpal discuss India\u2019s latest poverty estimates and the US midterm elections. </p><p>They are joined by Nitin Bharti, assistant professor at the University of Western Australia and South and Southeast Asia coordinator at the World Inequality Lab, and Joyojeet Pal, professor at the University of Michigan\u2019s School of Information, whose research focuses on technology, democracy and politics.</p><p>The discussion begins with the World Bank\u2019s latest Poverty and Equity Brief, which says India&#39;s extreme poverty declined from 27.1 percent to 2.6 percent between 2011 and 2023.</p><p>Nitin explains, \u201cIf the consumption of one person per day is about, let&#39;s say, 106 rupees or so, and if you consume more than that, you are above the moderate poverty line.\u201d That works out to around Rs 3,200 a month, while the extreme poverty threshold is only around Rs 2,200.</p><p>He also points to the 233 million people who remain below the Rs 3,000-a-month threshold.</p><p>\u201cThe headline figure should have been that, yes, there has been some achievement, but you still have 233 million people who are consuming less than Rs 3,000 a month,\u201d says Nitin.</p><p>Raman Kirpal brings the conversation to the political use of poverty and welfare. Recalling an old Ministry of Finance study, he says one person had benefited from 27 different poverty-alleviation schemes and was still poor. \u201cPoverty has served as a political tool also,\u201d Raman says. \u201cPoliticians use it very often.\u201d</p><p>The second half of the episode turns to the midterm elections in the United States, where Democrats won control of both chambers of the US Congress. Joyojeet joins the panel to discuss what the result means for Donald Trump, MAGA and the wider American right.</p><p>Joyojeet sees the result as a major setback for Trump\u2019s movement, but not for conservatism itself. \u201cThis could be the end of the MAGA movement,\u201d he says. \u201cAbsolutely not the end of the conservative movement.\u201d</p><p>He points to the cost of living as one of the issues that hurt Trump with his own base, arguing that voters increasingly felt the impact of his policies in their everyday lives.</p><p>\u201cThe price of gas is clearly one that hurts his MAGA base,\u201d Joyojeet says.</p><p>The discussion also looks at the growing backlash against Big Tech, data centres and corporate influence in American politics. Joyojeet argues that voters are increasingly uncomfortable with the power technology companies exercise over their lives. \u201cPeople have realised there\u2019s ways in which tech is kind of taking over their lives,\u201d he says.</p><p>He points to Abdul El-Sayed\u2019s Senate campaign in Michigan, which made AI regulation a central political issue. Joyojeet says El-Sayed was unusual among politicians in treating AI as a defining political question rather than simply another technology story.</p><p>\u201cAI is the main issue going ahead,\u201d Joyojeet recalls him arguing, alongside a call for much stronger government regulation of the technology.</p><p>All this and more.</p><p><br></p><p><strong><u>Timecodes</u></strong></p><p>00:00:00 \u2013 Introduction</p><p>00:03:15 \u2013 Headlines</p><p>00:11:34 \u2013 Poverty &amp; Inequality in India</p><p>00:47:12 \u2013 Nitin\u2019s Recommendations</p><p>00:58:35 \u2013 US Midterm</p><p>01:35:47 \u2013 Joyojeet\u2019s Recommendation </p><p>01:37:25 \u2013 Letters</p><p>01:44:36 \u2013 Recommendations</p><p><br></p><p><em>Check out <u><a href=\"https://docs.google.com/spreadsheets/d/1VCmV6yr5t1LHE77Xp5-cYhWrQSkhW3A8nix310MvRQU/edit?usp=sharing\" rel=\"noopener noreferrer\" target=\"_blank\">previous Hafta recommendations, references, songs and letters</a>.</u></em></p><p><em>Produced by Amit Pandey with production assistance from Anshu Anand &amp; Sound by Naresh.</em></p>",
+      "stream_url": "https://feeds.acast.com/public/streams/5ec3d9497cef7479d2ef4798/episodes/6aeeb814a942810f4c535cbb.mp3",
+      "duration": 6939.76,
+      "cover": "https://assets.pippa.io/shows/5ec3d9497cef7479d2ef4798/1794029518396-7b41b996-755c-452f-976c-0cbb4e67a849.jpeg"
     }
   },
   "links": [
+    "https://www.newslaundry.com/2026/11/07/hafta-614-indias-poverty-numbers-and-the-us-midterm-verdict-2",
     "https://www.newslaundry.com/2026/10/31/hafta-613-dpdp-act-anti-dam-protests-in-arunachal-and-ladakhs-political-demands",
     "https://www.newslaundry.com/2026/10/24/hafta-612-protests-in-france-a-desperate-generation-and-rubios-jamnagar-visit",
     "https://www.newslaundry.com/2026/10/17/hafta-611-delhi-police-crackdown-press-freedom-and-the-right-to-protest",
@@ -3078,5 +3122,5 @@
     "https://www.newslaundry.com/2025/06/28/hafta-543-50-years-of-emergency-voter-additions-in-maharashtra-karnatakas-new-bills",
     "https://www.newslaundry.com/2025/06/14/hafta-541-air-india-crash-manipur-violence-covering-crime-stories"
   ],
-  "last_updated": "2026-10-31T16:15:40.571881"
+  "last_updated": "2026-11-07T16:58:09.907036"
 }
